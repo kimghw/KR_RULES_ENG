@@ -1,0 +1,70 @@
+# Rules for the Classification of Dredgers
+
+> OTHER RULES AND GUIDANCE / RB-04-E / 2025 / EN
+
+- [[R] CHAPTER 1 GENERAL](01_R_CHAPTER 1 GENERAL.md)
+  - Section 1 General
+  - Section 2 Classification
+  - Section 3 Definitions
+- [[R] CHAPTER 2 REGISTRATION AND CLASSIFICATION SURVEYS](02_R_CHAPTER 2 REGISTRATION AND CLASSIFICATION SURVEYS.md)
+  - Section 1 General
+  - Section 2 Classification Survey During Construction
+  - Section 3 Periodical Survey
+- [[R] CHAPTER 3 LONGITUDINAL STRENGTH](03_R_CHAPTER 3 LONGITUDINAL STRENGTH.md)
+  - Section 1 Longitudinal Strength
+- [[R] CHAPTER 4 SHELL PLATING AND DECKS](04_R_CHAPTER 4 SHELL PLATING AND DECKS.md)
+  - Section 1 Shell Plating
+  - Section 2 Decks
+- [[R] CHAPTER 5 INTERNAL FRAMES](05_R_CHAPTER 5 INTERNAL FRAMES.md)
+  - Section 1 Transverse Framing System
+  - Section 2 Longitudinal Framing System
+- [[R] CHAPTER 6 PILLARS AND TRUSSES](06_R_CHAPTER 6 PILLARS AND TRUSSES.md)
+  - Section 1 General
+  - Section 2 Scantling of Pillars
+  - Section 3 Trusses
+- [[R] CHAPTER 7 WATERTIGHT BULKHEADS AND DEEP TANK](07_R_CHAPTER 7 WATERTIGHT BULKHEADS AND DEEP TANK.md)
+  - Section 1 Arrangement of Watertight Bulkheads
+  - Section 2 Construction of Watertight Bulkheads
+  - Section 3 Deep Tank Construction
+  - Section 4 Fittings of Deep Tanks
+- [[R] CHAPTER 8 SUPERSTRUCTURE AND DECK HOUSE](08_R_CHAPTER 8 SUPERSTRUCTURE AND DECK HOUSE.md)
+  - Section 1 General
+  - Section 2 Superstructure End Bulkheads
+  - Section 3 Access Opening in Superstructure End Bulkheads
+  - Section 4 Deck House Construction
+- [[R] CHAPTER 9 HATCHWAYS, DECK OPENINGS AND OTHER EQUIPMENT](09_R_CHAPTER 9 HATCHWAYS, DECK OPENINGS AND OTHER EQUIPMENT.md)
+  - Section 1 General
+  - Section 2 Hatchways
+  - Section 3 Companionway and Other Deck Openings
+  - Section 4 Bulwarks and Guardrails
+  - Section 5 Freeing Ports
+  - Section 6 Ventilators
+  - Section 7 Companion Way
+- [[R] CHAPTER 10 HOPPER TYPE DREDGERS](10_R_CHAPTER 10 HOPPER TYPE DREDGERS.md)
+  - Section 1 General
+  - Section 2 Construction and Arrangement
+  - Section 3 Longitudinal Strength
+  - Section 4 Shell Plating and Deck
+  - Section 5 Transverse Framing System
+  - Section 6 Longitudinal Framing System
+  - Section 7 Transverse Ring
+  - Section 8 Hopper Well Structure
+- [[R] CHAPTER 11 EQUIPMENT](11_R_CHAPTER 11 EQUIPMENT.md)
+  - Section 1 Anchor, Chain and Rope
+- [[R] CHAPTER 12 DREDGER REGISTERED WITH RESTRICTED SERVICES](12_R_CHAPTER 12 DREDGER REGISTERED WITH RESTRICTED SERVICES.md)
+  - Section 1 General
+  - Section 2 Vessel Registered with Coastal Service
+  - Section 3 Dredger Registered with Smooth Water Service
+- [[R] CHAPTER 13 MACHINERY OF DREDGERS](13_R_CHAPTER 13 MACHINERY OF DREDGERS.md)
+  - Section 1 Machinery and Dredging Equipment of Non Self-propelled dredgers
+  - Section 2 Machinery Installations of Self-propelled dredgers
+- [[R] Annex 1 Guidance for the Assignment of Reduced Freeboards for Dredgers](14_R_Annex 1 Guidance for the Assignment of Reduced Freeboards for Dredgers.md)
+  - 1. General
+  - 2. Load Line Marks
+  - 3. Freeboard
+  - 4. Specific Load Line Provisions
+  - 6. Stability
+  - 7. Equipment
+  - 8. Information to the Master
+  - 9. Equivalents
+  - 10. Special considerations for unmanned or non-self propelled1) units similar to dredgers

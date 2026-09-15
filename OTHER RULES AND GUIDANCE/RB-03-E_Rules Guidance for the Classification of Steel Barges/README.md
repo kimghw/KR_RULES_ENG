@@ -1,0 +1,162 @@
+# Rules/Guidance for the Classification of Steel Barges
+
+> OTHER RULES AND GUIDANCE / RB-03-E / 2025 / EN
+
+- [[R] CHAPTER 1 GENERAL](01_R_CHAPTER 1 GENERAL.md)
+  - Section 1 Definitions
+  - Section 2 General
+  - Section 3 Materials, Welding and Construction
+- [[R] CHAPTER 2 CLASSIFICATION SURVEYS](02_R_CHAPTER 2 CLASSIFICATION SURVEYS.md)
+  - Section 1 General
+  - Section 2 Classification Survey during Construction
+  - Section 3 Periodical Surveys
+- [[R] CHAPTER 3 STEMS](03_R_CHAPTER 3 STEMS.md)
+  - Section 1 Stems
+- [[R] CHAPTER 4 LONGITUDINAL STRENGTH](04_R_CHAPTER 4 LONGITUDINAL STRENGTH.md)
+  - Section 1 General
+  - Section 2 Bending Strength
+- [[R] CHAPTER 5 PLATE KEELS AND SHELL PLATINGS](05_R_CHAPTER 5 PLATE KEELS AND SHELL PLATINGS.md)
+  - Section 1 General
+  - Section 2 Plate Keels
+  - Section 3 Shell Plating for Midship Part of Barge
+  - Section 4 Shell Plating for End Parts
+  - Section 5 Side Plating in way of Superstructure
+  - Section 6 Local Compensation of Shell Plating
+- [[R] CHAPTER 6 DECKS](06_R_CHAPTER 6 DECKS.md)
+  - Section 1 General
+  - Section 2 Effective Sectional Area of Strength Deck
+  - Section 3 Deck Plating
+- [[R] CHAPTER 7 SINGLE BOTTOMS](07_R_CHAPTER 7 SINGLE BOTTOMS.md)
+  - Section 1 General
+  - Section 2 Centre Keelsons
+  - Section 3 Side Keelsons
+  - Section 4 Floor Plates
+  - Section 5 Longitudinals
+  - Section 6 Strengthened Bottom Forward
+- [[R] CHAPTER 8 DOUBLE BOTTOMS](08_R_CHAPTER 8 DOUBLE BOTTOMS.md)
+  - Section 1 General
+  - Section 2 Centre Girders
+  - Section 3 Side Girders
+  - Section 4 Solid Floors
+  - Section 5 Longitudinals
+  - Section 6 Inner Bottom Plating and Margin Plates
+  - Section 7 Frame End Brackets
+  - Section 8 Open Floors
+  - Section 9 Construction of Strengthened Bottom Forward
+- [[R] CHAPTER 9 FRAMES](09_R_CHAPTER 9 FRAMES.md)
+  - Section 1 General
+  - Section 2 Frame Spacing
+  - Section 3 Transverse Hold Frames
+  - Section 4 Side Longitudinals
+  - Section 5 Superstructure Frames
+  - Section 6 Frames in Both Peaks
+- [[R] CHAPTER 10 BEAMS](10_R_CHAPTER 10 BEAMS.md)
+  - Section 1 General
+  - Section 2 Deck Load
+  - Section 3 Longitudinal Beams
+  - Section 4 Transverse Beams
+  - Section 5 Beams on Bulkhead Recess and Others
+  - Section 6 Beams on the Top of Deep Tanks
+  - Section 7 Deck Beams Supporting Specially Heavy Loads
+- [[R] CHAPTER 11 DECK GIRDERS](11_R_CHAPTER 11 DECK GIRDERS.md)
+  - Section 1 General
+  - Section 2 Longitudinal Deck Girders
+  - Section 3 Transverse Deck Girders
+  - Section 4 Deck Girders in Tanks
+  - Section 5 Hatch Side Girders
+  - Section 6 Hatch End Girders
+- [[R] CHAPTER 12 PILLARS AND TRUSSES](12_R_CHAPTER 12 PILLARS AND TRUSSES.md)
+  - Section 1 General
+  - Section 2 Scantling of Pillars
+  - Section 3 Trusses
+- [[R] CHAPTER 13 PEAK CONSTRUCTION](13_R_CHAPTER 13 PEAK CONSTRUCTION.md)
+  - Section 1 General
+  - Section 2 Arrangements of Construction Forward of the Collision Bulkhead
+  - Section 3 Arrangements of Construction Abaft After Peak Bulkhead
+- [[R] CHAPTER 14 WATERTIGHT BULKHEADS](14_R_CHAPTER 14 WATERTIGHT BULKHEADS.md)
+  - Section 1 Arrangement
+  - Section 2 Construction
+- [[R] CHAPTER 15 DEEP TANKS](15_R_CHAPTER 15 DEEP TANKS.md)
+  - Section 1 General
+  - Section 2 Bulkheads of Deep Tanks
+  - Section 3 Fittings of Deep Tanks
+- [[R] CHAPTER 16 SUPERSTRUCTURE AND DECKHOUSE](16_R_CHAPTER 16 SUPERSTRUCTURE AND DECKHOUSE.md)
+  - Section 1 General
+  - Section 2 Construction and Scantlings
+  - Section 3 Access Openings in Superstructure End Bulkheads
+- [[R] CHAPTER 17 HATCHWAYS AND OTHER DECK OPENINGS](17_R_CHAPTER 17 HATCHWAYS AND OTHER DECK OPENINGS.md)
+  - Section 1 General
+  - Section 2 Hatchways
+  - Section 3 Hatch Covers
+  - Section 4 Companion-ways and Other Deck Openings
+- [[R] CHAPTER 18 BULWARKS, FREEING PORTS, VENTILATORS AND PERMANENT GANGWAYS](18_R_CHAPTER 18 BULWARKS, FREEING PORTS, VENTILATORS AND PERMANENT GANGWAYS.md)
+  - Section 1 General
+  - Section 2 Bulwarks and Guardrails
+  - Section 3 Freeing Ports
+  - Section 4 Ventilators
+  - Section 5 Permanent Gangways
+- [[R] CHAPTER 19 EQUIPMENT NUMBER AND EQUIPMENT](19_R_CHAPTER 19 EQUIPMENT NUMBER AND EQUIPMENT.md)
+  - Section 1 General
+  - Section 2 Equipment Number
+- [[R] CHAPTER 20 MACHlNERY](20_R_CHAPTER 20 MACHlNERY.md)
+  - Section 1 General
+  - Section 2 Internal Combustion Engines
+  - Section 3 Boiler and Pressure Vessels
+  - Section 4 Auxiliaries and Piping Arrangement
+  - Section 5 General Requirements of Electrical Equipment
+  - Section 6 Earthing
+  - Section 7 Protective Devices of Electrical Equipment
+  - Section 8 Source of Electrical Power
+  - Section 9 Cables
+  - Section 10 Distribution
+  - Section 11 Control Gears
+  - Section 12 Explosion-Protected Electrical Equipment
+  - Section 13 Emergency Stopping Device
+  - Section 14 Machinery and Electrical Equipment of Tank Barges
+  - Section 15 Spare Parts
+  - Section 16 Tests
+- [[R] CHAPTER 21 PONTOON BARGES](21_R_CHAPTER 21 PONTOON BARGES.md)
+  - Section 1 General
+  - Section 2 Construction
+  - Section 3 Peak Construction
+- [[R] CHAPTER 22 TANK BARGES](22_R_CHAPTER 22 TANK BARGES.md)
+  - Section 1 General
+  - Section 2 Structural Members in Cargo Oil Spaces
+- [[R] CHAPTER 23 BARGES INTENDED TO BE CLASSIFIED AS RESTRICTED SERVICES](23_R_CHAPTER 23 BARGES INTENDED TO BE CLASSIFIED AS RESTRICTED SERVICES.md)
+  - Section 1 General
+  - Section 2 Barges Intended to be classified as Coastal Service
+  - Section 3 Barges Intended to be classified as Smooth Water Service
+- [[G] CHAPTER 1 GENERAL](24_G_CHAPTER 1 GENERAL.md)
+  - Section 1 Definitions
+  - Section 2 General
+- [[G] CHAPTER 4 LONGITUDINAL STRENGTH](25_G_CHAPTER 4 LONGITUDINAL STRENGTH.md)
+  - Section 1 General
+- [[G] CHAPTER 5 SHELL PLATING](26_G_CHAPTER 5 SHELL PLATING.md)
+  - Section 4 Shell Plating for End Parts
+  - Section 6 Local Compensation of Shell Plating
+- [[G] CHAPTER 10 BEAMS](27_G_CHAPTER 10 BEAMS.md)
+  - Section 2 Deck Load
+- [[G] CHAPTER 14 WATERTIGHT BULKHEADS](28_G_CHAPTER 14 WATERTIGHT BULKHEADS.md)
+  - Section 1 Arrangement
+- [[G] CHAPTER 18 BULWARKS, FREEING PORTS, VENTILATORS AND PERMANENT GANGWAYS](29_G_CHAPTER 18 BULWARKS, FREEING PORTS, VENTILATORS AND PERMANENT GANGWAYS.md)
+  - Section 2 Bulwarks and Guardrails
+  - Section 3 Freeing Ports (2019)
+- [[G] CHAPTER 20 MACHINERY](30_G_CHAPTER 20 MACHINERY.md)
+  - Section 2 Internal Combustion Engines
+  - Section 4 Auxiliaries and Piping Arrangement
+  - Section 5 General Requirements of Electrical Equipment
+  - Section 6 Earthing
+  - Section 7 Protective Devices of Electrical Equipment
+  - Section 8 Source of Electrical Power
+  - Section 9 Cables
+  - Section 11 Control Gears
+  - Section 16 Tests
+- [[G] CHAPTER 23 BARGES INTENDED TO BE CLASSIFIED AS RESTRICTED SERVICES](31_G_CHAPTER 23 BARGES INTENDED TO BE CLASSIFIED AS RESTRICTED SERVICES.md)
+  - Section 2 Barges Intended to be classified as Coastal Service
+  - Section 3 Barges Intended to be classified as Smooth Water Service
+- [[G] ANNEX 1 SPECIAL REQUIREMENTS FOR PUSHER-BARGES](32_G_ANNEX 1 SPECIAL REQUIREMENTS FOR PUSHER-BARGES.md)
+  - 1. Application
+  - 2. Definition
+  - 3. Longitudinal strength
+  - 4. Calculation of scantlings
+  - 7. Connection structure of pusher-barge

@@ -1,0 +1,128 @@
+# PART 1 Classification and Surveys
+
+> RULES FOR CLASSIFICATION OF STEEL SHIPS / RA-01-E / 2025 / EN
+
+- [[R] CHAPTER 1 CLASSIFICATION](01_R_CHAPTER 1 CLASSIFICATION.md)
+  - Section 1 General
+  - Section 2 Class Notations
+  - Section 3 Classification Survey during Construction (2022)
+  - Section 4 Classification Survey after Construction
+  - Section 5 Certificates and Reports
+  - Section 6 Application for Survey
+  - Section 7 Responsibilities and Cooperation Duties of the Owners
+  - Section 8 Competence, and Duties of Surveyors and Responsibility and Scope of Classification (2021)
+  - Section 9 Suspension/Withdrawal of Class and Reclassification
+  - Section 10 Fees
+  - Section 11 Appeal on Disagreement
+  - Section 12 Related Regulations, Conventions, etc. and Surveys (2022)
+  - Section 13 Classification of Other Installations or Equipment
+  - Section 14 External Audit
+  - Section 15 Miscellaneous
+- [[R] CHAPTER 2 PERIODICAL AND OTHER SURVEYS](02_R_CHAPTER 2 PERIODICAL AND OTHER SURVEYS.md)
+  - Section 1 General
+  - Section 2 Annual Survey
+  - Section 3 Intermediate Survey
+  - Section 4 Special Survey(Hull, Equipment and Fire-extinguishing Appliances)
+  - Section 5-1 Special Survey(Machinery, Electrical Installations and Additional Installations)
+  - Section 6 Docking Survey
+  - Section 7 Surveys of Propeller Shaft and Stern Tube Shaft, Etc.
+  - Section 8 Boiler Survey
+  - Section 9 Continuous Survey of Machinery
+  - Section 10 Occasional Survey
+  - Section 11 Remote Survey (2019)
+  - Section 12 Alteration Survey
+  - Section 13 Survey of Ships Carrying Dangerous Goods and Other Special Cargoes
+  - Section 14 Additional Installations Survey
+  - Section 15 Hull Surveys for General Dry Cargo Ships
+  - Section 16 Hull Surveys for Liquefied Gas Carriers
+  - Section 17 Survey Requirements for Shell and Inner Doors, Etc. of RoRo Ships
+  - Section 18 Additional Requirements
+  - Section 19 Special Requirements for Ships Subject toKorean Ship Safety Act or Fishing Vessels Act
+- [[R] CHAPTER 3 HULL SURVEYS OF SHIPS SUBJECT TOTHE ENHANCED SURVEY PROGRAMME](03_R_CHAPTER 3 HULL SURVEYS OF SHIPS SUBJECT TOTHE ENHANCED SURVEY PROGRAMM.md)
+  - Section 1 General
+  - Section 2 Bulk Carriers
+  - Section 3 Oil Tankers
+  - Section 4 Chemical Tankers
+  - Section 5 Double Hull Oil Tankers
+  - Section 6 Double Skin Bulk Carriers
+- [[G] CHAPTER 1 CLASSIFICATION](04_G_CHAPTER 1 CLASSIFICATION.md)
+  - Section 2 Class Notations
+  - Section 3 Classification Survey during Construction (2023)
+  - Section 4 Classification Survey after Construction (2023)
+  - Section 8 Competence and Duties of Surveyors
+- [[G] CHAPTER 2 PERIODICAL AND OTHER SURVEYS (2023)](05_G_CHAPTER 2 PERIODICAL AND OTHER SURVEYS (2023).md)
+  - Section 2 Annual Survey
+  - Section 3 Intermediate Survey (2023)
+  - Section 4 Special Survey (Hull, Equipment and Fire-extinguishing Appliances)
+  - Section 5-1 Special Survey(Machinery, Electrical Installations and Additional Installations)
+  - Section 6 Docking Survey
+  - Section 7 Surveys of Propeller Shaft and Stern Tube Shaft, Etc.
+  - Section 8 Boiler Survey
+  - Section 9 Continuous Survey of Machinery
+  - Section 10 Occasional Survey
+  - Section 19 Special Requirements for Ships Subject toKorean Ship Safety Act or Fishing Vessels Act
+- [[G] CHAPTER 3 HULL SURVEYS OF SHIPS SUBJECT TO THE ENHANCED SURVEY PROGRAMME](06_G_CHAPTER 3 HULL SURVEYS OF SHIPS SUBJECT TO THE ENHANCED SURVEY PROGRAM.md)
+  - Section 2 Bulk Carriers
+  - Section 3 Oil Tankers
+- [[G] Annex 1-1 Class Notations](07_G_Annex 1-1 Class Notations.md)
+  - 1. Class Notations
+- [[G] Annex 1-5 Thickness Measurement Method for Hull Structural Members (2024)](08_G_Annex 1-5 Thickness Measurement Method for Hull Structural Members (20.md)
+  - 1. General
+  - 2. Wear Limit
+  - 3. Location of Thickness Measurement
+  - 5. Sampling method of thickness measurements for longitudinal strength evaluation and repair methods for oil tankers or double hull oil tankers subject to the enhanced survey programme
+- [[G] Annex 1-6 Areas of Close-up Survey, etc.](09_G_Annex 1-6 Areas of Close-up Survey, etc.md)
+  - 1. Guidance for areas of Close-up Survey for General Dry Cargo Ships, Bulk Carriers, Oil Tankers, Chemical Tankers, Double Hul Oil Tankers and Double Skin Bulk Carriers specified in Table 1.2.8, Table 1.3.1, Table 1.3.4, Table 1.3.7, Table 1.3.10 and Table 1.3.13 of the Rules are indicated on the diagrams as follows.
+- [[G] Annex 1-7 Continuous Machinery Survey Procedure(CMS)](10_G_Annex 1-7 Continuous Machinery Survey Procedure(CMS).md)
+  - 1. Application of CMS (2025)
+  - 2. Confirmatory Survey for CMS inspected by the Chief Engineer
+  - 3. Unification of names and numbers for CMS items
+- [[G] Annex 1-8 Planned Maintenance System Procedure(PMS)](11_G_Annex 1-8 Planned Maintenance System Procedure(PMS).md)
+  - 1. General
+  - 2. Chief Engineer's responsibility of PMS.
+  - 3. PMS Software type approval
+  - 4. Condition Monitoring(CM) and Condition Based Maintenance(CBM) (2019)
+- [[G] Annex 1-9 Guidance for Survey of Waterjet Propulsion Systems and Azimuth or Rotatable Thruster](12_G_Annex 1-9 Guidance for Survey of Waterjet Propulsion Systems and Azimu.md)
+  - 1. The surveys for waterjet propulsion systems and azimuth or rotatable thruster are to comply with the following requirements.
+- [[G] Annex 1-10 Loading Instrument on Stability](13_G_Annex 1-10 Loading Instrument on Stability.md)
+  - 1. Application
+  - 2. Approval procedure (2017)
+  - 3. Computer Software for Onboard Stability Calculations (2021)
+- [[G] Annex 1-12 Hull Survey for Classification Survey during Construction](14_G_Annex 1-12 Hull Survey for Classification Survey during Construction.md)
+  - 1. Scope
+  - 2. Definitions
+  - 3. Applications
+  - 4. Qualification and monitoring of personnel
+  - 5. Survey of the hull structure
+  - 6. Review of the construction facility
+  - 7. Newbuilding survey planning
+  - 8. Examination and test plan for newbuilding activities
+  - 9. Proof of the consistency of surveys
+  - 10. Ship Construction File
+  - Appendix 1-12-1 Shipyard Review Record
+  - Appendix 1-12-2 Requirements for Tankers and Bulk Carriers subject to SOLAS Ch II-1 Pt A-1 Reg.3-10(Goal-based ship construction standards for bulk carriers and oil tankers)
+  - Appendix 1-12-3 Ship Construction File Form Example
+  - Appendix 1-12-4 Representative critical areas by ship type (2018)}
+- [[G] Annex 1-13 Owner's Hull Inspection and Maintenance Program](15_G_Annex 1-13 Owner's Hull Inspection and Maintenance Program.md)
+  - 1. General
+  - 2. Requirements
+  - 3. Approval and survey
+  - 4. Inspector training
+- [[G] Annex 1-16 Procedures for Testing Tanks and Tight Boundaries (2018)](16_G_Annex 1-16 Procedures for Testing Tanks and Tight Boundaries (2018).md)
+  - 1. General
+  - 1. GENERAL
+  - 2. Application
+  - 3. Tests Types and Definitions
+  - 4. Test Procedures
+  - 1. GENERAL
+  - 2. APPLICATION
+  - 1. GENERAL
+  - 2. APPLICATION
+- [[G] Annex 1-17 Laid-up and recommissioning of ships (2018)](17_G_Annex 1-17 Laid-up and recommissioning of ships (2018).md)
+  - Section 1 General
+  - Section 2 Surveys
+  - Section 3 Laid-up Maintenance Program
+  - Section 4 Laid-up site and mooring arrangements
+  - Section 5 Types of Laid-UP
+- [[G] Annex 1-18 In case of promptly and thoroughly repaired, Areas to be considered (2019)](18_G_Annex 1-18 In case of promptly and thoroughly repaired, Areas to be co.md)
+  - 1. In case of promptly and thoroughly repaired specified in Ch 2, 107. 2 of the Rules, examples of areas to be considered for General Ship, Bulk Carrier, Double Skin Bulk Carrier and Double Hull Oil Tanker are as follows

@@ -1,0 +1,111 @@
+# PART 2 Materials and Welding
+
+> RULES FOR CLASSIFICATION OF STEEL SHIPS / RA-02-E / 2025 / EN
+
+- [[R] CHAPTER 1 MATERIALS](01_R_CHAPTER 1 MATERIALS.md)
+  - Section 1 General
+  - Section 2 Test Specimens and Testing Procedures
+  - Section 3 Rolled Steels
+  - Section 4 Steel Tubes and Pipes
+  - Section 5 Castings
+  - Section 6 Steel Forgings
+  - Section 7 Copper and Copper Alloy
+  - Section 8 Aluminium Alloys
+- [[R] CHAPTER 2 WELDING](02_R_CHAPTER 2 WELDING.md)
+  - Section 1 General
+  - Section 2 Test Specimens and Testing Procedures
+  - Section 3 Welding Work and Inspection
+  - Section 4 Welding Procedure Qualification Tests
+  - Section 5 Welders and Welder Performance Qualification Scheme (2018)
+  - Section 6 Welding Consumables
+- [[G] CHAPTER 1 MATERIALS](03_G_CHAPTER 1 MATERIALS.md)
+  - Section 1 General
+  - Section 2 Test Specimens and Testing Procedures
+  - Section 3 Rolled Steels
+  - Section 4 Steel Tubes and Pipes
+  - Section 5 Castings
+  - Section 6 Steel Forgings
+  - Section 7 Copper and Copper Alloys
+  - Section 8 Aluminium Alloys
+- [[G] CHAPTER 2 WELDING](04_G_CHAPTER 2 WELDING.md)
+  - Section 1 General
+  - Section 3 Welding Works and Inspection
+  - Section 4 Welding Procedure Qualification Tests
+  - Section 5 Welders and Welder Performance Qualification Scheme (2018)
+  - Section 6 Welding Consumables
+- [[G] Annex 2-1 Guidance for seamless forged steel drums](05_G_Annex 2-1 Guidance for seamless forged steel drums.md)
+  - 1. Seamless forged steel drums
+- [[G] Annex 2-2 Guidance for non-destructive testing of marine steel castings](06_G_Annex 2-2 Guidance for non-destructive testing of marine steel casting.md)
+  - 1. Application
+  - 2. Personnel Requirements (2021)
+  - 3. Casting Condition
+  - 4. Extent of Inspections
+  - 5. Examination Procedures
+  - 6. Acceptance Criteria
+  - 7. Reporting
+  - 8. Rectification of Defects
+- [[G] Annex 2-3 Guidance for surface inspection of cast steel crankshafts](07_G_Annex 2-3 Guidance for surface inspection of cast steel crankshafts.md)
+  - 1. Application
+  - 3. Methods of inspection
+  - 4. Inspection during intermediate stage
+  - 5. Standards for surface inspection
+  - 6. Standards for allowable limit of defects for surface inspection
+- [[G] Annex 2-4 Guidance for repairs by welding for cast steel crank throws](08_G_Annex 2-4 Guidance for repairs by welding for cast steel crank throws.md)
+  - 1. Applications
+  - 2. The scope and conditions permitting repairs
+  - 4. Methods of repairs
+  - 7. Preliminary test
+- [[G] Annex 2-5 Guidance for non-destructive examination of hull and machinery steel forgings](09_G_Annex 2-5 Guidance for non-destructive examination of hull and machine.md)
+  - 1. Application
+  - 2. Surface Inspections
+  - 3. Ultrasonic testing
+- [[G] Annex 2-6 Guidance for liquid penetrant inspection and repair of defects of copper alloy propeller castings](10_G_Annex 2-6 Guidance for liquid penetrant inspection and repair of defec.md)
+  - 2. The liquid penetrant inspection
+  - 3. Repair of defects
+  - 4. Repair Welding
+  - 5. Straightening
+- [[G] Annex 2-7 Guidance for non-destructive testing of ship hull steel welds](11_G_Annex 2-7 Guidance for non-destructive testing of ship hull steel weld.md)
+  - 1. General
+  - 3. Magnetic particle testing(MT)
+  - 4. Liquid penetrant testing(PT)
+  - 5. Radiographic Testing(RT)
+  - 6. Ultrasonic Testing(UT)
+  - 7. Acceptance Levels(criteria) (2021)
+  - 8. Reporting (2021)
+  - 9. Unacceptable indications and repairs (2021)
+- [[G] Annex 2-8 Reinforced plastic materials](12_G_Annex 2-8 Reinforced plastic materials.md)
+  - 1. General
+  - 2. Thermosetting resins
+  - 3. Fiber reinforcements
+  - 4. Core materials
+- [[G] Annex 2-9 Offshore mooring chain](13_G_Annex 2-9 Offshore mooring chain.md)
+  - 3. Rolled steel bars
+  - 4. Forged steel
+  - 5. Steel castings for chains
+  - 6. Materials for studs
+- [[G] Annex 2-10 Hull Structural Steels with Improved Fatigue Properties](14_G_Annex 2-10 Hull Structural Steels with Improved Fatigue Properties.md)
+  - 1. Application
+  - 2. Definitions
+  - 3. Weld ability
+  - 4. Additional requirements related to fatigue properties
+  - 5. Testing and Inspection related to Fatigue Properties
+- [[G] Annex 2-11 High manganese austenitic steels (2020)](15_G_Annex 2-11 High manganese austenitic steels (2020).md)
+  - 1. Application
+  - 2. Definitions
+  - 3. Manufacturing process
+  - 4. Heat treatment
+  - 5. Selection of test samples
+  - 6. Selection of test specimens
+  - 8. Welding consumables for high manganese austenitic steel
+  - 9. Welder
+  - 10. Welding procedure qualification tests
+  - 11. Welding practice
+  - 12. Marking
+- [[G] Annex 2-12 Guidance for advanced non-destructive testing of materials and welds (2021)](16_G_Annex 2-12 Guidance for advanced non-destructive testing of materials.md)
+  - 1. General
+  - 3. Technique and procedure qualification
+  - 5. Onsite review
+  - 6. Surface condition
+  - 8. Testing requirements
+  - 9. Acceptance Levels
+  - 10. Reporting

@@ -1,0 +1,61 @@
+# Guidance for OSV (Offshore Support Vessels)
+
+> RULES AND GUIDANCE FOR OFFSHORE STRUCTURES / GC-15-E / 2025 / EN
+
+- [[G] CHAPTER 1 GENERAL](01_G_CHAPTER 1 GENERAL.md)
+  - Section 1 General
+  - Section 2 Definition
+- [[G] CHAPTER 2 CLASSIFICATION AND SURVEYS](02_G_CHAPTER 2 CLASSIFICATION AND SURVEYS.md)
+  - Section 1 General
+  - Section 2 Classification
+  - Section 3 Surveys
+- [[G] CHAPTER 3 STRUCTURES AND EQUIPMENT](03_G_CHAPTER 3 STRUCTURES AND EQUIPMENT.md)
+  - Section 1 Stability
+  - Section 2 Hull Structures
+  - Section 3 Hull Equipment
+  - Section 4 Machinery
+  - Section 5 Electrical Installations
+  - Section 6 Fire Protection and Fire Extinguishing Systems
+- [[G] CHAPTER 4 OFFSHORE SUPPLY VESSELS](04_G_CHAPTER 4 OFFSHORE SUPPLY VESSELS.md)
+  - Section 1 General
+  - Section 2 Hull Structures
+  - Section 3 Cargo Piping Systems
+  - Section 4 Machinery
+- [[G] CHAPTER 5 ANCHOR HANDLING AND TOWING VESSELS](05_G_CHAPTER 5 ANCHOR HANDLING AND TOWING VESSELS.md)
+  - Section 1 General
+  - Section 2 Stability
+  - Section 3 Hull Structures
+  - Section 4 Hull Equipment
+  - Section 5 Anchor Handling/Towing Winch and Accessories
+  - Section 6 Machinery
+  - Section 7 Fire Protection and Fire Extinguishing Systems
+- [[G] CHAPTER 6 HEAVY LIFT VESSELS](06_G_CHAPTER 6 HEAVY LIFT VESSELS.md)
+  - Section 1 General
+  - Section 2 Stability
+  - Section 3 Hull Structures
+  - Section 4 Hull Equipment
+  - Section 5 Machinery
+  - Section 6 Positioning System
+- [[G] CHAPTER 7 WIND TURBINE INSTALLATION VESSELS](07_G_CHAPTER 7 WIND TURBINE INSTALLATION VESSELS.md)
+  - Section 1 General
+  - Section 2 Stability
+  - Section 3 Hull Structures
+  - Section 4 Hull Equipment
+  - Section 5 Machinery
+  - Section 6 Positioning Systems
+- [[G] CHAPTER 8 FIRE FIGHTING VESSELS](08_G_CHAPTER 8 FIRE FIGHTING VESSELS.md)
+  - Section 1 General
+  - Section 2 Stability
+  - Section 3 Hull Structures
+  - Section 4 Fire fighting equipment for other vessels
+  - Section 5 Machinery
+  - Section 6 Fire Protection and Fire Extinguishing Systems
+  - Section 7 Positioning Systems
+- [[G] CHAPTER 9 Oil SPILL RECOVERY VESSELS](09_G_CHAPTER 9 Oil SPILL RECOVERY VESSELS.md)
+  - Section 1 General
+  - Section 2 Definitions
+  - Section 3 Hull Structures
+  - Section 4 Hull Equipment
+  - Section 5 Tank Arrangement
+  - Section 6 Machinery and Electrical Installations in Hazardous Areas
+  - Section 7 Fire Protection and Fire Extinguishing Systems

@@ -1,0 +1,21 @@
+# Guidance of Heat Transfer Analysis for Ships Carring Liquefied Gases in Bulk/Ships Using Liquefied Gases as Fuels
+
+> OTHER RULES AND GUIDANCE / GC-33-E / 2025 / EN
+
+- [[G] CHAPTER 1 GENERAL](01_G_CHAPTER 1 GENERAL.md)
+  - Section 1 Application
+  - Section 2 Definitions
+  - Section 3 Summary of Guidances
+  - Section 4 Documentation
+- [[G] CHAPTER 2 HEAT TRANSFER ANALYSIS FOR MEMBRANE TYPE](02_G_CHAPTER 2 HEAT TRANSFER ANALYSIS FOR MEMBRANE TYPE.md)
+  - Section 1 Analytical Heat Transfer Analysis
+  - Section 2 FEM HEAT TRANSFER ANALYSIS
+- [[G] CHAPTER 3 HEAT TRANSFER ANALYSIS FOR INDEPENDENT TYPE A TANK](03_G_CHAPTER 3 HEAT TRANSFER ANALYSIS FOR INDEPENDENT TYPE A TANK.md)
+  - Section 1 Analytical Heat Transfer Analysis
+  - Section 2 FEM HEAT TRANSFER ANALYSIS
+- [[G] CHAPTER 4 HEAT TRANSFER ANALYSIS FOR INDEPENDENT TYPE B TANK](04_G_CHAPTER 4 HEAT TRANSFER ANALYSIS FOR INDEPENDENT TYPE B TANK.md)
+  - Section 1 Analytical Heat Transfer Analysis
+  - Section 2 FEM HEAT TRANSFER ANALYSIS
+- [[G] CHAPTER 5 HEAT TRANSFER ANALYSIS FOR INDEPENDENT TYPE C TANK](05_G_CHAPTER 5 HEAT TRANSFER ANALYSIS FOR INDEPENDENT TYPE C TANK.md)
+  - Section 1 Analytical Heat Transfer Analysis
+  - Section 2 FEM HEAT TRANSFER ANALYSIS

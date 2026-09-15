@@ -1,0 +1,73 @@
+# PART 11 Common Structural Rules for Bulk Carriers
+
+> RULES FOR CLASSIFICATION OF STEEL SHIPS / RA-11-E / 2025 / EN
+
+- [[R] Chapter 1 General Principles](01_R_Chapter 1 General Principles.md)
+  - Section 1 - APPLICATION
+  - Section 2 - VERIFICATION OF COMPLIANCE
+  - Section 3 - FUNCTIONAL REQUIREMENTS
+  - Section 4 - SYMBOLS AND DEFINITIONS
+- [[R] Chapter 2 General Arrangement Design](02_R_Chapter 2 General Arrangement Design.md)
+  - Section 1 - SUBDIVISION ARRANGEMENT
+  - Section 2 - COMPARTMENT ARRANGEMENT
+  - Section 3 - ACCESS ARRANGEMENT
+- [[R] Chapter 3 Structural Design Principles](03_R_Chapter 3 Structural Design Principles.md)
+  - Section 1 - MATERIAL
+  - Section 2 - NET SCANTLING APPROACH
+  - Section 3 - CORROSION ADDITIONS
+  - Section 4 - LIMIT STATES
+  - Section 5 - CORROSION PROTECTION
+  - Section 6 - STRUCTURAL ARRANGEMENT PRINCIPLES
+- [[R] Chapter 4 Design Loads](04_R_Chapter 4 Design Loads.md)
+  - Section 1 - GENERAL
+  - Section 2 - SHIP MOTIONS AND ACCELERATIONS
+  - Section 3 - HULL GIRDER LOADS
+  - Section 4 - LOAD CASES
+  - Section 5 - EXTERNAL PRESSURES
+  - Section 6 - INTERNAL PRESSURES AND FORCES
+  - Section 7 - LOADING CONDITIONS
+  - Section 8 - LOADING MANUAL AND LOADING INSTRUMENT
+  - Appendix 1 - HOLD MASS CURVES
+- [[R] Chapter 5 Hull Girder Strength](05_R_Chapter 5 Hull Girder Strength.md)
+  - Section 1 - Yielding check
+  - Section 2 - ULTIMATE STRENGTH CHECK
+  - Appendix 1 - HULL GIRDER ULTIMATE STRENGTH
+- [[R] Chapter 6 Hull Scantlings](06_R_Chapter 6 Hull Scantlings.md)
+  - Section 1 - PLATING
+  - Section 2 - ORDINARY STIFFENERS
+  - Section 3 - BUCKLING & ULTIMATE STRENGTH OF ORDINARY STIFFENERS AND STIFFENED PANELS
+  - Section 4 - PRIMARY SUPPORTING MEMBERS
+  - Appendix 1 - BUCKLING & ULTIMATE STRENGTH
+- [[R] Chapter 7 Direct Strength Analysis](07_R_Chapter 7 Direct Strength Analysis.md)
+  - Section 1 - DIRECT STRENGTH ASSESSMENT OF THE PRIMARY SUPPORTING MEMBERS
+  - Section 2 - GLOBAL STRENGTH FE ANALYSIS OF CARGO HOLD STRUCTURES
+  - Section 3 - DETAILED STRESS ASSESSMENT
+  - Section 4 - HOT SPOT STRESS ANALYSIS FOR FATIGUE STRENGTH ASSESSMENT
+  - Appendix 1 - LONGITUDINAL EXTENT OF THE FINITE ELEMENT MODELS
+  - Appendix 2 - DISPLACEMENT BASED BUCKLING ASSESSMENT IN FINITE ELEMENT ANALYSIS
+- [[R] Chapter 8 Fatigue Check of Structural Details](08_R_Chapter 8 Fatigue Check of Structural Details.md)
+  - Section 1 - GENERAL CONSIDERATION
+  - Section 2 - FATIGUE STRENGTH ASSESSMENT
+  - Section 3 - STRESS ASSESSMENT OF PRIMARY MEMBERS
+  - Section 4 - STRESS ASSESSMENT OF STIFFENERS
+  - Section 5 - STRESS ASSESSMENT OF HATCH CORNERS
+  - Appendix 1 - CROSS SECTIONAL PROPERTIES FOR TORSION
+- [[R] Chapter 9 Other Structures](09_R_Chapter 9 Other Structures.md)
+  - Section 1 - FORE PART
+  - Section 2 - AFT PART
+  - Section 3 - MACHINERY SPACE
+  - Section 4 - SUPERSTRUCTURES AND DECKHOUSES
+  - Section 5 - HATCH COVERS
+  - Section 6 - ARRANGEMENT OF HULL AND SUPERSTRUCTURE OPENINGS
+- [[R] Chapter 10 Hull Outfitting](10_R_Chapter 10 Hull Outfitting.md)
+  - Section 1 - RUDDER AND MANOEUVRING ARRANGEMENT
+  - Section 2 - BULWARKS AND GUARD RAILS
+  - Section 3 - EQUIPMENT
+- [[R] Chapter 11 Construction and Testing](11_R_Chapter 11 Construction and Testing.md)
+  - Section 1 - CONSTRUCTION
+  - Section 2 - WELDING
+  - Section 3 - TESTING OF COMPARTMENTS
+- [[R] Chapter 12 Additional Class Notations](12_R_Chapter 12 Additional Class Notations.md)
+  - Section 1 - GRAB ADDITIONAL CLASS NOTATION
+  - Section 1 - MAINTENANCE OF CLASS
+  - Section 2 - ACCEPTANCE CRITERIA

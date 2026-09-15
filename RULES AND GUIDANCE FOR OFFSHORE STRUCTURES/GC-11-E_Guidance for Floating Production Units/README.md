@@ -1,0 +1,58 @@
+# Guidance for Floating Production Units
+
+> RULES AND GUIDANCE FOR OFFSHORE STRUCTURES / GC-11-E / 2025 / EN
+
+- [[G] CHAPTER 1 GENERAL](01_G_CHAPTER 1 GENERAL.md)
+  - Section 1 General
+  - Section 2 Definition
+- [[G] CHAPTER 2 CLASSIFICATION AND SURVEYS](02_G_CHAPTER 2 CLASSIFICATION AND SURVEYS.md)
+  - Section 1 General
+  - Section 2 Classification
+  - Section 3 Surveys
+- [[G] CHAPTER 3 DESIGN CONDITIONS](03_G_CHAPTER 3 DESIGN CONDITIONS.md)
+  - Section 1 General
+  - Section 2 Design Principles
+  - Section 3 Corrosion Control Means and Corrosion Margins
+  - Section 4 Design Loads
+- [[G] CHAPTER 4 MATERIALS AND WELDING](04_G_CHAPTER 4 MATERIALS AND WELDING.md)
+  - Section 1 General
+- [[G] CHAPTER 5 HULL CONSTRUCTION AND EQUIPMENT](05_G_CHAPTER 5 HULL CONSTRUCTION AND EQUIPMENT.md)
+  - Section 1 General
+  - Section 2 Stability
+  - Section 3 Longitudinal Strength
+  - Section 4 Structural Design and Analysis of the Hull
+  - Section 5 Design and Analysis of Other Major Hull Structural Features
+  - Section 6 Structural Strength for Column-stabilized and Other Type Units
+  - Section 7 Hull Equipment
+- [[G] CHAPTER 6 POSITIONING SYSTEMS](06_G_CHAPTER 6 POSITIONING SYSTEMS.md)
+  - Section 1 General
+  - Section 2 Mooring Analysis
+  - Section 3 Design of Mooring Lines, etc.
+  - Section 4 Mooring Equipment
+  - Section 5 Single Point Mooring Systems
+  - Section 6 Anchor Holding Power
+- [[G] CHAPTER 7 HAZARDOUS AREA](07_G_CHAPTER 7 HAZARDOUS AREA.md)
+  - Section 1 General
+  - Section 2 Extent of Hazardous Area
+  - Section 3 Ventilation
+- [[G] CHAPTER 8 FIRE PROTECTION, MEANS OF ESCAPE AND FIRE EXTINCTION](08_G_CHAPTER 8 FIRE PROTECTION, MEANS OF ESCAPE AND FIRE EXTINCTION.md)
+  - Section 1 General
+  - Section 2 Prevention of Fire and Explosion
+  - Section 3 Suppression of Fire
+  - Section 4 Means of Escape
+- [[G] CHAPTER 9 MACHINERY INSTALLATIONS](09_G_CHAPTER 9 MACHINERY INSTALLATIONS.md)
+  - Section 1 General
+  - Section 2 Piping Systems for Crude Oil Tanks
+  - Section 3 Use of Produced Gas as Fuel
+  - Section 4 Boilers Using Crude Oil
+- [[G] CHAPTER 10 ELECTRICAL EQUIPMENT AND CONTROL SYSTEMS](10_G_CHAPTER 10 ELECTRICAL EQUIPMENT AND CONTROL SYSTEMS.md)
+  - Section 1 Electrical Equipment
+  - Section 2 Control Systems
+- [[G] CHAPTER 11 PRODUCTION AND PROCESS SYSTEMS](11_G_CHAPTER 11 PRODUCTION AND PROCESS SYSTEMS.md)
+  - Section 1 General
+  - Section 2 Design of Process Systems
+  - Section 3 Process System Equipment
+  - Section 4 Process Support Systems
+- [[G] CHAPTER 12 IMPORT AND EXPORT SYSTEMS](12_G_CHAPTER 12 IMPORT AND EXPORT SYSTEMS.md)
+  - Section 1 General
+  - Section 2 Design

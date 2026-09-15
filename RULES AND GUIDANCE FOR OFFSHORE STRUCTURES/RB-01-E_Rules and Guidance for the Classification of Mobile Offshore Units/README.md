@@ -1,0 +1,66 @@
+# Rules and Guidance for the Classification of Mobile Offshore Units
+
+> RULES AND GUIDANCE FOR OFFSHORE STRUCTURES / RB-01-E / 2025 / EN
+
+- [[R] CHAPTER 1 GENERAL](01_R_CHAPTER 1 GENERAL.md)
+  - Section 1 General
+  - Section 2 Definitions
+- [[R] CHAPTER 2 CLASSIFICATION AND SURVEYS](02_R_CHAPTER 2 CLASSIFICATION AND SURVEYS.md)
+  - Section 1 General
+  - Section 2 Classification
+  - Section 3 Surveys
+- [[R] CHAPTER 3 HULL CONSTRUCTION AND EQUIPMENT](03_R_CHAPTER 3 HULL CONSTRUCTION AND EQUIPMENT.md)
+  - Section 1 General
+  - Section 2 Materials
+  - Section 3 Welding
+  - Section 4 Ice Strengthening
+  - Section 5 Corrosion Control
+  - Section 6 Fire Protection, Means of Escape and Fire Detection & Extinction
+  - Section 7 Guardrails and Bulwarks
+  - Section 8 Temporary or Emergency Mooring Equipment
+  - Section 9 Access
+  - Section 10 Towing Arrangements
+  - Section 11 Protective Coatings of Dedicated Seawater Ballast Tanks
+  - Section 12 Anti-fouling Systems
+  - Section 13 Drainage and Sediment Control
+- [[R] CHAPTER 4 DESIGN CONDITION](04_R_CHAPTER 4 DESIGN CONDITION.md)
+  - Section 1 Design Loads
+  - Section 2 Calculation of Strength
+  - Section 3 Analysis of Overall Strength
+  - Section 4 Scantlings of Structural Members
+  - Section 5 Helicopter Deck
+  - Section 6 Position Keeping Systems and Components
+- [[R] CHAPTER 5 TYPE OF UNITS](05_R_CHAPTER 5 TYPE OF UNITS.md)
+  - Section 1 Self-elevating Units
+  - Section 2 Column-stabilized Units
+  - Section 3 Surface Type Units
+- [[R] CHAPTER 6 WATERTIGHT INTEGRITY](06_R_CHAPTER 6 WATERTIGHT INTEGRITY.md)
+  - Section 1 Watertight Bulkheads
+  - Section 2 Closing Appliances
+- [[R] CHAPTER 7 STABILITY](07_R_CHAPTER 7 STABILITY.md)
+  - Section 1 General Requirements of Stability
+  - Section 2 Stability Criterion under Wind Force
+- [[R] CHAPTER 8 HAZARDOUS AREA](08_R_CHAPTER 8 HAZARDOUS AREA.md)
+  - Section 1 General
+  - Section 2 Extent of Hazardous Area
+  - Section 3 Ventilation
+- [[R] CHAPTER 9 FIRE PROTECTION, MEANS OF ESCAPE AND FIRE EXTINCTION](09_R_CHAPTER 9 FIRE PROTECTION, MEANS OF ESCAPE AND FIRE EXTINCTION.md)
+  - Section 1 General
+  - Section 2 Fire Protection and Means of Escape
+  - Section 3 Fire Detection and Extinction
+  - Section 4 Fire Extinguishing Systems for Helicopter Facilities
+  - Section 5 Gas cylinders
+  - Section 6 Offshore Accommodation Unit
+- [[R] CHAPTER 10 MACHINERY INSTALLATIONS AND ELECTRICAL EQUIPMENT](10_R_CHAPTER 10 MACHINERY INSTALLATIONS AND ELECTRICAL EQUIPMENT.md)
+  - Section 1 Machinery Installations and Electrical Equipment for Units
+  - Section 2 Machinery Installations and Electrical Equipment for
+- [[R] CHAPTER 11 SPECIFIC OFFSHORE UNIT TYPES](11_R_CHAPTER 11 SPECIFIC OFFSHORE UNIT TYPES.md)
+  - Section 1 Offshore Crane Units
+  - Section 2 Offshore Accommodation Units
+  - Section 3 Floating Piers
+  - Section 4 Offshore Plant Units
+  - Section 5 Wind Turbine Installation Units (2024)
+- [[G] CHAPTER 1 GENERAL (2017)](12_G_CHAPTER 1 GENERAL (2017).md)
+  - Section 2 Definitions
+- [[G] CHAPTER 7 STABILITY (2017)](13_G_CHAPTER 7 STABILITY (2017).md)
+  - Section 1 General Requirements of Stability

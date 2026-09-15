@@ -1,0 +1,134 @@
+# PART 7 Ships of Special Service (CH5, 6)
+
+> RULES FOR CLASSIFICATION OF STEEL SHIPS / RA-07B-E / 2025 / EN
+
+- [[R] CHAPTER 5 SHIPS CARRYING LIQUEFIED GASES IN BULK](01_R_CHAPTER 5 SHIPS CARRYING LIQUEFIED GASES IN BULK.md)
+  - Section 1 General
+  - Section 2 Ship Survival Capability and Location of Cargo Tanks
+  - Section 3 Ship Arrangements
+  - Section 4 Cargo Containment
+  - Section 5 Process Pressure Vessels and Liquid, Vapour, and Pressure Piping Systems
+  - Section 6 Materials of Construction and Quality Control
+  - Section 7 Cargo Pressure/Temperature Control
+  - Section 8 Vent Systems for Cargo Containment
+  - Section 9 Cargo Containment System Atmosphere Control
+  - Section 10 Electrical Installations
+  - Section 11 Fire Protection and Fire Extinction
+  - Section 12 Mechanical Ventilation in the Cargo Area
+  - Section 13 Instrumentation and Automation Systems
+  - Section 14 Personnel Protection
+  - Section 15 Filling Limits for Cargo Tanks
+  - Section 16 Use of Cargo as Fuel
+  - Section 17 Special Requirements
+  - Section 18 Operating Requirements
+- [[R] CHAPTER 6 SHIPS CARRYING DANGEROUS CHEMICALS IN BULK](02_R_CHAPTER 6 SHIPS CARRYING DANGEROUS CHEMICALS IN BULK.md)
+  - Section 1 General
+  - Section 2 Ship Survival Capability and Location of Cargo Tanks
+  - Section 3 Ship Arrangements
+  - Section 4 Cargo Containment
+  - Section 5 Cargo Transfer
+  - Section 6 Materials of Construction
+  - Section 7 Cargo Temperature Control
+  - Section 8 Cargo Tank Venting and Gas-freeing Arrangements
+  - Section 9 Environmental Control
+  - Section 10 Electrical Installations
+  - Section 11 Fire Protection and Fire Extinction
+  - Section 12 Mechanical Ventilation in the Cargo Area
+  - Section 13 Instrumentation
+  - Section 14 Personnel Protection
+  - Section 15 Special Requirements
+  - Section 16 Operational Requirements
+  - Section 20 Transport of Liquid Chemical Wastes
+- [[G] CHAPTER 5 SHIPS CARRYING LIQUEFIED GASES IN BULK](03_G_CHAPTER 5 SHIPS CARRYING LIQUEFIED GASES IN BULK.md)
+  - Section 1 General
+  - Section 2 Ship Survival Capability and Location of Cargo Tanks
+  - Section 3 Ship Arrangements
+  - Section 4 Cargo Containment
+  - Section 5 Process Pressure Vessels and Liquid, Vapour and Pressure Piping Systems
+  - Section 6 Materials of Construction and Quality Control
+  - Section 7 Cargo Pressure/Temperature Control
+  - Section 8 Vent System for Cargo Containment
+  - Section 9 Cargo Containment System Atmosphere Control
+  - Section 10 Electrical Installations
+  - Section 11 Fire Protection and Fire Extinction
+  - Section 12 Mechanical Ventilation in the Cargo Area
+  - Section 13 Instrumentation and Automation Systems
+  - Section 15 Filling Limits for Cargo Tanks
+  - Section 16 Use of Cargo as Fuel
+  - Section 17 Special Requirements
+  - Section 18 Operating Requirements
+- [[G] CHAPTER 6 SHIPS CARRYING DANGEROUS CHEMICALS IN BULK](04_G_CHAPTER 6 SHIPS CARRYING DANGEROUS CHEMICALS IN BULK.md)
+  - Section 1 General
+  - Section 2 Ship Survival Capability and Location of Cargo Tanks
+  - Section 3 Ship Arrangements
+  - Section 5 Cargo Transfer
+  - Section 7 Cargo Temperature Control
+  - Section 8 Cargo Tank Venting and Gas-freeing Arrangements
+  - Section 9 Environmental Control
+  - Section 10 Electrical Installations
+  - Section 11 Fire Protection and Fire Extinction
+  - Section 12 Mechanical Ventilation in the Cargo Area
+  - Section 13 Instrumentation
+  - Section 14 Personnel Protection
+  - Section 15 Special Requirements
+  - Section 16 Operational Requirements
+- [[G] Annex 7A-1 Requirements for Ships not having the International Certificate of Fitness for the Carriage of Liquefied Gases in Bulk 【See Rule】](05_G_Annex 7A-1 Requirements for Ships not having the International Certifi.md)
+  - Section 1 General
+  - Section 2 Pressurized Liquefied Petroleum Gas carriers
+  - Section 3 Low Temperature Liquefied Petroleum Gas carriers
+- [[G] Annex 7A-2 Guidelines for the Evaluation of the Adequacy of Type C Tank Vent Systems](06_G_Annex 7A-2 Guidelines for the Evaluation of the Adequacy of Type C Tan.md)
+  - 101. General
+- [[G] Annex 7A-3 LNG Bunkering Systems 【See Rule】](07_G_Annex 7A-3 LNG Bunkering Systems 【See Rule】.md)
+  - Section 1 General
+  - Section 2 Classification Survey during Construction
+  - Section 3 Periodical Surveys
+  - Section 4 Material
+  - Section 5 Arrangements and Design of Bunkering Systems
+  - Section 6 Control, Monitoring and Safety Systems
+  - Section 7 Fire Protection and Fire Extinction
+  - Section 8 Operational Requirements
+- [[G] Annex 7A-4 High manganese austenitic steel for Cryogenic Service 【See Rule】](08_G_Annex 7A-4 High manganese austenitic steel for Cryogenic Service 【See.md)
+  - Section 1 General
+  - Section 2 Application
+- [[G] Annex 7A-5 Use of LPG Cargo as Fuel (2025) 【See Rule】](09_G_Annex 7A-5 Use of LPG Cargo as Fuel (2025) 【See Rule】.md)
+  - 101. Application
+  - 103. Functional Requirements
+  - 104. Supplementary requirements to the provisions of Ch. 16 of the Rules
+  - 105. Additional provisions
+- [[G] Annex 7A-6 Non-Metallic Materials(IGC Code Appendix 4) 【See Rule】](10_G_Annex 7A-6 Non-Metallic Materials(IGC Code Appendix 4) 【See Rule】.md)
+  - 101. General
+  - 102. Material selection criteria
+  - 103. Properties of materials
+  - 104. Material selection and testing requirements
+  - 105. Quality assurance and quality control (QA/QC)
+  - 106. Bonding and joining process requirement and testing
+  - 107. Production bonding tests and controls
+- [[G] Annex 7A-7 Standard for the Use of Limit State Methodologies in the Design of Cargo Containment Systems of Novel Configuration(IGC Code Appendix 5) 【See Rule】](11_G_Annex 7A-7 Standard for the Use of Limit State Methodologies in the De.md)
+  - 101. General
+  - 102. Design format
+  - 103. Required analyses
+  - 104. Ultimate limit states
+  - 105. Fatigue limit states
+  - 106. Accident Limit States
+  - 107. Testing
+- [[G] Annex 7A-8 Guidelines for Safety Margin of Cargo Containment System 【See Rule】](12_G_Annex 7A-8 Guidelines for Safety Margin of Cargo Containment System 【S.md)
+  - CHAPTER 1 GENERAL
+  - CHAPTER 2 SAFETY MARGIN
+- [[G] Annex 7A-9 Guidance for Cargo Fuel Ready Ships (2025)](13_G_Annex 7A-9 Guidance for Cargo Fuel Ready Ships (2025).md)
+  - Section 1 General
+  - Section 2 Class Notation
+  - Section 3 Requirements for Levels of Cargo Fuel Ready
+- [[G] Annex 7B-4 Criteria for assigning carriage requirements for products subject to the IBC Code 【See Rule】](14_G_Annex 7B-4 Criteria for assigning carriage requirements for products s.md)
+  - 101. Introduction
+  - 102. Contents
+  - 103. Minimum safety and pollution criteria for products subject to chapter 17 of the IBC Code
+  - 104. Criteria used to assign the minimum carriage requirements for products, which meet the minimum safety or pollution criteria to make them subject to chapter 17 of the IBC Code
+  - 105. Criteria for special requirements in Sec.15 to be included in column o
+  - 1502. to 1510. and 1520. identify specific products by name with special carriage requirements that cannot be easily accommodated in any other way.
+  - 1511. applies to all acids unless they:
+  - 1516. 2 is added to column o according to the following criterion:
+  - 106. Criteria for special requirements in Sec 16 to be included in column o
+  - 1602. 6 is added to column o for products, which meet the following criteria:
+  - 1602. 9 is added to column o for products, which meet the following criterion:
+  - 1606. 2 to 1606. 4 are added to column o for products, which are identified as requiring temperature control during carriage.
+  - 107. Definitions

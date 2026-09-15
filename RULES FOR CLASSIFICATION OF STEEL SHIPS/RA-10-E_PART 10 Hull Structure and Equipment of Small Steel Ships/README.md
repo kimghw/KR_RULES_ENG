@@ -1,0 +1,192 @@
+# PART 10 Hull Structure and Equipment of Small Steel Ships
+
+> RULES FOR CLASSIFICATION OF STEEL SHIPS / RA-10-E / 2025 / EN
+
+- [[R] CHAPTER 1 GENERAL](01_R_CHAPTER 1 GENERAL.md)
+  - Section 1 Definitions
+  - Section 2 General
+  - Section 3 Materials, Welding and Construction
+- [[R] CHAPTER 2 STEMS AND STERN FRAMES](02_R_CHAPTER 2 STEMS AND STERN FRAMES.md)
+  - Section 1 Stems
+  - Section 2 Stern Frames
+- [[R] CHAPTER 3 LONGITUDINAL STRENGTH](03_R_CHAPTER 3 LONGITUDINAL STRENGTH.md)
+  - Section 1 General
+  - Section 2 Bending Strength
+  - Section 3 Buckling Strength
+- [[R] CHAPTER 4 PLATE KEELS AND SHELL PLATINGS](04_R_CHAPTER 4 PLATE KEELS AND SHELL PLATINGS.md)
+  - Section 1 General
+  - Section 2 Plate Keels
+  - Section 3 Shell Plating for Midship Part of Ship
+  - Section 4 Shell Plating for End Parts
+  - Section 5 Side Plating in way of Superstructure
+  - Section 6 Local Compensation of Shell Plating
+- [[R] CHAPTER 5 DECKS](05_R_CHAPTER 5 DECKS.md)
+  - Section 1 General
+  - Section 2 Effective Sectional Area of Strength Deck
+  - Section 3 Deck Plating
+- [[R] CHAPTER 6 SINGLE BOTTOMS](06_R_CHAPTER 6 SINGLE BOTTOMS.md)
+  - Section 1 General
+  - Section 2 Centre Keelsons
+  - Section 3 Side Keelsons
+  - Section 4 Floor Plates
+  - Section 5 Longitudinals
+  - Section 6 Strengthened Bottom Forward
+- [[R] CHAPTER 7 DOUBLE BOTTOMS](07_R_CHAPTER 7 DOUBLE BOTTOMS.md)
+  - Section 1 General
+  - Section 2 Centre Girders
+  - Section 3 Side Girders
+  - Section 4 Solid Floors
+  - Section 5 Bottom Longitudinals
+  - Section 6 Inner Bottom Plating and Margin Plates
+  - Section 7 Hold Frame Brackets
+  - Section 8 Open Floors
+  - Section 9 Construction of Strengthened Bottom Forward
+- [[R] CHAPTER 8 FRAMES](08_R_CHAPTER 8 FRAMES.md)
+  - Section 1 General
+  - Section 2 Frame Spacing
+  - Section 3 Transverse Hold Frames
+  - Section 4 Side Longitudinals
+  - Section 5 Tween Deck Frames
+  - Section 6 Frames in Both Peaks
+- [[R] CHAPTER 9 CANTILEVER BEAM CONSTRUCTION](09_R_CHAPTER 9 CANTILEVER BEAM CONSTRUCTION.md)
+  - Section 1 Cantilever Beams
+  - Section 2 Web Frames
+  - Section 3 Connection of Cantilever Beams to Web Frames
+- [[R] CHAPTER 10 BEAMS](10_R_CHAPTER 10 BEAMS.md)
+  - Section 1 General
+  - Section 2 Deck Load
+  - Section 3 Longitudinal Beams
+  - Section 4 Transverse Beams
+  - Section 5 Beams on Bulkhead Recesses and Others
+  - Section 6 Beams on the Top of Deep Tanks
+  - Section 7 Deck Beams Supporting Specially Heavy Loads
+  - Section 8 Beams on Deck Carrying Unusual Cargoes
+- [[R] CHAPTER 11 DECK GIRDERS](11_R_CHAPTER 11 DECK GIRDERS.md)
+  - Section 1 General
+  - Section 2 Longitudinal Deck Girders
+  - Section 3 Transverse Deck Girders
+  - Section 4 Deck Girders in Tanks
+  - Section 5 Hatch Side Girders
+  - Section 6 Hatch End Girders
+- [[R] CHAPTER 12 PILLARS](12_R_CHAPTER 12 PILLARS.md)
+  - Section 1 General
+  - Section 2 Scantling of Pillars
+- [[R] CHAPTER 13 ARRANGEMENTS TO RESIST PANTING](13_R_CHAPTER 13 ARRANGEMENTS TO RESIST PANTING.md)
+  - Section 1 General
+  - Section 2 Arrangements to resist Panting Forward the Collision Bulkhead
+  - Section 3 Arrangements to resist Panting Abaft Aft Peak Bulkhead
+- [[R] CHAPTER 14 WATERTIGHT BULKHEADS](14_R_CHAPTER 14 WATERTIGHT BULKHEADS.md)
+  - Section 1 Arrangement
+  - Section 2 Construction
+  - Section 3 Watertight Doors (2020)
+- [[R] CHAPTER 15 DEEP TANKS](15_R_CHAPTER 15 DEEP TANKS.md)
+  - Section 1 General
+  - Section 2 Bulkheads of Deep Tanks
+  - Section 3 Fittings of Deep Tanks
+  - Section 4 Welding of Corrugated Bulkheads (2016)
+- [[R] CHAPTER 16 SUPERSTRUCTURES AND DECKHOUSES](16_R_CHAPTER 16 SUPERSTRUCTURES AND DECKHOUSES.md)
+  - Section 1 General
+  - Section 2 Construction
+  - Section 3 Access Openings in Superstructure End Bulkheads
+- [[R] CHAPTER 17 MACHINERY SPACES AND ENGINE CASINGS](17_R_CHAPTER 17 MACHINERY SPACES AND ENGINE CASINGS.md)
+  - Section 1 General
+  - Section 2 Main Engine Foundations
+  - Section 3 Construction of Boiler Rooms
+  - Section 4 Thrust Blocks and Foundations
+  - Section 5 Machinery Space Openings
+- [[R] CHAPTER 19 HATCHWAYS AND OTHER DECK OPENINGS](18_R_CHAPTER 19 HATCHWAYS AND OTHER DECK OPENINGS.md)
+  - Section 1 General
+- [[R] CHAPTER 22 EQUIPMENT NUMBER AND EQUIPMENT](19_R_CHAPTER 22 EQUIPMENT NUMBER AND EQUIPMENT.md)
+  - Section 1 General
+  - Section 2 Equipment Number (2020)
+  - Section 3 Shipboard Fittings and Supporting Hull Structures associated with Towing and Mooring
+- [[R] CHAPTER 23 OIL TANKERS](20_R_CHAPTER 23 OIL TANKERS.md)
+  - Section 1 General
+  - Section 2 Hatchways, Gangways and Freeing Arrangements
+  - Section 3 Longitudinal Frames and Beams in Cargo Oil Spaces
+  - Section 4 Girders and Transverses in Cargo Oil Spaces
+  - Section 5 Trunks
+  - Section 6 Bulkheads in Cargo Oil Space
+- [[R] CHAPTER 24 DOUBLE HULL TANKERS](21_R_CHAPTER 24 DOUBLE HULL TANKERS.md)
+  - Section 1 General
+  - Section 2 Bulkhead Plating
+  - Section 3 Frames, Stiffeners and Longitudinal Beams
+  - Section 4 Structural Members in Double Bottoms
+  - Section 5 Structural Members in Double Side Hull
+  - Section 6 Girders and Transverses in Cargo Oil Tanks and Deep Tanks
+  - Section 7 Strengthened Bottom Forward
+  - Section 8 Structural Details
+  - Section 9 Special Requirements for Corrosion
+  - Section 10 Special Requirements for Hatchways and Permanent Gangways
+- [[G] CHAPTER 1 GENERAL](22_G_CHAPTER 1 GENERAL.md)
+  - Section 1 Definitions
+  - Section 2 General
+  - Section 3 Materials, Welding and Construction
+- [[G] CHAPTER 2 STEMS AND STERN FRAMES](23_G_CHAPTER 2 STEMS AND STERN FRAMES.md)
+  - Section 1 Stems
+  - Section 2 Stern Frames
+- [[G] CHAPTER 3 LONGITUDINAL STRENGTH](24_G_CHAPTER 3 LONGITUDINAL STRENGTH.md)
+  - Section 1 General
+  - Section 2 Bending Strength
+- [[G] CHAPTER 4 PLATE KEELS AND SHELL PLATINGS](25_G_CHAPTER 4 PLATE KEELS AND SHELL PLATINGS.md)
+  - Section 1 General
+  - Section 3 Shell Plating for Midship Part of Ship
+  - Section 4 Shell Plating for End Parts
+  - Section 5 Side Plating in way of Superstructure
+  - Section 6 Local Compensation of Shell Plating
+- [[G] CHAPTER 5 DECKS](26_G_CHAPTER 5 DECKS.md)
+  - Section 1 General
+  - Section 2 Effective Sectional Area of Strength Deck
+- [[G] CHAPTER 7 DOUBLE BOTTOMS](27_G_CHAPTER 7 DOUBLE BOTTOMS.md)
+  - Section 1 General
+  - Section 5 Bottom Longitudinals
+  - Section 6 Inner Bottom Plating and Margin Plates
+  - Section 9 Construction of Strengthened Bottom Forward
+- [[G] CHAPTER 8 FRAMES](28_G_CHAPTER 8 FRAMES.md)
+  - Section 1 General
+  - Section 3 Transverse Hold Frames
+  - Section 5 Tween Deck Frames
+- [[G] CHAPTER 9 CANTILEVER BEAM CONSTRUCTION](29_G_CHAPTER 9 CANTILEVER BEAM CONSTRUCTION.md)
+  - Section 3 Connection of Cantilever Beams to Web Frames
+- [[G] CHAPTER 10 BEAMS](30_G_CHAPTER 10 BEAMS.md)
+  - Section 1 General
+  - Section 2 Deck Load
+  - Section 3 Longitudinal Beams
+  - Section 4 Transverse Beams
+- [[G] CHAPTER 11 DECK GIRDERS](31_G_CHAPTER 11 DECK GIRDERS.md)
+  - Section 1 General
+  - Section 2 Longitudinal Deck Girders
+- [[G] CHAPTER 12 PILLARS](32_G_CHAPTER 12 PILLARS.md)
+  - Section 1 General
+  - Section 2 Scantling of Pillars
+- [[G] CHAPTER 13 ARRANGEMENTS TO RESIST PANTING](33_G_CHAPTER 13 ARRANGEMENTS TO RESIST PANTING.md)
+  - Section 1 General
+  - Section 2 Arrangements to resist Panting Forward the Collision Bulkhead
+- [[G] CHAPTER 14 WATERTIGHT BULKHEADS](34_G_CHAPTER 14 WATERTIGHT BULKHEADS.md)
+  - Section 1 Arrangement
+  - Section 2 Construction
+  - Section 3 Watertight Doors (2020)
+- [[G] CHAPTER 15 DEEP TANKS](35_G_CHAPTER 15 DEEP TANKS.md)
+  - Section 1 General
+  - Section 2 Bulkheads of Deep Tanks
+- [[G] CHAPTER 16 SUPERSTRUCTURES AND DECKHOUSES](36_G_CHAPTER 16 SUPERSTRUCTURES AND DECKHOUSES.md)
+  - Section 1 General
+  - Section 3 Access Openings in Superstructure End Bulkheads
+- [[G] CHAPTER 17 MACHINERY SPACES AND ENGINE CASINGS](37_G_CHAPTER 17 MACHINERY SPACES AND ENGINE CASINGS.md)
+  - Section 1 General
+  - Section 2 Main Engine Foundations
+- [[G] CHAPTER 19 HATCHWAYS AND OTHER DECK OPENINGS](38_G_CHAPTER 19 HATCHWAYS AND OTHER DECK OPENINGS.md)
+  - Section 1 General
+- [[G] CHAPTER 21 BULWARKS, FREEING PORTS, SIDE SCUTTLES, VENTILATORS AND PERMANENT GANGWAYS](39_G_CHAPTER 21 BULWARKS, FREEING PORTS, SIDE SCUTTLES, VENTILATORS AND PER.md)
+  - Section 2 Freeing Ports 【See Rule】
+  - Section 3 Side Scuttles 【See Rule】
+- [[G] CHAPTER 22 EQUIPMENT NUMBER AND EQUIPMENT](40_G_CHAPTER 22 EQUIPMENT NUMBER AND EQUIPMENT.md)
+  - Section 1 General
+- [[G] CHAPTER 23 OIL TANKERS](41_G_CHAPTER 23 OIL TANKERS.md)
+  - Section 1 General
+  - Section 2 Hatchways, Gangways and Freeing Arrangements
+  - Section 6 Bulkheads in Cargo Oil Space
+- [[G] CHAPTER 24 DOUBLE HULL TANKERS](42_G_CHAPTER 24 DOUBLE HULL TANKERS.md)
+  - Section 1 General
+  - Section 2 Bulkhead Platings
+  - Section 10 Special Requirements for Hatchways and Permanent Gangways

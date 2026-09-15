@@ -1,0 +1,110 @@
+# PART 4 Hull Equipment
+
+> RULES FOR CLASSIFICATION OF STEEL SHIPS / RA-04-E / 2025 / EN
+
+- [[R] CHAPTER 1 RUDDERS](01_R_CHAPTER 1 RUDDERS.md)
+  - Section 1 General
+  - Section 2 Rudder Force
+  - Section 3 Rudder Torque
+  - Section 4 Rudder Strength Calculation
+  - Section 5 Rudder Stocks
+  - Section 6 Rudder Plates, Rudder Frames and Rudder Main Pieces
+  - Section 7 Couplings between Rudder Stocks and Main Pieces
+  - Section 8 Pintles
+  - Section 9 Bearings of Rudder Stocks and Pintles
+  - Section 10 Rudder Accessories
+  - Section 11 Propeller Nozzles
+- [[R] CHAPTER 2 HATCHWAYS AND OTHER DECK OPENINGS](02_R_CHAPTER 2 HATCHWAYS AND OTHER DECK OPENINGS.md)
+  - Section 1 General
+  - Section 2 Design Load
+  - Section 3 Hatch cover strength criteria
+  - Section 4 Hatch Coamings strength criteria
+  - Section 5 Hatch cover details - Closing Arrangement, Securing Devices and Stoppers
+  - Section 6 Hatch ways closed by Portable Hatch Cover and weathertighted by Tarpaulins and Battens
+  - Section 7 Miscellaneous Openings
+- [[R] CHAPTER 3 BOW DOORS, SIDE AND STERN DOORS](03_R_CHAPTER 3 BOW DOORS, SIDE AND STERN DOORS.md)
+  - Section 1 Bow Doors and Inner Doors
+  - Section 2 Side and Stern Doors
+- [[R] CHAPTER 4 BULWARKS, FREEING PORTS, SIDE SCUTTLES, RECTANGULAR WINDOWS, SKYLIGHTS VENTILATORS AND PERMANENT GANGWAYS](04_R_CHAPTER 4 BULWARKS, FREEING PORTS, SIDE SCUTTLES, RECTANGULAR WINDOWS,.md)
+  - Section 1 Bulwarks and Guardrails
+  - Section 2 Freeing Ports
+  - Section 3 Side Scuttles, Rectangular Windows and Skylights
+  - Section 4 Ventilators
+  - Section 5 Permanent Gangways
+- [[R] CHAPTER 8 EQUIPMENT NUMBER AND EQUIPMENT](05_R_CHAPTER 8 EQUIPMENT NUMBER AND EQUIPMENT.md)
+  - Section 1 General
+  - Section 2 Equipment Number
+  - Section 3 Anchors
+  - Section 4 Chains
+  - Section 5 Steel Wire Ropes
+  - Section 6 Fibre Ropes
+  - Section 7 Hatch Tarpaulins
+  - Section 8 Side Scuttles
+  - Section 9 Rectangular Windows
+- [[R] CHAPTER 9 STRENGTH AND SECURING OF SMALL HATCHES, FITTINGS AND EQUIPMENT ON THE FORE DECK](06_R_CHAPTER 9 STRENGTH AND SECURING OF SMALL HATCHES, FITTINGS AND EQUIPME.md)
+  - Section 1 Application and Implementation
+  - Section 2 Strength and Securing of Small Hatches on the Exposed Fore Deck
+  - Section 3 Strength Requirements for Fore Deck Fittings and Equipment
+- [[R] CHAPTER 10 SHIPBOARD EQUIPMENT, FITTINGS AND SUPPORTING HULL STRUCTURES ASSOCIATED WITH TOWING AND MOORING](07_R_CHAPTER 10 SHIPBOARD EQUIPMENT, FITTINGS AND SUPPORTING HULL STRUCTURE.md)
+  - Section 1 Definitions and Scope of Application
+  - Section 2 Towing and Mooring
+- [[R] CHAPTER 11 ACCESS TO AND WITHIN SPACES IN, AND FORWARD OF, THE CARGO AREA OF OIL TANKERS AND BULK CARRIERS](08_R_CHAPTER 11 ACCESS TO AND WITHIN SPACES IN, AND FORWARD OF, THE CARGO A.md)
+  - Section 1 General
+  - Section 2 Technical Provisions for Means of Access for Inspections
+- [[G] CHAPTER 1 RUDDERS](09_G_CHAPTER 1 RUDDERS.md)
+  - Section 1 General
+  - Section 4 Rudder Strength Calculation
+  - Section 5 Rudder Stocks
+  - Section 6 Rudder Plates, Rudder Frames and Rudder Main Pieces
+  - Section 7 Couplings between Rudder Stocks and Main Pieces
+  - Section 8 Pintles
+  - Section 9 Bearings of Rudders Stock and Pintles
+  - Section 10 Rudder Accessories
+  - Section 11 Propeller Nozzles
+- [[G] CHAPTER 2 HATCHWAYS AND OTHER DECK OPENINGS](10_G_CHAPTER 2 HATCHWAYS AND OTHER DECK OPENINGS.md)
+  - Section 1 General
+  - Section 2 Design Load
+  - Section 3 Hatch cover strength criteria
+  - Section 5 Hatch cover details - Closing Arrangement, Securing Devices and Stoppers
+  - Section 7 Miscellaneous Openings
+- [[G] CHAPTER 3 BOW DOORS, SIDE AND STERN DOORS](11_G_CHAPTER 3 BOW DOORS, SIDE AND STERN DOORS.md)
+  - Section 1 Bow Doors and Inner Doors
+  - Section 2 Side Shell Doors and Stern Doors
+- [[G] CHAPTER 4 BULWARKS, FREEING PORTS, SIDE SCUTTLES, RECTANGULAR WINDOWS, VENTILATORS AND PERMANENT GANGWAYS](12_G_CHAPTER 4 BULWARKS, FREEING PORTS, SIDE SCUTTLES, RECTANGULAR WINDOWS,.md)
+  - Section 1 Bulwarks and Guardrails
+  - Section 2 Freeing Ports
+  - Section 3 Side Scuttles, Rectangular Windows and Skylights
+  - Section 4 Ventilators
+  - Section 5 Permanent Gangways
+- [[G] CHAPTER 8 EQUIPMENT NUMBER AND EQUIPMENT](13_G_CHAPTER 8 EQUIPMENT NUMBER AND EQUIPMENT.md)
+  - Section 1 General
+  - Section 2 Equipment Number
+  - Section 3 Anchors
+  - Section 4 Chains
+  - Section 5 Steel Wire Ropes
+  - Section 6 Fibre Ropes
+  - Section 7 Hatch Tarpaulins
+  - Section 9 Rectangular Windows
+- [[G] CHAPTER 9 STRENGTH AND SECURING OF SMALL HATCHES, FITTINGS AND EQUIPMENT ON THE FORE DECK](14_G_CHAPTER 9 STRENGTH AND SECURING OF SMALL HATCHES, FITTINGS AND EQUIPME.md)
+  - Section 2 Strength and Securing of Small Hatches on the Exposed Fore Deck
+- [[G] CHAPTER 10 SHIPBOARD EQUIPMENT, FITTINGS AND SUPPORTING HULL STRUCTURES ASSOCIATED WITH TOWING AND MOORING](15_G_CHAPTER 10 SHIPBOARD EQUIPMENT, FITTINGS AND SUPPORTING HULL STRUCTURE.md)
+  - Section 1 Definitions and Scope of Application
+  - Section 2 Towing and Mooring
+- [[G] CHAPTER 11 ACCESS TO AND WITHIN SPACES IN,AND FORWARD OF, THE CARGO AREA OF OIL TANKERS AND BULK CARRIERS](16_G_CHAPTER 11 ACCESS TO AND WITHIN SPACES IN,AND FORWARD OF, THE CARGO AR.md)
+  - Section 1 General
+  - Section 2 Technical Provisions for Means of Access for Inspections
+- [[G] Annex 4-1 Means of Access for Ballast and Cargo Tanks of Oil Tankers](17_G_Annex 4-1 Means of Access for Ballast and Cargo Tanks of Oil Tankers.md)
+  - 1. Water ballast tanks, except those specified in Par 2, and cargo oil tanks
+  - 2. Water ballast wing tanks of less than 5 m width forming double side spaces and their bilge hopper sections
+- [[G] Annex 4-2 Means of Access for Bulk Carriers](18_G_Annex 4-2 Means of Access for Bulk Carriers.md)
+  - 1. Cargo holds
+  - 2. Ballast tanks
+- [[G] Annex 4-3 Anchoring in Deep and Unsheltered Waters](19_G_Annex 4-3 Anchoring in Deep and Unsheltered Waters.md)
+  - 1. Application
+  - 3. Anchors
+  - 4. Chain cables for bower anchors
+  - 5. Anchor windlass and chain stopper
+- [[G] Annex 4-4 Direct force calculation for anchoring equipment (2024)](20_G_Annex 4-4 Direct force calculation for anchoring equipment (2024).md)
+  - 1. Total force _s2
+  - 2. Anchor weight
+  - 3. Chain cable

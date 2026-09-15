@@ -1,0 +1,109 @@
+# PART 9 Additional Installations
+
+> RULES FOR CLASSIFICATION OF STEEL SHIPS / RA-09-E / 2025 / EN
+
+- [[R] CHAPTER 1 CARGO REFRIGERATING INSTALLATIONS](01_R_CHAPTER 1 CARGO REFRIGERATING INSTALLATIONS.md)
+  - Section 1 General
+  - Section 2 Surveys
+  - Section 3 Refrigerating Machinery
+  - Section 4 Special Requirements for Refrigerating Machinery Using Ammonia as Refrigerant
+  - Section 5 Refrigerated Chambers
+  - Section 6 Tests
+  - Section 7 Loading Port Surveys
+- [[R] CHAPTER 2 CARGO HANDLING APPLIANCES](02_R_CHAPTER 2 CARGO HANDLING APPLIANCES.md)
+  - Section 1 General
+  - Section 2 Surveys
+  - Section 3 Derrick Systems
+  - Section 4 Cranes
+  - Section 5 Cargo Fittings
+  - Section 6 Loose Gear
+  - Section 7 Machinery, Electrical Installations and Control Engineering Systems
+  - Section 8 Cargo Lifts and Cargo Ramps
+  - Section 9 Certification, Marking and Documentation
+- [[R] CHAPTER 3 AUTOMATIC AND REMOTE CONTROL SYSTEMS](03_R_CHAPTER 3 AUTOMATIC AND REMOTE CONTROL SYSTEMS.md)
+  - Section 1 General
+  - Section 2 Surveys of Automatic and Remote Control Systems
+  - Section 3 Centralized Monitoring and Control Systems for Main Propulsion and Essential Auxiliary Machinery
+  - Section 4 Operating Systems for Periodically Unattended Machinery Spaces
+  - Section 5 Specific Automatic Equipment
+- [[R] CHAPTER 4 DYNAMIC POSITIONING SYSTEMS](04_R_CHAPTER 4 DYNAMIC POSITIONING SYSTEMS.md)
+  - Section 1 General
+  - Section 2 Requirements of Dynamic Positioning Systems
+  - Section 3 Testing and Inspection
+- [[R] CHAPTER 5 NAVIGATION BRIDGE SYSTEMS](05_R_CHAPTER 5 NAVIGATION BRIDGE SYSTEMS.md)
+  - Section 1 General
+  - Section 2 Surveys of Navigation Bridge Systems
+  - Section 3 Bridge Layouts and Bridge Working Environments
+  - Section 4 Navigational Equipment
+  - Section 5 Accident Prevention Systems
+  - Section 6 Bridge Work Assist Systems
+- [[R] CHAPTER 6 HULL MONITORING SYSTEMS](06_R_CHAPTER 6 HULL MONITORING SYSTEMS.md)
+  - Section 1 General
+  - Section 2 System Requirements
+  - Section 3 Approval for Plans and Documents, Installation and Installation Survey
+  - Section 4 Periodical Survey
+- [[R] CHAPTER 7 DIVING SYSTEMS](07_R_CHAPTER 7 DIVING SYSTEMS.md)
+  - Section 1 General
+  - Section 2 Classification Surveys 【See Guidance】
+  - Section 3 Inspection and Testing
+  - Section 4 Design and Construction
+  - Section 5 PVHO
+  - Section 6 Deck Decompression Chambers and divers transfer system
+  - Section 7 Life Support System
+  - Section 8 Electrical, Control and Communication Systems
+  - Section 9 Fire Protection, Extinction and Detection
+  - Section 10 Launch and Recovery System 【See Guidance】
+  - Section 11 Hyperbaric Rescue Unit
+- [[R] CHAPTER 8 HIGH VOLTAGE SHORE CONNECTION SYSTEMS](08_R_CHAPTER 8 HIGH VOLTAGE SHORE CONNECTION SYSTEMS.md)
+  - Section 1 General
+  - Section 2 Requirements of High Voltage Shore Connection (HVSC) systems
+  - Section 3 Testing and Inspection
+- [[R] CHAPTER 9 CARGO VAPOUR EMISSION CONTROL SYSTEMS](09_R_CHAPTER 9 CARGO VAPOUR EMISSION CONTROL SYSTEMS.md)
+  - Section 1 General
+  - Section 2 Requirements for VEC1 Notation
+  - Section 3 Requirements for VEC2 Notation
+  - Section 4 Requirements for VECL Notation
+  - Section 5 Surveys
+- [[R] CHAPTER 10 BALLAST WATER MANAGEMENT](10_R_CHAPTER 10 BALLAST WATER MANAGEMENT.md)
+  - Section 1 General
+  - Section 2 Ballast Water Exchange Systems
+  - Section 3 Ballast Water Management Systems
+  - Section 4 Installation of BWMS on-board ships (2022)
+- [[G] CHAPTER 1 CARGO REFRIGERATING INSTALLATIONS](11_G_CHAPTER 1 CARGO REFRIGERATING INSTALLATIONS.md)
+  - Section 1 General
+  - Section 2 Surveys
+  - Section 3 Refrigerating Machinery
+  - Section 4 Special Requirements for Refrigerating Machinery Using Ammonia as Refrigerant
+- [[G] CHAPTER 2 CARGO HANDLING APPLIANCES](12_G_CHAPTER 2 CARGO HANDLING APPLIANCES.md)
+  - Section 1 General
+  - Section 2 Surveys
+  - Section 3 Derrick Systems
+  - Section 4 Cranes
+  - Section 5 Cargo Fittings
+  - Section 6 Loose Gear
+  - Section 7 Machinery, Electrical Installations and Control Engineering Systems
+  - Section 8 Cargo Lifts and Cargo Ramps
+- [[G] CHAPTER 3 AUTOMATIC AND REMOTE CONTROL SYSTEMS](13_G_CHAPTER 3 AUTOMATIC AND REMOTE CONTROL SYSTEMS.md)
+  - Section 2 Surveys of Automatic and Remote Control Systems
+  - Section 3 Centralized Monitoring and Control Systems for Main Propulsion and Essential Auxiliary Machinery (2025)
+  - Section 5 Specific Automatic Equipment
+- [[G] CHAPTER 4 DYNAMIC POSITIONING SYSTEMS(DP SYSTEMS) (2020)](14_G_CHAPTER 4 DYNAMIC POSITIONING SYSTEMS(DP SYSTEMS) (2020).md)
+  - Section 2 Requirements of DP Systems
+- [[G] CHAPTER 5 NAVIGATION BRIDGE SYSTEMS](15_G_CHAPTER 5 NAVIGATION BRIDGE SYSTEMS.md)
+  - Section 2 Surveys of Navigation Bridge Systems
+  - Section 5 Accident Prevention Systems
+  - Section 6 Bridge Work Assist Systems
+- [[G] CHAPTER 7 DIVING SYSTEMS (2020)](16_G_CHAPTER 7 DIVING SYSTEMS (2020).md)
+  - Section 1 Classification
+  - Section 2 Surveys 【See Rule】
+  - Section 3 Testing
+  - Section 5 PVHO
+  - Section 6 Deck Decompression Chambers and divers transfer system
+  - Section 7 Life Support System
+  - Section 10 Launch and Recovery System 【See Rule】
+  - Section 11 Hyperbaric Rescue Unit
+- [[G] CHAPTER 8 HIGH VOLTAGE SHORE CONNECTION SYSTEMS](17_G_CHAPTER 8 HIGH VOLTAGE SHORE CONNECTION SYSTEMS.md)
+  - Section 1 General
+- [[G] CHAPTER 10 BALLAST WATER MANAGEMENT](18_G_CHAPTER 10 BALLAST WATER MANAGEMENT.md)
+  - Section 3 Ballast Water Management Systems
+  - Section 4 Installation of BWMS on-board ships

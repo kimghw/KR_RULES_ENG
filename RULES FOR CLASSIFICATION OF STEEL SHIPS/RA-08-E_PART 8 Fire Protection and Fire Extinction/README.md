@@ -1,0 +1,179 @@
+# PART 8 Fire Protection and Fire Extinction
+
+> RULES FOR CLASSIFICATION OF STEEL SHIPS / RA-08-E / 2025 / EN
+
+- [[R] CHAPTER 1 GENERAL](01_R_CHAPTER 1 GENERAL.md)
+  - Section 1 General
+- [[R] CHAPTER 2 PROBABILITY OF IGNITION](02_R_CHAPTER 2 PROBABILITY OF IGNITION.md)
+  - Section 1 Arrangements for Oil Fuel, Lubrication Oil and Other Flammable Oils
+  - Section 2 Arrangements for Gaseous Fuel for Domestic Purpose
+  - Section 3 Miscellaneous Items of Ignition Sources and Ignitability
+  - Section 4 Cargo Areas of Tankers 【See Guidance】
+- [[R] CHAPTER 3 FIRE GROWTH POTENTIAL](03_R_CHAPTER 3 FIRE GROWTH POTENTIAL.md)
+  - Section 1 Control of Air Supply and Flammable Liquid to The Spaces
+  - Section 2 Fire Protection Materials 【See Guidance】
+- [[R] CHAPTER 4 SMOKE GENERATION POTENTIAL AND TOXICITY](04_R_CHAPTER 4 SMOKE GENERATION POTENTIAL AND TOXICITY.md)
+  - Section 1 Paints, Varnishes and Other Finishes
+  - Section 2 Primary Deck Coverings
+- [[R] CHAPTER 5 DETECTION AND ALARM](05_R_CHAPTER 5 DETECTION AND ALARM.md)
+  - Section 1 General
+  - Section 2 Protection of Machinery Spaces
+  - Section 3 Protection of Accommodation and Service Spaces and Control Stations
+  - Section 4 Protection of Cargo Spaces in Passenger Ships
+  - Section 5 Manually Operated Call Points
+  - Section 6 Fire Patrols in Passenger Ships
+  - Section 7 Fire Alarm Signalling Systems in Passenger Ships
+  - Section 8 Protection of cabin balconies on passenger ships
+- [[R] CHAPTER 6 CONTROL OF SMOKE SPREAD](06_R_CHAPTER 6 CONTROL OF SMOKE SPREAD.md)
+  - Section 1 Protection of Control Stations Outside Machinery Space
+  - Section 2 Release of Smoke from Machinery Spaces
+  - Section 3 Draft Stops
+  - Section 4 Smoke Extraction Systems in Atriums of Passenger Ships
+- [[R] CHAPTER 7 CONTAINMENT OF FIRE](07_R_CHAPTER 7 CONTAINMENT OF FIRE.md)
+  - Section 1 Thermal and Structural Boundaries
+  - Section 2 Penetration in Fire-resisting Divisions and Prevention of Heat Transmission
+  - Section 3 Protection of Openings in Fire-resisting Divisions
+  - Section 4 Protection of Openings In Machinery Space Boundaries
+  - Section 5 Protection of Cargo Space Boundaries
+  - Section 6 Ventilation Systems 【See Guidance】
+- [[R] CHAPTER 8 FIRE FIGHTING](08_R_CHAPTER 8 FIRE FIGHTING.md)
+  - Section 1 Water Supply System
+  - Section 2 Portable Fire Extinguisher
+  - Section 3 Fixed Fire-extinguishing Systems
+  - Section 4 Fire Extinguishing Arrangements In Machinery Spaces
+  - Section 5 Fire-extinguishing Arrangements In Control Stations, Accommodation and Service Spaces
+  - Section 6 Fire-extinguishing Arrangements In Cargo Spaces
+  - Section 7 Cargo Tank Protection
+  - Section 8 Protection of Cargo Pump Room
+  - Section 9 Fire-fighter's Outfit
+  - Section 10 Fire-extinguishing media restrictions (2025)
+- [[R] CHAPTER 9 STRUCTURAL INTEGRITY](09_R_CHAPTER 9 STRUCTURAL INTEGRITY.md)
+  - Section 1 Material
+  - Section 2 Structure of aluminium alloy
+  - Section 3 Machinery Spaces of Category A
+  - Section 4 Materials of Overboard Fittings
+  - Section 5 Protection of Cargo Tank Structure Against Pressure Or Vacuum In Tankers
+- [[R] CHAPTER 10 ESCAPE](10_R_CHAPTER 10 ESCAPE.md)
+  - Section 1 Notification of crew and passengers
+  - Section 2 Means of escape
+- [[R] CHAPTER 11 HELICOPTER FACILITIES](11_R_CHAPTER 11 HELICOPTER FACILITIES.md)
+  - Section 1 Application
+  - Section 2 Structure
+  - Section 3 Means of Escape
+  - Section 4 Fire-fighting Appliances
+  - Section 5 Drainage Facilities
+  - Section 6 Helicopter Refueling and Hanger Facilities
+  - Section 7 Operations Manual and Fire-fighting Service
+- [[R] CHAPTER 12 CARRIAGE OF DANGEROUS GOODS](12_R_CHAPTER 12 CARRIAGE OF DANGEROUS GOODS.md)
+  - Section 1 General Requirements
+  - Section 2 Special Requirements
+  - Section 3 Document of Compliance
+- [[R] CHAPTER 13 PROTECTION OF VEHICLE, SPECIAL CATEGORY AND RO-RO SPACES](13_R_CHAPTER 13 PROTECTION OF VEHICLE, SPECIAL CATEGORY AND RO-RO SPACES.md)
+  - Section 1 General Requirements
+  - Section 2 Precaution against ignition of flammable vapours in closed vehicle spaces closed ro-ro spaces and special category spaces
+  - Section 3 Detection and alarm
+  - Section 4 Structure protection
+  - Section 5 Fire-extinction
+  - Section 6 Requirements for vehicle carriers carrying motor vehicles with compressed hydrogen or natural gas in their tanks for theirown propulsion as cargo (2017)
+- [[R] CHAPTER 14 SAFETY RETURN TO PORT SYSTEM ON PASSENGER SHIPS](14_R_CHAPTER 14 SAFETY RETURN TO PORT SYSTEM ON PASSENGER SHIPS.md)
+  - Section 1 General
+- [[G] CHAPTER 1 GENERAL](15_G_CHAPTER 1 GENERAL.md)
+  - Section 1 General
+- [[G] CHAPTER 2 PROBABILITY OF IGNITION](16_G_CHAPTER 2 PROBABILITY OF IGNITION.md)
+  - Section 1 Arrangements for Oil Fuel, Lubrication Oil and Other Flammable Oils
+  - Section 2 Arrangements for Gaseous Fuel for Domestic Purpose
+  - Section 3 Miscellaneous Items of Ignition Sources and Ignitability
+  - Section 4 Cargo Areas of Tankers
+- [[G] CHAPTER 3 FIRE GROWTH POTENTIAL](17_G_CHAPTER 3 FIRE GROWTH POTENTIAL.md)
+  - Section 1 Control of Air Supply and Flammable Liquid to The Spaces
+  - Section 2 Fire Protection Materials 【See Rule】
+- [[G] CHAPTER 4 SMOKE GENERATION POTENTIAL AND TOXICITY](18_G_CHAPTER 4 SMOKE GENERATION POTENTIAL AND TOXICITY.md)
+  - Section 1 Paints, Varnishes and Other Finishes
+  - Section 2 Primary Deck Coverings
+- [[G] CHAPTER 5 DETECTION AND ALARM](19_G_CHAPTER 5 DETECTION AND ALARM.md)
+  - Section 1 General
+  - Section 2 Protection of Machinery Spaces
+  - Section 3 Protection of Accommodation and Service Spaces and Control Stations
+  - Section 5 Manually Operated Call Points
+  - Section 8 Protection of cabin balconies on passenger ships
+- [[G] CHAPTER 6 CONTROL OF SMOKE SPREAD](20_G_CHAPTER 6 CONTROL OF SMOKE SPREAD.md)
+  - Section 1 Protection of Control Stations Outside Machinery Space
+  - Section 3 Draft Stops
+- [[G] CHAPTER 7 CONTAINMENT OF FIRE](21_G_CHAPTER 7 CONTAINMENT OF FIRE.md)
+  - Section 1 Thermal and Structural Boundaries
+  - Section 2 Penetration in Fire-resisting Divisions and Prevention of Heat Transmission
+  - Section 3 Protection of Openings in Fire-resisting Divisions
+  - Section 5 Protection of Cargo Space Boundaries
+  - Section 6 Ventilation Systems 【See Rule】
+- [[G] CHAPTER 8 FIRE FIGHTING](22_G_CHAPTER 8 FIRE FIGHTING.md)
+  - Section 1 Water Supply System
+  - Section 2 Portable Fire Extinguisher
+  - Section 3 Fixed Fire-extinguishing Systems
+  - Section 4 Fire Extinguishing Arrangements In Machinery Spaces
+  - Section 5 Fire-extinguishing Arrangements In Control Stations, Accommodation and Service Spaces
+  - Section 6 Fire-extinguishing Arrangements In Cargo Spaces
+  - Section 7 Cargo Tank Protection
+  - Section 8 Protection of Cargo Pump Room
+  - Section 9 Fire-fighter's Outfit
+- [[G] CHAPTER 9 STRUCTURAL INTEGRITY](23_G_CHAPTER 9 STRUCTURAL INTEGRITY.md)
+  - Section 1 Material
+  - Section 2 Structure of aluminium alloy
+  - Section 3 Machinery Spaces of Category A
+  - Section 4 Materials of Overboard Fittings
+  - Section 5 Protection of Cargo Tank Structure Against Pressure or Vacuum In Tankers
+- [[G] CHAPTER 10 ESCAPE](24_G_CHAPTER 10 ESCAPE.md)
+  - Section 2 Means of escape
+- [[G] CHAPTER 11 HELICOPTER FACILITIES](25_G_CHAPTER 11 HELICOPTER FACILITIES.md)
+  - Section 1 Application
+  - Section 4 Fire-fighting Appliances
+- [[G] CHAPTER 12 CARRIAGE OF DANGEROUS GOODS](26_G_CHAPTER 12 CARRIAGE OF DANGEROUS GOODS.md)
+  - Section 1 General Requirements
+  - Section 2 Special Requirements
+  - Section 3 Document of compliance
+- [[G] CHAPTER 13 PROTECTION OF VEHICLE, SPECIAL CATEGORY AND RO-RO SPACES](27_G_CHAPTER 13 PROTECTION OF VEHICLE, SPECIAL CATEGORY AND RO-RO SPACES.md)
+  - Section 1 General Requirements
+  - Section 2 Precaution against ignition of flammable vapours in closed vehicle spaces closed ro-ro spaces and special category spaces
+  - Section 3 Detection and alarm
+  - Section 5 Fire-extinction
+- [[G] Annex 8-1 Fire Protection Materials](28_G_Annex 8-1 Fire Protection Materials.md)
+  - 2. The superscripts to “◯” are as follows:
+- [[G] Annex 8-2 Penetrations through Divisions](29_G_Annex 8-2 Penetrations through Divisions.md)
+  - 1. Penetrations of Pipes or Trunks
+- [[G] Annex 8-3 Special Requirements for Ships which are not engaged in international voyage or Ships of less than 500 gross tonnage (Fire-fighting system of ships which are subject to Ships Safety Law of the Korean Government, but not SOLAS, shall follow the relevant requirements)](30_G_Annex 8-3 Special Requirements for Ships which are not engaged in inte.md)
+  - 1. For ships of less than 500 gross tonnage or not engaged in international voyage and for restricted service, such ships may be also loosened as follows.
+  - 2. For passenger ships, such ships may be also loosened as follows.
+  - 3. For cargo ships, such ships may be also loosened as follows.
+- [[G] Annex 8-4 Alleviation Requirements for Fishing Vessels](31_G_Annex 8-4 Alleviation Requirements for Fishing Vessels.md)
+  - 1. Fire pumps may be also loosened as follows.
+  - 3. Hydrants may be also loosened as follows.
+  - 4. Fire hoses and nozzles may be loosened as follows.
+  - 5. Fire-fighter's outfit may be loosened as follows.
+  - 7. Fire-extinguishing systems in accommodation and service spaces and control stations may be loosened as follows.
+  - 8. Fire-extinguishing arrangement in machinery spaces may be also loosened as follows.
+  - 10. For fishing vessels equipped with helidecks, in close proximity to the helideck, the following fire-fighting appliances are to be provided and stored near the means of access to that helideck:
+- [[G] Annex 8-5 Inert Gas Systems](32_G_Annex 8-5 Inert Gas Systems.md)
+  - 1. Definitions
+  - 2. General requirements
+  - 3. Requirements for flue gas and inert gas generator systems
+  - 4. Requirements for nitrogen generator systems
+  - 5. Nitrogen/Inert gas systems fitted for purposes other than inerting required by Ch.2 405. of the Rules.
+  - 6. In case where glass-fibre reinforced plastic pipes are used for the drainage piping from the scrubber and blower fan casing, the following requirements are to be complied with:
+  - 7. Installation inspection of inert gas system shall be complied with the following requirements:
+- [[G] Annex 8-6 Other Operation Requirements, etc. 【See Rule】](33_G_Annex 8-6 Other Operation Requirements, etc. 【See Rule】.md)
+  - 1. At all times while the ship is in service, the requirements that fire protection systems and fire-fighting systems and appliances are to be maintained ready for use shall be complied with. A ship is not in service when:
+  - 2. The following fire protection systems shall be kept in good order so as to ensure their required performance if a fire occurs:
+  - 6. The maintenance plan shall include at least the following fire protection systems and fire-fighting systems and appliances, where installed:
+  - 9. In addition to the fire protection systems and appliances listed in paragraph 102. 3 tankers shall develop a maintenance plan for:
+  - 13. The training manual shall explain the following in detail:
+  - 21. Additional requirements for tankers (2020)
+- [[G] Annex 8-7 Safe Return to Port System on Passenger Ships 【See Rule】](34_G_Annex 8-7 Safe Return to Port System on Passenger Ships 【See Rule】.md)
+  - 2. The objectives are to be as specified in the followings.
+  - 3. Casualty threshold
+  - 4. Safe return to port
+  - 5. Safe area(s)
+  - 6. Safety centre on passenger ships
+- [[G] Annex 8-9 Special Requirements of Fire Protection and Fire Extinction for Cargo Ships (2021)](35_G_Annex 8-9 Special Requirements of Fire Protection and Fire Extinction.md)
+  - Section 1 General Requirements
+  - Section 2 Protection of Accommodation Spaces
+  - Section 3 Protection of Machinery Spaces
+  - Section 4 Protection of Cargo areas

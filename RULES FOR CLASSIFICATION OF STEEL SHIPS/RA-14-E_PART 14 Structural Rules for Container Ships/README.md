@@ -1,0 +1,89 @@
+# PART 14 Structural Rules for Container Ships
+
+> RULES FOR CLASSIFICATION OF STEEL SHIPS / RA-14-E / 2025 / EN
+
+- [[R] Chapter 1 General Principles](01_R_Chapter 1 General Principles.md)
+  - Section 1 Application
+  - Section 2 Rule Principles
+  - Section 3 Verification of Compliance
+  - Section 4 Symbols and Definitions
+  - Section 5 Loading Manual and Loading Instrument
+- [[R] Chapter 2 General Arrangement](02_R_Chapter 2 General Arrangement.md)
+  - Section 1 Application
+  - Section 2 Subdivision Arrangement
+  - Section 3 Compartment Arrangement
+  - Section 4 Access Arrangement
+- [[R] Chapter 3 Structural Design Principles](03_R_Chapter 3 Structural Design Principles.md)
+  - Section 1 Materials
+  - Section 2 Net Scantling Approach
+  - Section 3 Corrosion Additions
+  - Section 4 Corrosion Protection
+  - Section 5 Limit States
+  - Section 6 Structural Detail Principles
+  - Section 7 Structural Idealisation
+- [[R] Chapter 4 Loads](04_R_Chapter 4 Loads.md)
+  - Section 1 Introduction
+  - Section 2 Dynamic Load Cases
+  - Section 3 Ship Motions and Accelerations
+  - Section 4 Hull Girder Loads
+  - Section 5 External Loads
+  - Section 6 Internal Loads
+  - Section 7 Design Load Scenarios
+  - Section 8 Loading Conditions
+- [[R] Chapter 5 Hull Girder Strength](05_R_Chapter 5 Hull Girder Strength.md)
+  - Section 1 Hull Girder Yield and Buckling Strength
+  - Section 2 Hull girder ultimate strength
+  - Appendix 1 – Direct Calculation of Shear Flow
+  - Appendix 2 – Hull Girder Ultimate Bending Capacity
+  - Appendix 3 – Definition of Hull Girder Torsional Properties
+- [[R] Chapter 6 Hull Local Scantling](06_R_Chapter 6 Hull Local Scantling.md)
+  - Section 1 General
+  - Section 2 Load Application
+  - Section 3 Minimum Thickness
+  - Section 4 Plating
+  - Section 5 Stiffeners
+  - Section 6 Primary Support members and Pillars
+- [[R] Chapter 7 Direct Strength Analysis](07_R_Chapter 7 Direct Strength Analysis.md)
+  - Section 1 Strength Assessment
+  - Section 2 Cargo Hold Structural Strength Analysis
+  - Section 3 Local Structural Strength Analysis
+- [[R] Chapter 8 Buckling](08_R_Chapter 8 Buckling.md)
+  - Section 1 General
+  - Section 2 Slenderness requirements
+  - Section 3 Prescriptive buckling requirements
+  - Section 4 Buckling requirements for DSA
+  - Section 5 Buckling capacity
+  - Section 6 Stress Based Reference Stresses
+- [[R] Chapter 9 Fatigue](09_R_Chapter 9 Fatigue.md)
+  - Section 1 General Considerations
+  - Section 2 Structural Details to be Assessed
+  - Section 3 Fatigue Evaluation
+  - Section 4 Simplified Stress Analysis
+  - Section 5 Finite Element Stress Analysis
+  - Section 6 Detail Design Standard
+- [[R] Chapter 10 Other Structures](10_R_Chapter 10 Other Structures.md)
+  - Section 1 Fore Part
+  - Section 2 Machinery Space
+  - Section 3 Aft Part
+  - Section 4 Tanks Subject to Sloshing
+- [[R] Chapter 11 Superstructure, Deckhouses and Hull Outfitting](11_R_Chapter 11 Superstructure, Deckhouses and Hull Outfitting.md)
+  - Section 1 Superstructures and Deckhouses
+  - Section 2 Bulwark, Guard Rails and Breakwater
+  - Section 3 Equipment
+  - Section 4 Supporting Structure for Deck Equipment and Fittings
+  - Section 5 Hatchways
+- [[R] Chapter 12 Construction](12_R_Chapter 12 Construction.md)
+  - Section 1 Construction and Fabrication
+  - Section 2 Fabrication by Welding
+  - Section 3 Design of Weld Joints
+  - Section 4 Use of Extremely Thick Steel
+- [[R] Chapter 13 Ship in Operation - Renewal Criteria](13_R_Chapter 13 Ship in Operation - Renewal Criteria.md)
+  - Section 1 Principles and Survey Requirements
+  - Section 2 Acceptance Criteria
+- [[R] Chapter 14 Container Securing](14_R_Chapter 14 Container Securing.md)
+  - Section 1 Securing Systems
+- [[R] Annex 14-1 Strength assessment of flooded condition for fire-fighting](15_R_Annex 14-1 Strength assessment of flooded condition for fire-fighting.md)
+  - 1. General
+  - 2. Loads
+  - 3. Hull local scantling
+  - 4. Cargo Hold Structural Strength Analysis

@@ -1,0 +1,78 @@
+# Guidance for WIG Craft(Wing-In-Ground Effect Craft)
+
+> OTHER RULES AND GUIDANCE / GC-07-E / 2025 / EN
+
+- [[G] CHAPTER 1 GENERAL](01_G_CHAPTER 1 GENERAL.md)
+  - 102. Equivalence
+  - 103. Definitions
+  - 104. Type of WIG craft
+  - 105. WIG craft operational mode
+- [[G] CHAPTER 2 CLASSIFICATION AND SURVEYS](02_G_CHAPTER 2 CLASSIFICATION AND SURVEYS.md)
+  - 102. Classification survey
+  - 104. Submission of plans and documents
+- [[G] CHAPTER 3 STRUCTURES](03_G_CHAPTER 3 STRUCTURES.md)
+  - 101. General
+  - 102. Materials and Weldings
+  - 103. Structures
+  - 104. Hull Openings and Tightness test
+- [[G] CHAPTER 4 EQUIPMENT](04_G_CHAPTER 4 EQUIPMENT.md)
+  - 102. Rudder and Steering Gear
+  - 103. Anchoring Equipment
+  - 104. Mooring and Towing Arrangements
+- [[G] CHAPTER 5 STABILITY AND SUBDIVISION](05_G_CHAPTER 5 STABILITY AND SUBDIVISION.md)
+  - 101. General
+  - 102. Buoyancy
+  - 103. Intact stability
+  - 104. WIG craft weather criteria
+  - 105. Buoyancy and stability in the displacement mode following damage
+  - 106. Inclining and stability information
+  - 107. Marking of the draft mark and the design waterline
+  - 108. Passenger regulations
+- [[G] CHAPTER 6 MACHINERY](06_G_CHAPTER 6 MACHINERY.md)
+  - 102. Main propulsion and auxiliary machinery
+  - 103. Auxiliaries and piping arrangement
+- [[G] CHAPTER 7 ELECTRICAL EQUIPMENT AND CONTROL SYSTEMS](07_G_CHAPTER 7 ELECTRICAL EQUIPMENT AND CONTROL SYSTEMS.md)
+  - 101. General
+  - 102. Main source of electrical power
+  - 103. Emergency source of electrical power
+  - 104. Starting arrangements for generating sets
+  - 105. Steering and attitude control
+  - 106. Precautions against shock, fire and other hazards of electrical origin
+- [[G] CHAPTER 8 FIRE PROTECTION](08_G_CHAPTER 8 FIRE PROTECTION.md)
+  - 101. General
+  - 102. Definitions
+  - 103. Structural fire protection
+  - 104. Passenger and crew compartment interiors
+  - 105. Cargo compartment fire protection.
+  - 107. Flammable fluid fire protection
+  - 108. Designated fire zones
+  - 111. Pipe lines, fittings and components
+  - 112. Shutoff means
+  - 113. Cowling and nacelle
+  - 115. Ventilation
+  - 116. Fuel system
+- [[G] CHAPTER 9 FIRE EXTINCTION](09_G_CHAPTER 9 FIRE EXTINCTION.md)
+  - 102. Fire detection system general
+  - 103. General requirements of fire detection system
+  - 104. Fire-detection system for machinery space
+  - 105. General requirement of fire extinguishers
+  - 106. Arrangement of portable fire extinguisher
+  - 107. Fixed gas fire-extinguishing system
+  - 108. Fire control plans
+  - 110. Provision for passenger WIG craft
+  - 111. Provision for general WIG craft
+- [[G] CHAPTER 10 EVACUATION INSTALLATIONS](10_G_CHAPTER 10 EVACUATION INSTALLATIONS.md)
+  - 101. General
+  - 102. Access doors
+  - 103. Access doors and escape equipment
+  - 104. Emergency escape
+  - 105. Emergency exits for pilots
+  - 106. Emergency exits
+  - 107. Emergency exit marking
+  - 108. Emergency lighting
+  - 109. Accessibility for the emergency exit
+  - 110. Evacuation time
+  - 111. Noise levels
+- [[G] CHAPTER 11 SPECIAL INSTALLATIONS](11_G_CHAPTER 11 SPECIAL INSTALLATIONS.md)
+  - 101. Alarm System
+  - 102. Aerodynamic Stabilization System

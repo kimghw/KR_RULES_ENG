@@ -1,0 +1,131 @@
+# Rules and Guidance for the Classification of Mobile Offshore Drilling Units
+
+> RULES AND GUIDANCE FOR OFFSHORE STRUCTURES / RB-13-E / 2025 / EN
+
+- [[R] CHAPTER 1 GENERAL](01_R_CHAPTER 1 GENERAL.md)
+  - Section 1 General
+  - Section 2 Definitions
+- [[R] CHAPTER 2 CLASSIFICATION AND SURVEYS](02_R_CHAPTER 2 CLASSIFICATION AND SURVEYS.md)
+  - Section 1 General
+  - Section 2 Classification
+  - Section 3 Surveys
+- [[R] CHAPTER 3 CONSTRUCTION, STRENGTH AND MATERIALS](03_R_CHAPTER 3 CONSTRUCTION, STRENGTH AND MATERIALS.md)
+  - Section 1 General
+  - Section 2 Access
+  - Section 3 Design Loads
+  - Section 4 Calculation of Strength
+  - Section 5 Surface Type Units
+  - Section 6 Self-elevating Units
+  - Section 7 Column-stabilized Units
+  - Section 8 Towing Arrangements
+  - Section 9 Fatigue Analysis
+  - Section 10 Materials
+  - Section 11 Anti-fouling Systems
+  - Section 12 Protective Coatings of Dedicated Seawater Ballast Tanks
+  - Section 13 Construction Portfolio
+  - Section 14 Welding
+  - Section 15 Drainage and Sediment Control
+  - Section 16 Ice Strengthening
+  - Section 17 Corrosion Control
+  - Section 18 Guardrails and Bulwarks
+  - Section 19 Temporary or Emergency Mooring Equipment
+- [[R] CHAPTER 4 SUBDIVISION, STABILITY AND FREEBOARD](04_R_CHAPTER 4 SUBDIVISION, STABILITY AND FREEBOARD.md)
+  - Section 1 Inclining Test
+  - Section 2 Righting Moment and Heeling Moment Curves
+  - Section 3 Intact Stability Criteria
+  - Section 4 Subdivision and Damage Stability
+  - Section 5 Extent of Damage
+  - Section 6 Watertight Integrity
+  - Section 7 Freeboard
+- [[R] CHAPTER 5 MACHINERY INSTALLATIONS OF](05_R_CHAPTER 5 MACHINERY INSTALLATIONS OF.md)
+  - Section 1 General
+  - Section 2 Machinery Installations
+- [[R] CHAPTER 6 ELECTRICAL INSTALLATIONS FOR](06_R_CHAPTER 6 ELECTRICAL INSTALLATIONS FOR.md)
+  - Section 1 General
+  - Section 2 Electrical Installations
+  - Section 3 Alarms and Internal Communication
+- [[R] CHAPTER 7 MACHINERY AND ELECTRICAL INSTALLATIONS IN HAZARDOUS AREAS](07_R_CHAPTER 7 MACHINERY AND ELECTRICAL INSTALLATIONS IN HAZARDOUS AREAS.md)
+  - Section 1 General
+  - Section 2 Extent of Hazardous Area
+  - Section 3 Ventilation
+  - Section 4 Emergency Shutdown for Electrical Equipment
+  - Section 5 Electrical Installations in Hazardous Areas
+  - Section 6 Machinery Installations in Hazardous Areas
+- [[R] CHAPTER 8 MACHINERY AND ELECTRICAL INSTALLATIONS FOR SELF-PROPELLED UNITS](08_R_CHAPTER 8 MACHINERY AND ELECTRICAL INSTALLATIONS FOR SELF-PROPELLED UN.md)
+  - Section 1 General
+  - Section 2 Means of Going Astern
+  - Section 3 Steam Boilers and Boiler Feed Systems
+  - Section 4 Machinery Controls
+  - Section 5 Steering
+  - Section 6 Communication between the Navigating Bridge and the Engine Room
+  - Section 7 Engineers’ Alarm
+  - Section 8 Main Source of Electrical Power
+- [[R] CHAPTER 9 PERIODICALLY UNATTENDED MACHINERY SPACES FOR ALL TYPES OF UNITS](09_R_CHAPTER 9 PERIODICALLY UNATTENDED MACHINERY SPACES FOR ALL TYPES OF UN.md)
+  - Section 1 General
+  - Section 2 Fire Protection and Fire Fighting
+  - Section 3 Protection against Flooding
+  - Section 4 Bridge Control of Propulsion Machinery
+  - Section 5 Communication and Alarm System
+  - Section 6 Special Provisions for Machinery, Boiler and Electrical Installations
+  - Section 7 Safety Systems
+- [[R] CHAPTER 10 FIRE PROTECTION, MEANS OF ESCAPE AND FIRE EXTINCTION](10_R_CHAPTER 10 FIRE PROTECTION, MEANS OF ESCAPE AND FIRE EXTINCTION.md)
+  - Section 1 General
+  - Section 2 Fire Protection and Means of Escape
+  - Section 3 Fire Extinction
+  - Section 4 Fire Extinguishing Systems for Helicopter Facilities
+  - Section 5 Gas Cylinders
+  - Section 6 Other Operational Requirements
+- [[R] CHAPTER 11 LIFTING DEVICES, PERSONNEL AND PILOT TRANSFER](11_R_CHAPTER 11 LIFTING DEVICES, PERSONNEL AND PILOT TRANSFER.md)
+  - Section 1 Cranes
+  - Section 2 Lifting and Hoisting Equipment
+  - Section 3 Personnel Lifts
+  - Section 4 Personnel and Pilot Transfer
+  - Section 5 Drilling Derricks
+- [[R] CHAPTER 12 HELICOPTER FACILITIES](12_R_CHAPTER 12 HELICOPTER FACILITIES.md)
+  - Section 1 General
+  - Section 2 Definitions
+  - Section 3 Construction
+  - Section 4 Arrangements
+  - Section 5 Visual Aids
+  - Section 6 Motion Sensing System
+  - Section 7 Exemptions
+- [[G] CHAPTER 1 GENERAL](13_G_CHAPTER 1 GENERAL.md)
+  - Section 2 Definitions
+- [[G] CHAPTER 3 CONSTRUCTION, STRENGTH AND MATERIALS](14_G_CHAPTER 3 CONSTRUCTION, STRENGTH AND MATERIALS.md)
+  - Section 2 Access
+- [[G] CHAPTER 7 MACHINERY AND ELECTRICAL INSTALLATIONS IN HAZARDOUS AREAS (2020)](15_G_CHAPTER 7 MACHINERY AND ELECTRICAL INSTALLATIONS IN HAZARDOUS AREAS (2.md)
+  - Section 5 Electrical Installations in Hazardous Areas
+- [[G] CHAPTER 11 LIFTING DEVICES, PERSONNEL AND PILOT TRANSFER (2019)](16_G_CHAPTER 11 LIFTING DEVICES, PERSONNEL AND PILOT TRANSFER (2019).md)
+  - Section 5 Drilling Derricks
+- [[G] CHAPTER 1 GENERAL](17_G_CHAPTER 1 GENERAL.md)
+  - Section 1 General
+  - Section 2 Definitions
+- [[G] CHAPTER 2 CLASSIFICATION AND SURVEYS](18_G_CHAPTER 2 CLASSIFICATION AND SURVEYS.md)
+  - Section 1 General
+  - Section 2 Classification
+  - Section 3 Survey
+- [[G] CHAPTER 3 MATERIALS, WELDING AND NONDESTRUCTIVE EXAMINATION](19_G_CHAPTER 3 MATERIALS, WELDING AND NONDESTRUCTIVE EXAMINATION.md)
+  - Section 1 Materials
+  - Section 2 Welding and Nondestructive Examination
+- [[G] CHAPTER 4 DRILLING SYSTEMS](20_G_CHAPTER 4 DRILLING SYSTEMS.md)
+  - Section 1 General
+  - Section 2 Well Control System
+  - Section 3 Marine Drilling Riser System
+  - Section 4 Drill String Compensation System
+  - Section 5 Bulk Storage, Circulation and Transfer Systems
+  - Section 6 Hoisting, Lifting, Rotating and Pipe Handling Systems
+  - Section 7 Well Test System
+  - Section 8 Pressure-Retaining Equipment
+  - Section 9 Prime Mover
+  - Section 10 Skid Mounted Equipment
+- [[G] CHAPTER 5 PIPING SYSTEMS](21_G_CHAPTER 5 PIPING SYSTEMS.md)
+  - Section 1 General
+  - Section 2 Design Criteria
+  - Section 3 Materials, Welding and Nondestructive Examination
+- [[G] CHAPTER 6 ELECTRICAL EQUIPMENT AND CONTROL SYSTEM](22_G_CHAPTER 6 ELECTRICAL EQUIPMENT AND CONTROL SYSTEM.md)
+  - Section 1 Electrical Equipment
+  - Section 2 Control Systems
+- [[G] Annex 2 Technical Provisions of Means of Access](23_G_Annex 2 Technical Provisions of Means of Access.md)
+  - 101. General
+  - 102. Definitions
+  - 103. Technical provisions

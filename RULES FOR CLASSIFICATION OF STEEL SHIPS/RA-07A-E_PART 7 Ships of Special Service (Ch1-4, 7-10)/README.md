@@ -1,0 +1,214 @@
+# PART 7 Ships of Special Service (Ch1-4, 7-10)
+
+> RULES FOR CLASSIFICATION OF STEEL SHIPS / RA-07A-E / 2025 / EN
+
+- [[R] CHAPTER 1 OIL TANKERS](01_R_CHAPTER 1 OIL TANKERS.md)
+  - Section 1 General
+  - Section 2 Hatchways, Gangways and Freeing Arrangements
+  - Section 3 Longitudinal Frames and Beams in Cargo Oil Spaces
+  - Section 4 Girders, Transverses and Cross Ties in Cargo Oil Spaces
+  - Section 5 Bulkheads in Cargo Oil Spaces
+  - Section 6 Relative Deformation of Wing Tanks
+  - Section 7 Welding
+  - Section 8 Supplementary Provisions for Tankers Having Longitudinal Bulkhead at Centre Line Only
+  - Section 9 Special Requirements for Wing Tanks at Fore Parts
+  - Section 10 Piping Systems and Venting Systems for Oil Tankers
+  - Section 11 Electrical Equipment
+- [[R] CHAPTER 2 ORE CARRIERS](02_R_CHAPTER 2 ORE CARRIERS.md)
+  - Section 1 General
+  - Section 2 Double bottoms
+  - Section 3 Wing Tanks or Void Spaces
+  - Section 4 Transverse Bulkheads and Stools in Ore Holds
+  - Section 5 Relative Deformation of Wing Tanks
+  - Section 6 Decks and Miscellaneous
+  - Section 7 Ore/Oil Carriers
+- [[R] CHAPTER 3 BULK CARRIERS](03_R_CHAPTER 3 BULK CARRIERS.md)
+  - Section 1 General
+  - Section 2 Harmonised Notations and Corresponding Design Loading Conditions
+  - Section 3 Double Bottoms
+  - Section 4 Hopper Tanks
+  - Section 5 Topside Tanks
+  - Section 6 Transverse Bulkheads and Stools
+  - Section 7 Hold Frames
+  - Section 8 Decks and Shell Platings
+  - Section 10 Longitudinal Strength of Hull Girder in Flooded Condition for
+  - Section 11 Evaluation of Allowable Hold Loading for Bulk Carriers Considering Hold Flooding
+  - Section 12 Evaluation of Scantlings of Corrugated Transverse Watertight Bulkheads in Bulk Carriers Considering Hold Flooding
+  - Section 13 Requirements for the Fitting of a Forecastle for Bulk Carriers, Ore Carriers and Combination Carriers
+  - Section 14 Water Level Detection & Alarms and Drainage & Pumping Systems for Bulk Carriers and Single Hold Cargo Ships
+  - Section 15 Supplementary Provisions for Carriage of Liquid in Holds
+  - Section 16 Electrical Equipment of Coal Carriers
+  - Section 17 Renewal Criteria for Side Shell Frames and Brackets in Single Side Skin Bulk Carriers and Single Side Skin OBO Carriers
+  - Section 18 Cargo Hatch Cover Securing Arrangements
+- [[R] CHAPTER 4 CONTAINER SHIPS](04_R_CHAPTER 4 CONTAINER SHIPS.md)
+  - Section 1 General
+  - Section 2 Longitudinal Strength
+  - Section 3 Double Bottoms
+  - Section 4 Double Side Construction
+  - Section 5 Transverse Bulkheads
+  - Section 6 Deck Construction
+  - Section 7 Breakwater
+  - Section 8 Tug Pushing Area
+  - Section 9 Strength at Large Flare Location
+  - Section 10 Freight Container Securing Arrangements
+  - Section 11 Welding
+- [[R] CHAPTER 7 CAR FERRIES AND ROLL-ON/ROLL-OFF SHIPS](05_R_CHAPTER 7 CAR FERRIES AND ROLL-ON ROLL-OFF SHIPS.md)
+  - Section 1 General
+  - Section 2 Longitudinal Strength
+  - Section 3 Deck Structure
+  - Section 4 Electrical Equipment of Automobile Carriers
+  - Section 5 Pure Car Carrier (2023)
+- [[R] CHAPTER 8 OFFSHORE SUPPLY SHIPS](06_R_CHAPTER 8 OFFSHORE SUPPLY SHIPS.md)
+  - Section 1 General
+  - Section 2 Longitudinal Strength
+  - Section 3 Shell Plating
+  - Section 4 Deck Plating
+  - Section 5 Framing
+  - Section 6 Superstructures and Deckhouses
+  - Section 7 Watertight Bulkhead Doors
+  - Section 8 Engine Exhaust Outlets
+- [[R] CHAPTER 9 TUG BOATS](07_R_CHAPTER 9 TUG BOATS.md)
+  - Section 1 General
+  - Section 2 Longitudinal Strength
+  - Section 3 Single Bottoms
+  - Section 4 Panting and Strengthening of Bottom Forward
+  - Section 5 Machinery Casings
+  - Section 6 Towing Arrangements
+  - Section 7 Fenders
+  - Section 8 Towing Winch Emergency Release Systems (2021)
+- [[R] CHAPTER 10 DOUBLE HULL TANKER](08_R_CHAPTER 10 DOUBLE HULL TANKER.md)
+  - Section 1 General
+  - Section 2 Bulkhead Plating
+  - Section 3 Longitudinals and Stiffeners
+  - Section 4 Girders
+  - Section 5 Structural Details
+  - Section 6 Special Requirements for Corrosion
+  - Section 7 Special Requirements for Forward Wing Tanks
+  - Section 8 Special Requirements for Tankers with Mid-deck
+  - Section 9 Special Requirements for Hatchways and Permanent Gangway
+  - Section 10 Welding
+- [[G] CHAPTER 1 OIL TANKERS](09_G_CHAPTER 1 OIL TANKERS.md)
+  - Section 1 General
+  - Section 2 Hatchways, Gangways and Freeing Arrangement
+  - Section 3 Longitudinal Frames and Beams in Cargo Oil Spaces
+  - Section 4 Girders, Transverses and Cross Ties in Cargo Oil Spaces
+  - Section 5 Bulkheads in Cargo Oil Spaces
+  - Section 6 Relative Deformation of Wing Tanks
+  - Section 10 Piping Systems and Venting Systems for Oil Tankers
+  - Section 11 Electrical Equipment of Oil Tankers
+- [[G] CHAPTER 2 ORE CARRIERS](10_G_CHAPTER 2 ORE CARRIERS.md)
+  - Section 1 General
+  - Section 3 Wing Tanks or Void Spaces
+  - Section 5 Relative Deformation of Wing Tanks
+  - Section 7 Ore/Oil Carriers
+- [[G] CHAPTER 3 BULK CARRIERS](11_G_CHAPTER 3 BULK CARRIERS.md)
+  - Section 1 General
+  - Section 3 Double Bottoms
+  - Section 4 Hopper Tanks
+  - Section 5 Topside Tanks
+  - Section 6 Transverse Bulkhead and Stools
+  - Section 7 Hold Frame
+  - Section 8 Decks and Shell Platings
+  - Section 11 Evaluation of Allowable Hold Loading for Bulk Carriers Considering Hold Flooding
+  - Section 14 Water Level Detection & Alarm and Drainage & Pumping Systems for Bulk Carriers and Single Hold Cargo Ships
+  - Section 15 Supplementary Provisions for Carriage of Liquid in Holds
+  - Section 16 Electrical Equipment in Coal Carriers
+  - Section 17 Renewal Criteria for Side Shell Frames and Brackets in Single Side Skin Bulk Carriers and Single Side Skin OBO Carriers
+- [[G] CHAPTER 4 CONTAINER SHIPS](12_G_CHAPTER 4 CONTAINER SHIPS.md)
+  - Section 1 General
+  - Section 2 Longitudinal Strength
+  - Section 3 Double Bottom Construction
+  - Section 4 Double Side Construction
+  - Section 6 Deck Construction
+  - Section 9 Strength at Large Flare Location (2019)
+  - Section 10 Freight Container Securing Arrangement
+- [[G] CHAPTER 7 CAR FERRIES AND ROLL-ON/ROLL-OFF SHIPS](13_G_CHAPTER 7 CAR FERRIES AND ROLL-ON ROLL-OFF SHIPS.md)
+  - Section 3 Deck Structure
+  - Section 5 Pure Car Carrier (2023)
+- [[G] CHAPTER 10 DOUBLE HULL TANKER](14_G_CHAPTER 10 DOUBLE HULL TANKER.md)
+  - Section 1 General
+  - Section 2 Bulkhead Plating
+  - 1. Arrangements of swash bulkheads
+  - 1. In application of 401. 2 of the Rules, "when approved by the Society" means any of the following (1) to (3) among ships of 200 _s2 or less.
+  - 2. In tankers without partial loading conditions such as half-loading or alternate loading, if the spacing of girders and floors in double bottom and stringers and transverses in double side hull according to type A, C, D tankers of Par 1 are smaller than the values shown in (1) and (2), the spacing may be increased to the values given in (1) and (2) :
+  - 1. The thickness of centre girders and side girders in double bottom is not to be less than the greatest of either of the value _s2 specified in the following (1), _s2 or _s2 specified in the following (2). Where, however, the thickness of centre girders of tankers having the longitudinal bulkhead on the centreline may be determined using only _s2.
+  - 2. The thickness of floors in double bottom is not to be less than the greatest of either of the value _s2 specified in the following (1), _s2 or _s2 specified in the following (2).
+  - 1. The thickness of stringers in double side hull is not to be less than the greatest of either of the value _s2 specified in the following (1), _s2 or _s2 specified in the following (2) :
+  - 2. The thickness of transverses in double side hull is not to be less than the greatest of either of the value _s2 specified in the following (1), _s2 or _s2 specified in the following (2).
+  - 2. Transverses on longitudinal bulkhead
+  - 1. General
+  - 2. The intersections of inner bottom plating and bilge hopper
+- [[G] Annex 7-1 Additional Requirements for Oil Tankers](15_G_Annex 7-1 Additional Requirements for Oil Tankers.md)
+  - 1. Application (2025)
+  - 3. The crude oil or slops used as a fuel for main or auxiliary boilers.
+  - 4. Boiler
+  - 5. Observation tanks
+  - 6. Installation of associated components
+  - 7. Pumps
+  - 9. Piping systems
+  - 11. Fire protection, inert gas generators and steam supply system
+- [[G] Annex 7-2 Guidance for the Container Securing Arrangements 【See Rule】](16_G_Annex 7-2 Guidance for the Container Securing Arrangements 【See Rule】.md)
+  - 1. General
+  - 2. Materials and testing for fixed container securing fittings
+  - 3. Materials and testing for Loose container securing fittings
+  - 4. Arrangements for stowage on exposed decks without cell guides
+  - 6. Container securing arrangements for stowage using cell guides
+  - 7. Container support structure (2019)
+  - 8. Determination and application of forces
+  - 9. Container Lashing calculation program and instrument (2025)
+- [[G] Annex 7-3 Guidance for Car Ferries 【See Rule】](17_G_Annex 7-3 Guidance for Car Ferries 【See Rule】.md)
+  - 1. Application
+  - 2. Definition
+  - 4. Arrangement of hull
+  - 5. Vehicle deck
+  - 6. Vehicle area
+  - 7. Vehicle load method and securing device
+  - 8. Bow door, etc
+  - 9. Air pipe and sounding pipe
+  - 10. Electric equipment
+  - 13. Subdivision of passenger ferry and damage stability requirements
+- [[G] Annex 7-4 Guidance for Calculating the Maximum Allowable and Minimum Required Mass of Cargo and Double Bottom Contents with Bulk Carriers 【See Rule】](18_G_Annex 7-4 Guidance for Calculating the Maximum Allowable and Minimum R.md)
+  - 1. The maximum allowable cargo mass _s2 and the minimum allowable cargo mass _s2 for the each cargo hold which are to be described in Loading Manual as specified in Pt. 3, Annex 3-1, 2. (4) (A) of the Guidance are to be given by the following as a function of draft in way of the considered cargo hold.
+  - 9.28 where _s2
+  - 2. The maximum allowable cargo mass _s2 and the minimum allowable cargo mass _s2 for the cargo hold and the adjacent cargo hold (hereinafter referred to as "two adjacent holds") which are to be described in Loading Manual as specified in Pt 3, Appendix 3-1, 2.(4)(D) of the Guidance are to be given by the following as a function of draft in way of these holds.
+  - 8. Typical loading/unloading sequences required in Pt 3, Appendix 3-1, 3 (1) (F) of the Guidance, are approved by the Society. Such sequences contain the following loading conditions. However, as for the loading conditions except the following (2), only in case these are specified as ones of the design conditions, these may be included in the loading manual.
+  - 9. Each step of a sequence required in Par 8 above is specified as follows. A step is defined as each time of changes of the loading equipment position to a new hold.
+- [[G] Annex 7-5 Additional Requirements for Existing Bulk Carriers 【See Rule】](19_G_Annex 7-5 Additional Requirements for Existing Bulk Carriers 【See Rule.md)
+  - 1. Scantling of the transverse watertight corrugated bulkhead between cargo holds No.1 and 2, with cargo hold No.1 flooded, for existing bulk carriers
+  - 2. Evaluation of Allowable Hold Loading of Cargo Hold No. 1 with Cargo Hold No. 1 Flooded, for Existing Bulk Carrier
+  - 3. Damage Stability
+- [[G] Annex 7-6 Water Level Detection & Alarms and Drainage & Pumping Systems for Bulk Carriers and Single Hold Cargo Ships 【See Rule】](20_G_Annex 7-6 Water Level Detection & Alarms and Drainage & Pumping System.md)
+  - I. Water level detection & alarms
+  - II. Drainage and pumping system
+- [[G] Annex 7-6-1 Water Level Detectors on Multiple Hold Cargo Ships other than Bulk Carriers and Tankers (2023)](21_G_Annex 7-6-1 Water Level Detectors on Multiple Hold Cargo Ships other t.md)
+  - 1. Application
+  - 2. Bilge alarms used as water level detectors (2024)
+- [[G] Annex 7-7 Unified Interpretation of Convention 【See Rule】](22_G_Annex 7-7 Unified Interpretation of Convention 【See Rule】.md)
+  - 1. UI SC 207 (Structural Strength of Bulk Carriers in case of Accidental Hold Flooding) (2020)
+  - 2. UI SC 208 (Protection of Cargo Holds Loading/Unloading Equipment) (2020)
+  - 3. UI SC 209 (Failure of Cargo Hold Structural Members and Panels) (2020)
+- [[G] Annex 7-8 Instruction for Use of Extremely Thick Steel in Container Ships (2021) 【See Rule】](23_G_Annex 7-8 Instruction for Use of Extremely Thick Steel in Container Sh.md)
+  - 1. Application
+  - 2. Non-Destructive Testing (NDT) during construction (Measure No.1 of 5)
+  - 4. Brittle crack arrest design (Measure No. 3, 4 and 5 of 5)
+  - 6. Application of YP47 Steel Plates
+- [[G] Annex 7-9 Guidance for the Longitudinal Strength of Container Ships 【See Rule】](24_G_Annex 7-9 Guidance for the Longitudinal Strength of Container Ships 【S.md)
+  - Appendix 1 - Calculation of shear flow
+  - Appendix 2 - Buckling Capacity
+  - Appendix 3 - Hull girder ultimate bending capacity
+- [[G] Annex 7-10 Guidance for Direct Strength Assessment for Ore Carriers (2020) 【See Rule】](25_G_Annex 7-10 Guidance for Direct Strength Assessment for Ore Carriers (2.md)
+  - (2) Modelling
+  - (3) Boundary condition
+  - (4) Applied loads
+  - (5) Consideration of dynamic shear loads in beam sea condition
+  - (8) Local fine mesh analysis
+  - (9) Cargo Mass Curves
+- [[G] Annex 7-11 Guidance on Providing Safe Working Conditions for Securing of Containers on Open Deck (2019) 【See Rule】](26_G_Annex 7-11 Guidance on Providing Safe Working Conditions for Securing.md)
+  - 1. General
+  - 2. Documentation
+  - 3. Design requirements
+- [[G] Annex 7-12 Liquefaction of Ore Bulk Cargoes (2023)](27_G_Annex 7-12 Liquefaction of Ore Bulk Cargoes (2023).md)
+  - 1. General
+  - 2. Stability
+  - 3. Hull Strength
+  - 4. Finite element analysis

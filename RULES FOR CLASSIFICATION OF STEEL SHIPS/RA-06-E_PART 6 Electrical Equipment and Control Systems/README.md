@@ -1,0 +1,49 @@
+# PART 6 Electrical Equipment and Control Systems
+
+> RULES FOR CLASSIFICATION OF STEEL SHIPS / RA-06-E / 2025 / EN
+
+- [[R] CHAPTER 1 ELECTRICAL EQUIPMENT](01_R_CHAPTER 1 ELECTRICAL EQUIPMENT.md)
+  - Section 1 General
+  - Section 2 System Design
+  - Section 3 Rotating Machinery
+  - Section 4 Switchboards, Section Boards and Distribution Boards
+  - Section 5 Cables (2025)
+  - Section 6 Transformers for Power and Lighting
+  - Section 7 Controlgears for Motors and Magnetic Brakes
+  - Section 8 Fuses, Circuit-breakers and Electromagnetic Contactors
+  - Section 9 Explosion-protected Electrical Equipment
+  - Section 10 Lighting Fittings, Heating Appliances, Wiring Accessories and Miscellaneous Equipment
+  - Section 11 Internal Communications
+  - Section 12 Semi-Conductor Converters (2023)
+  - Section 13 Accumulator Batteries
+  - Section 14 Lightning Conductors
+  - Section 15 High Voltage Electrical Installations
+  - Section 16 Electric Propulsion Unit
+  - Section 17 Tests after Installation on Board
+  - Section 18 Spare Parts, Tools and Instruments
+- [[R] CHAPTER 2 CONTROL SYSTEMS](02_R_CHAPTER 2 CONTROL SYSTEMS.md)
+  - Section 1 General
+  - Section 2 System and Control
+  - Section 3 Tests (2017)
+  - Section 4 Computer Based Systems (2024)
+- [[G] CHAPTER 1 ELECTRICAL EQUIPMENT](03_G_CHAPTER 1 ELECTRICAL EQUIPMENT.md)
+  - Section 1 General
+  - Section 2 System design
+  - Section 3 Rotating Machinery
+  - Section 4 Switchboards, Section Boards and Distribution Boards
+  - Section 5 Cables (2025)
+  - Section 6 Transformers for Power and Lighting
+  - Section 7 Control-gears for Motors and Magnetic Brakes
+  - Section 8 Fuses, Circuit-breakers and Electromagnetic Contactors
+  - Section 9 Explosion-protected Electrical Equipment
+  - Section 10 Lighting Fittings, Heating Appliances, Wiring Accessories and Miscellaneous Equipment
+  - Section 11 Internal Communications
+  - Section 12 Semi-Conductor Converters (2021)
+  - Section 13 Accumulator Batteries
+  - Section 15 High Voltage Electrical Installations
+  - Section 16 Electric Propulsion Unit
+  - Section 18 Spare Parts, Tools and Instruments
+- [[G] CHAPTER 2 CONTROL SYSTEMS](04_G_CHAPTER 2 CONTROL SYSTEMS.md)
+  - Section 1 General
+  - Section 2 System and Control
+  - Section 3 Tests (2017)

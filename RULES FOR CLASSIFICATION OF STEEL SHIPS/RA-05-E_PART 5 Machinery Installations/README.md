@@ -1,0 +1,186 @@
+# PART 5 Machinery Installations
+
+> RULES FOR CLASSIFICATION OF STEEL SHIPS / RA-05-E / 2025 / EN
+
+- [[R] CHAPTER 1 GENERAL](01_R_CHAPTER 1 GENERAL.md)
+  - Section 1 General
+  - Section 2 Plans and Documents
+  - Section 3 Tests and Inspections
+  - Section 4 Spare Parts and Tools
+- [[R] CHAPTER 2 MAIN AND AUXILIARY ENGINES](02_R_CHAPTER 2 MAIN AND AUXILIARY ENGINES.md)
+  - Section 1 General
+  - Section 2 R eciprocating I nternal Combustion Engines
+  - Section 3 Steam Turbines
+  - Section 4 Gas Turbines
+- [[R] CHAPTER 3 PROPULSION SHAFTING AND POWER TRANSMISSION SYSTEMS](03_R_CHAPTER 3 PROPULSION SHAFTING AND POWER TRANSMISSION SYSTEMS.md)
+  - Section 1 General
+  - Section 2 Shaftings
+  - Section 3 Propellers
+  - Section 4 Power Transmission Systems
+  - Section 5 Water-jet propulsion systems (2023)
+  - Section 6 Azimuth thrusters (2023)
+- [[R] CHAPTER 4 TORSIONAL VIBRATION OF SHAFTINGS](04_R_CHAPTER 4 TORSIONAL VIBRATION OF SHAFTINGS.md)
+  - Section 1 General
+  - Section 2 Allowable Limit of Vibration Stresses
+- [[R] CHAPTER 5 BOILERS AND PRESSURE VESSELS](05_R_CHAPTER 5 BOILERS AND PRESSURE VESSELS.md)
+  - Section 1 Boilers
+  - Section 2 Thermal Oil Heaters
+  - Section 3 Pressure Vessels
+  - Section 4 Welding for Boilers and Pressure Vessels
+- [[R] CHAPTER 6 AUXILIARIES AND PIPING ARRANGEMENT](06_R_CHAPTER 6 AUXILIARIES AND PIPING ARRANGEMENT.md)
+  - Section 1 General
+  - Section 2 Air Pipes, Overflow Pipes and Sounding Devices
+  - Section 3 Sea Suction and Overboard Discharge
+  - Section 4 Bilge and Ballast System
+  - Section 5 Feed Water and Condensate System for Boiler
+  - Section 6 Steam and Exhaust Gas Piping
+  - Section 7 Cooling System
+  - Section 8 Lubricating Oil System
+  - Section 9 Fuel Oil System
+  - Section 10 Thermal Oil System
+  - Section 11 Compressed Air System
+  - Section 12 Refrigerating Machinery
+  - Section 13 Hydraulic System (2017)
+  - Section 14 Tests and Inspections
+- [[R] CHAPTER 7 STEERING GEARS](07_R_CHAPTER 7 STEERING GEARS.md)
+  - Section 1 General
+  - Section 2 Performance and Arrangement
+  - Section 3 Controls
+  - Section 4 Materials, Constructions and Strength
+  - Section 5 Testing
+  - Section 6 Additional Requirements Concerning Tankers of 10,000Gross Tonnage and Upwards and Other Ships of 70,000Gross Tonnage and Upwards
+- [[R] CHAPTER 8 WINDLASSES AND MOORING WINCHES](08_R_CHAPTER 8 WINDLASSES AND MOORING WINCHES.md)
+  - Section 1 General
+  - Section 2 Windlasses
+  - Section 3 Mooring Winches
+- [[G] CHAPTER 1 GENERAL](09_G_CHAPTER 1 GENERAL.md)
+  - Section 1 General
+  - Section 2 Plans and Documents
+  - Section 3 Tests and Inspections
+  - Section 4 Spare Parts and Tools
+- [[G] CHAPTER 2 MAIN AND AUXILIARY ENGINES](10_G_CHAPTER 2 MAIN AND AUXILIARY ENGINES.md)
+  - Section 1 General
+  - Section 2 Reciprocating Internal Combustion Engines
+  - Section 3 Steam Turbines
+- [[G] CHAPTER 3 PROPULSION SHAFTING AND POWER TRANSMISSION SYSTEMS](11_G_CHAPTER 3 PROPULSION SHAFTING AND POWER TRANSMISSION SYSTEMS.md)
+  - Section 1 General
+  - Section 2 Shafting
+  - Section 3 Propellers
+  - Section 4 Power Transmission Systems
+  - Section 5 Water-jet propulsion systems (2023)
+  - Section 6 Azimuth thrusters (2023)
+- [[G] CHAPTER 4 TORSIONAL VIBRATION OF SHAFTING](12_G_CHAPTER 4 TORSIONAL VIBRATION OF SHAFTING.md)
+  - Section 2 Allowable Limit of Vibration Stresses
+- [[G] CHAPTER 5 BOILERS AND PRESSURE VESSELS](13_G_CHAPTER 5 BOILERS AND PRESSURE VESSELS.md)
+  - Section 1 Boilers
+  - Section 2 Thermal Oil Heaters
+  - Section 3 Pressure Vessels
+  - Section 4 Welding for Boilers and Pressure Vessels
+- [[G] CHAPTER 6 AUXILIARIES AND PIPING ARRANGEMENT](14_G_CHAPTER 6 AUXILIARIES AND PIPING ARRANGEMENT.md)
+  - Section 1 General
+  - Section 2 Air Pipes, Overflow Pipes and Sounding Devices
+  - Section 3 Sea inlet and Overboard Discharge
+  - Section 4 Bilge and Ballast System
+  - Section 5 Feed Water and Condensate System for Boiler
+  - Section 6 Steam and Exhaust Gas Piping
+  - Section 7 Cooling System
+  - Section 8 Lubricating Oil System
+  - Section 9 Fuel Oil System
+  - Section 10 Thermal Oil System
+  - Section 11 Compressed Air System
+  - Section 12 Refrigerating Machinery
+  - Section 13 Hydraulic System
+  - Section 14 Tests and Inspections
+- [[G] CHAPTER 7 STEERING GEARS](15_G_CHAPTER 7 STEERING GEARS.md)
+  - Section 1 General
+  - Section 2 Performance and Arrangement
+  - Section 3 Controls
+  - Section 4 Materials, Constructions and Strength
+  - Section 5 Testing
+  - Section 6 Additional Requirements Concerning Tankers of 10,000 Gross Tonnage and Upwards and Other Ships of 70,000 Gross Tonnage and Upwards
+- [[G] CHAPTER 8 WINDLASSES AND MOORING WINCHES](16_G_CHAPTER 8 WINDLASSES AND MOORING WINCHES.md)
+  - Section 1 General
+  - Section 2 Windlasses
+- [[G] Annex 5-1 Requirements for Performance and Arrangement of Non-traditional Steering Sys. (2023)](17_G_Annex 5-1 Requirements for Performance and Arrangement of Non-traditio.md)
+  - 2. Definitions
+  - 3. Number of steering gears
+  - 4. Performances of main steering gear
+  - 5. Performances of auxiliary steering gear
+- [[G] Annex 5-2 Guidance for Calculation of Crankshaft Stress (1)](18_G_Annex 5-2 Guidance for Calculation of Crankshaft Stress (1).md)
+  - (1) Stress af fillet due to bending moment is to be obtained by the following formula:
+- [[G] Annex 5-3 Guidance for Calculation of Crankshaft Stress (2)](19_G_Annex 5-3 Guidance for Calculation of Crankshaft Stress (2).md)
+  - 1. General
+  - 2. Calculation of Stresses
+  - 3. Stress Concentration Factors
+  - 4. Additional Bending Stresses _s2
+  - 5. Calculation of Equivalent Alternating Stress
+  - 6. Fatigue Strength
+  - 8. Calculation of Shrink-fits of Semi-built crankshaft
+  - <Appendix III Calculation of Stress Concentration Factors in the arm fillet radii of crankshafts by utilizing Finite Element Method>
+  - <Appendix IV Evaluation of Fatigue Tests> (2018)}
+  - <Appendix V Calculation of Surface Treated Fillets and Oil Bore Outlets> (2018)}
+  - <Appendix VI Calculation of Stress Concentration Factors in the Oil Bore Outlets of crankshafts through utilisation of the Finite Element Method> (2018)}
+- [[G] Annex 5-4 Strength Calculation for Gears of Power Transmission Systems](20_G_Annex 5-4 Strength Calculation for Gears of Power Transmission Systems.md)
+  - 1. General
+  - 5. General influence factors
+  - 6. Surface durability
+  - 7. Bending strength
+- [[G] Annex 5-5 Requirements of Equipment for Gas welding](21_G_Annex 5-5 Requirements of Equipment for Gas welding.md)
+  - 1. Gas bottles and piping systems are to be satisfied with the following :
+  - 2. Location of gas bottles is to be as specified below :
+  - 4. In case where permanent piping is arranged between the gas bottles and working area, the following requirements are to be complied with :
+  - 5. In case where rubber hoses are used, the following apply:
+- [[G] Annex 5-6 Plastic Piping System (2023)](22_G_Annex 5-6 Plastic Piping System (2023).md)
+  - 1. Application
+  - 2. Definitions
+  - 3. Materials
+  - 4. General requirements
+  - 5. Requirements for pipes/piping systems depending on service and/or locations
+  - 6. Installation
+- [[G] Annex 5-7 Reciprocating Internal Combustion Engines Fuelledby Natural Gas (2025)](23_G_Annex 5-7 Reciprocating Internal Combustion Engines Fuelledby Natural.md)
+  - 1. General
+  - 2. Documents and drawings to be submitted
+  - 3. Risk analysis
+  - 4. Design
+  - 5. Specific design requirements
+  - 6. Type testing
+  - 7. Shop trials
+  - 8. On-board tests
+- [[G] Annex 5-8 The Additional Requirements on Electronically-Controlled Reciprocating Internal Combustion Engines](24_G_Annex 5-8 The Additional Requirements on Electronically-Controlled Rec.md)
+  - 2. Definitions
+  - 3. Plans and Documents
+  - 4. Construction and Associated Installations
+  - 5. System Design
+  - 6. Others
+- [[G] Annex 5-9 Flexible Pipes](25_G_Annex 5-9 Flexible Pipes.md)
+  - 1. Scope
+  - 2. Design and construction
+  - 3. Installation
+  - 4. Marking
+- [[G] Annex 5-10 Redundant Propulsion and Steering System (2017)](26_G_Annex 5-10 Redundant Propulsion and Steering System (2017).md)
+  - 1. General
+  - 2. Approval of plan and documents
+  - 3. Performance requirements
+  - 4. System design
+  - 5. System segregation
+- [[G] Annex 5-11 Documents for the Approval of Reciprocating Internal Combustion Engines](27_G_Annex 5-11 Documents for the Approval of Reciprocating Internal Combus.md)
+  - 1. General
+  - 2. Document flow for obtaining a type approval certificate
+  - 3. Document flow for engine certificate
+- [[G] Annex 5-12 Shaft Alignment (2017)](28_G_Annex 5-12 Shaft Alignment (2017).md)
+  - 1. Application
+  - 2. Shaft alignment calculations
+  - 3. Stern tube bearing slope boring (2019)
+  - 4. Shaft Alignment Procedure (2019)
+  - 5. Tests and inspections
+- [[G] Annex 5-12-1 Enhanced Shaft Alignment (2021)](29_G_Annex 5-12-1 Enhanced Shaft Alignment (2021).md)
+  - 1. Application
+  - 2. Class notations
+  - 3. The requirements for ships assigned ESA1 notation
+  - 4. The requirements for ships assigned ESA2 notation
+- [[G] Annex 5-13 Fuel oil treatment system (2025)](30_G_Annex 5-13 Fuel oil treatment system (2025).md)
+  - 1. General
+  - 2. System objectives
+  - 3. Sampling
+  - 4. System design
+  - 5. Test and Inspection

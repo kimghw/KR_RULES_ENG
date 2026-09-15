@@ -1,0 +1,61 @@
+# Guidance for Floating Liquefied Gas Production Units
+
+> RULES AND GUIDANCE FOR OFFSHORE STRUCTURES / GC-10-E / 2025 / EN
+
+- [[G] CHAPTER 1 GENERAL](01_G_CHAPTER 1 GENERAL.md)
+  - Section 1 General
+  - Section 2 Definitions
+- [[G] CHAPTER 2 CLASSIFICATION AND SURVEYS](02_G_CHAPTER 2 CLASSIFICATION AND SURVEYS.md)
+  - Section 1 General
+  - Section 2 Classification Survey
+  - Section 3 Surveys
+- [[G] CHAPTER 3 DESIGN CONDITION](03_G_CHAPTER 3 DESIGN CONDITION.md)
+  - Section 1 General
+  - Section 2 Design Principles
+  - Section 3 Corrosion Control Means and Corrosion Margins
+  - Section 4 Design Loads
+- [[G] CHAPTER 4 MATERIALS AND WELDING](04_G_CHAPTER 4 MATERIALS AND WELDING.md)
+  - Section 1 General
+- [[G] CHAPTER 5 HULL CONSTRUCTION AND EQUIPMENT](05_G_CHAPTER 5 HULL CONSTRUCTION AND EQUIPMENT.md)
+  - Section 1 General
+  - Section 2 Survival Capability and Location of Cargo Tanks
+  - Section 3 Longitudinal Strength
+  - Section 4 Structural Design and Analysis of the Hull
+  - Section 5 Design and Analysis of Other Major Hull Structural Features
+  - Section 6 Direct Strength Assessment
+  - Section 7 Fatigue Strength Assessment
+  - Section 8 Hull Arrangements
+  - Section 9 Cargo Containment
+  - Section 10 Hull Equipment
+- [[G] CHAPTER 6 POSITIONING SYSTEMS](06_G_CHAPTER 6 POSITIONING SYSTEMS.md)
+  - Section 1 General
+- [[G] CHAPTER 7 HAZARDOUS AREA](07_G_CHAPTER 7 HAZARDOUS AREA.md)
+  - Section 1 Hazardous Area
+  - Section 2 Ventilation
+- [[G] CHAPTER 8 FIRE PROTECTION, MEANS OF ESCAPE](08_G_CHAPTER 8 FIRE PROTECTION, MEANS OF ESCAPE.md)
+  - Section 1 General
+  - Section 2 Prevention of Fire and Explosion
+  - Section 3 SUPPRESSION OF FIRE
+  - Section 4 Means of Escape
+- [[G] CHAPTER 9 MACHINERY INSTALLATIONS](09_G_CHAPTER 9 MACHINERY INSTALLATIONS.md)
+  - Section 1 General
+  - Section 2 Piping Systems for Cargo Tanks
+  - Section 3 Use of Natural Gas as Fuel
+- [[G] CHAPTER 10 ELECTRICAL EQUIPMENT AND CONTROL](10_G_CHAPTER 10 ELECTRICAL EQUIPMENT AND CONTROL.md)
+  - Section 1 Electrical Equipment
+  - Section 2 Control Systems
+- [[G] CHAPTER 12 PROCESS SYSTEMS](11_G_CHAPTER 12 PROCESS SYSTEMS.md)
+  - Section 1 General
+  - Section 2 Design of Process Systems
+  - Section 3 Process System Equipment
+  - Section 4 Process Support Systems
+- [[G] CHAPTER 13 OFFLOADING SYSTEMS](12_G_CHAPTER 13 OFFLOADING SYSTEMS.md)
+  - Section 1 General
+  - Section 2 Cargo Transfer Connection
+  - Section 3 Transfer Arms
+  - Section 4 Transfer Hoses
+  - Section 5 Safety Systems
+  - Section 6 Communication Systems
+  - Section 7 Mooring equipment
+- [[G] CHAPTER 14 IMPORT SYSTEM](13_G_CHAPTER 14 IMPORT SYSTEM.md)
+  - Section 1 General

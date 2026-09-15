@@ -1,0 +1,93 @@
+# Manufacturing Process and Type Approval, Etc.
+
+> OTHER RULES AND GUIDANCE / GC-01-E / 2025 / EN
+
+- [[G] CHAPTER 1 GENERAL](01_G_CHAPTER 1 GENERAL.md)
+  - Section 1 General
+  - Section 2 Definitions
+- [[G] CHAPTER 2 APPROVAL OF MANUFACTURING PROCESS](02_G_CHAPTER 2 APPROVAL OF MANUFACTURING PROCESS.md)
+  - Section 1 General
+  - Section 2-1 Rolled Steels
+  - Section 2-2 Semi Finished Products for Rolled Steels
+  - Section 2-3 Other Semi Finished Products (2019)
+  - Section 2-4 Rolled Steels intended for welding with high heat input
+  - Section 2-5 YP47 Steel Plates
+  - Section 2-6 Hull Structural Steels with Improved Fatigue Properties
+  - Section 2-7 High Strength Steels for Welded Structures (2017)
+  - Section 2-8 Brittle Crack Arrest Steels (2021)
+  - Section 2-9 High manganese austenitic steels (2023)
+  - Section 3 Steel Tubes and Pipes
+  - Section 4-1 Castings (2018)
+  - Section 4-2 Steel forgings (2018)
+  - Section 5 Crankshafts under special requirements
+  - Section 6-1 Aluminium Alloys
+  - Section 6-2 Aluminium/steel transition joints (2023)
+  - Section 7-1 Copper Alloy Castings
+  - Section 7-2 Copper and Copper Alloy Tubes
+  - Section 8 Special Cast Iron Valves
+  - Section 9 Anchors
+  - Section 10-1 Marine Chains
+  - Section 10-2 Marine Chain Accessories
+  - Section 10-3 Offshore Chains and Chain Accessories
+  - Section 11 Wire Rope
+  - Section 12 Synthetic Fibre Ropes
+  - Section 13 FRP Ships
+  - Section 14 Boiler and Pressure Vessel
+- [[G] CHAPTER 3 TYPE APPROVAL](03_G_CHAPTER 3 TYPE APPROVAL.md)
+  - Section 1 General
+  - Section 2 Welding Materials
+  - Section 3-1 Anti-corrosive Paints
+  - Section 3-2 Non-slip Paints
+  - Section 4 Acid Resisting Paints
+  - Section 5 Loading Instruments
+  - Section 6 High Holding Power Anchors and Super High Holding Power Anchors
+  - Section 7-1 Emergency Towing Arrangements
+  - Section 7-2 Equipment for mooring at SPM
+  - Section 8 Reciprocating Internal Combustion Engines
+  - Section 9-1 Crankcase Explosion Relief valves
+  - Section 9-2 Explosion Relief Devices for Reciprocating Internal Combustion Engines Using Gas as Fuel (2024)
+  - Section 10 Crankcase Oil Mist Detection and Alarm Equipment
+  - Section 11 Exhaust Gas Turbochargers
+  - Section 12 Hydraulic Motors and Hydraulic Pumps
+  - Section 13 Air Compressors
+  - Section 14 Safety Valves
+  - Section 15 Machinery and Equipment for Ships
+  - Section 16 Plastic Piping System
+  - Section 17 Flexible Hose Assembly
+  - Section 18 Mechanical Joints
+  - Section 19 Air Pipe Automatic Closing Devices
+  - Section 20 Level Indicators
+  - Section 21 Electrical Equipment and Cables
+  - Section 22 Cable Laying
+  - Section 23 Automatic and Remote Control Systems
+  - Section 24 Equipment related to Ventilation Systems in Oil Tankers
+  - Section 25 Securing Devices
+  - Section 26 Fire Protection Materials
+  - Section 27 Materials for Refrigerated Chambers and Oil-impervious Composition
+  - Section 28 Materials of Reinforced Plastics
+  - Section 29 Water Level Detection and Alarm System
+  - Section 30 Protective Coating Systems for Ballast Tanks
+  - Section 31 LED Lighting Fittings and Fluorescent Lighting Fittings of Electronic Ballast Stabilizer Type (2019)
+  - Section 32 Corrosion Resistant Steels
+  - Section 33 Protective Coating Systems for Cargo Oil Tanks
+  - Section 34 Fiber Reinforced Plastic Gratings
+  - Section 35 Ballast Water Management System
+  - Section 36 Acoustic Insulation Materials (2018)
+  - Section 37 Busbar Trunking Systems (2019)
+  - Section 38 Cable Transits through watertight bulkheads and decks (2021)
+  - Section 39 Electric Power Converters (2022)
+  - Section 40 Composite Material Pressure Vessels for Fuel Containment of Compressed Hydrogen Gas (2022)
+  - Section 41 Watertight bulkheads or deck pipe penetrations on passenger ships (2024)
+- [[G] CHAPTER 4 DESIGN APPROVAL](04_G_CHAPTER 4 DESIGN APPROVAL.md)
+  - Section 1 General
+  - Section 2 Loading Instrument Program
+  - Section 3 Container Lashing calculation program
+- [[G] CHAPTER 5 APPROVAL OF QUALITY ASSURANCE SYSTEM](05_G_CHAPTER 5 APPROVAL OF QUALITY ASSURANCE SYSTEM.md)
+  - Section 1 General
+  - Section 2 Assessment
+  - Section 3 Approval
+  - Section 4 Requirements of Quality Assurance System
+- [[G] CHAPTER 6 MANUFACTURER APPROVAL](06_G_CHAPTER 6 MANUFACTURER APPROVAL.md)
+  - Section 1 General
+  - Section 2 Assessment
+  - Section 3 Approval

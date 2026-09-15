@@ -1,0 +1,86 @@
+# PART 12 Common Structural Rules for Double Hull Oil Tankers
+
+> RULES FOR CLASSIFICATION OF STEEL SHIPS / RA-12-E / 2025 / EN
+
+- [[R] Chapter 1 Introduction](01_R_Chapter 1 Introduction.md)
+  - 1 Introduction to Common Structural Rules for Oil Tankers
+- [[R] Chapter 2 Rule Principles](02_R_Chapter 2 Rule Principles.md)
+  - 1 Introduction
+  - 2 General Assumptions
+  - 3 Design Basis
+  - 4 Design Principles
+  - 5 Application of Principles
+- [[R] Chapter 3 Rule Application](03_R_Chapter 3 Rule Application.md)
+  - 1 Notations
+  - 2 Documentation, Plans and Data Requirements
+  - 3 Scope of Approval
+  - 4 Equivalence Procedure
+  - 5 Calculation and Evaluation of Scantling Requirements
+- [[R] Chapter 4 Basic Information](04_R_Chapter 4 Basic Information.md)
+  - 1 Definitions
+  - 2 Structural Idealisation
+  - 3 Structure Design Details
+- [[R] Chapter 5 Structural Arrangement](05_R_Chapter 5 Structural Arrangement.md)
+  - 1 General
+  - 2 Watertight Subdivision
+  - 3 Double Hull Arrangement
+  - 4 Separation of Spaces
+  - 5 Access Arrangements
+- [[R] Chapter 6 Materials and Welding](06_R_Chapter 6 Materials and Welding.md)
+  - 1 Steel Grades
+  - 2 Corrosion Protection Including Coatings
+  - 3 Corrosion Additions
+  - 4 Fabrication
+  - 5 Weld Design and Dimensions
+- [[R] Chapter 7 Loads](07_R_Chapter 7 Loads.md)
+  - 1 Introduction
+  - 2 Static Load Components
+  - 3 Dynamic Load Components
+  - 4 Sloshing and Impact Loads
+  - 6 Combination of Loads
+- [[R] Chapter 8 Scantling Requirements](08_R_Chapter 8 Scantling Requirements.md)
+  - 1 Longitudinal Strength
+  - 2 Cargo Tank Region
+  - 3 Forward of the Forward Cargo Tank
+  - 4 Machinery Space
+  - 5 Aft End
+  - 6 Evaluation of Structure for Sloshing and Impact Loads
+  - 7 Application of Scantling Requirements to Other Structure
+- [[R] Chapter 9 Design Verification](09_R_Chapter 9 Design Verification.md)
+  - 1 Hull Girder Ultimate Strength
+  - 2 Strength Assessment (FEM)
+  - 3 Fatigue Strength
+- [[R] Chapter 10 Buckling and Ultimate Strength](10_R_Chapter 10 Buckling and Ultimate Strength.md)
+  - 1 General
+  - 2 Stiffness and Proportions
+  - 3 Prescriptive Buckling Requirements
+  - 4 Advanced Buckling Analyses
+- [[R] Chapter 11 General Requirements](11_R_Chapter 11 General Requirements.md)
+  - 1 Hull Openings and Closing Arrangements
+  - 2 Crew Protection
+  - 3 Support Structure and Structural Appendages
+  - 1. It is recommended that bottom plugs are not fitted in way of the keel plate.
+  - 4 Equipment
+  - 5 Testing Procedures
+- [[R] Chapter 12 Ship in Operation Renewal Criteria](12_R_Chapter 12 Ship in Operation Renewal Criteria.md)
+  - 1 Allowable Thickness Diminution for Hull Structure
+- [[R] Appendix A Hull Girder Ultimate Strength](13_R_Appendix A Hull Girder Ultimate Strength.md)
+  - 1 General
+  - 2 Calculation of Hull Girder Ultimate Capacity
+  - 3 Alternative Methods
+- [[R] Appendix B Structural Strength Assessment](14_R_Appendix B Structural Strength Assessment.md)
+  - 1 General
+  - 2 Cargo Tank Structural Strength Analysis
+  - 3 Local Fine Mesh Structural Strength Analysis
+  - 4 Evaluation of Hot Spot Stress for Fatigue Analysis
+- [[R] Appendix C Fatigue Strength](15_R_Appendix C Fatigue Strength.md)
+  - 1 Nominal Stress Approach
+  - 3 It is to be assumed that water ballast and cargo tanks are 100 % full. The fluid density is to be taken in accordance with Sec 7/2.2.3.1, where cargo density is not to be less than 0.9 tonnes/
+  - 2 Hot Spot Stress (FE Based) Approach
+- [[R] Appendix D Buckling Strength Assessment](16_R_Appendix D Buckling Strength Assessment.md)
+  - 1 Advanced Buckling Analysis
+  - 2 Advanced Buckling Analysis Method
+  - 3 Application and Structural Modelling Principles
+  - 4 Assessment Criteria
+  - 5 Strength Assessment (FEM) - Buckling Procedure
+  - 6 Ultimate Hull Girder Strength Assessment

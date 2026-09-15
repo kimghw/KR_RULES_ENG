@@ -1,0 +1,55 @@
+# Guidance for Floating LNG Bunkering Terminal
+
+> OTHER RULES AND GUIDANCE / GC-25-E / 2025 / EN
+
+- [[G] CHAPTER 1 GENERAL](01_G_CHAPTER 1 GENERAL.md)
+  - Section 1 General
+  - Section 2 Definitions
+- [[G] CHAPTER 2 CLASSIFICATION AND SURVEYS](02_G_CHAPTER 2 CLASSIFICATION AND SURVEYS.md)
+  - Section 1 General
+  - Section 2 Classification Survey
+  - Section 3 Surveys
+- [[G] CHAPTER 3 DESIGN CONDITION](03_G_CHAPTER 3 DESIGN CONDITION.md)
+  - Section 1 General
+  - Section 2 Design Loads
+  - Section 3 Corrosion Control Means and Corrosion Margins
+  - Section 4 Risk Assessment
+- [[G] CHAPTER 4 MATERIALS AND WELDING](04_G_CHAPTER 4 MATERIALS AND WELDING.md)
+  - Section 1 General
+- [[G] CHAPTER 5 HULL CONSTRUCTION AND EQUIPMENT](05_G_CHAPTER 5 HULL CONSTRUCTION AND EQUIPMENT.md)
+  - Section 1 General
+  - Section 2 Survival Capability and Location of Cargo Tanks
+  - Section 3 Longitudinal Strength
+  - Section 4 Structural Design and Analysis of the Hull
+  - Section 5 Hull Arrangements
+  - Section 6 Hull Equipment
+- [[G] CHAPTER 6 POSITIONING SYSTEMS](06_G_CHAPTER 6 POSITIONING SYSTEMS.md)
+  - Section 1 General
+  - Section 2 Mooring Analysis
+  - Section 3 Design of Mooring Lines, etc.
+  - Section 4 Mooring Equipment
+  - Section 5 Single Point Mooring Systems
+  - Section 6 Anchor Holding Power
+- [[G] CHAPTER 7 MACHINERY INSTALLATIONS](07_G_CHAPTER 7 MACHINERY INSTALLATIONS.md)
+  - Section 1 General
+  - Section 2 Piping Systems for Cargo Tanks
+  - Section 3 Use of Natural Gas as Fuel
+- [[G] CHAPTER 8 ELECTRICAL EQUIPMENT AND CONTROL](08_G_CHAPTER 8 ELECTRICAL EQUIPMENT AND CONTROL.md)
+  - Section 1 Hazardous Area
+  - Section 2 Electrical Equipment
+  - Section 3 Control Systems
+- [[G] CHAPTER 9 VENTILATION](09_G_CHAPTER 9 VENTILATION.md)
+  - Section 1 General
+  - Section 2 Mechanical Ventilation in the Cargo Area
+- [[G] CHAPTER 10 FIRE PROTECTION, FIRE EXTINCTION](10_G_CHAPTER 10 FIRE PROTECTION, FIRE EXTINCTION.md)
+  - Section 1 General
+  - Section 2 Means of Escape
+- [[G] CHAPTER 11 PERSONNEL PROTECTION](11_G_CHAPTER 11 PERSONNEL PROTECTION.md)
+  - Section 1 Personnel Protection
+- [[G] CHAPTER 12 BUNKERING SYSTEM](12_G_CHAPTER 12 BUNKERING SYSTEM.md)
+  - Section 1 General
+  - Section 2 Arrangements and Design of Bunkering Systems
+  - Section 3 Bunker Transfer Systems
+  - Section 4 Control, Monitoring and Safety Systems
+  - Section 5 Communication and Lighting Systems
+  - Section 6 Operational Requirements

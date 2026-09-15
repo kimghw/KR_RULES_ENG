@@ -1,0 +1,68 @@
+# Guidance for Recreational Crafts
+
+> OTHER RULES AND GUIDANCE / GC-06-E / 2025 / EN
+
+- [[G] CHAPTER 1 GENERAL](01_G_CHAPTER 1 GENERAL.md)
+  - Section 1 General
+  - Section 2 Essential Requirements
+- [[G] CHAPTER 2 PERIODICAL AND OTHER SURVEYS](02_G_CHAPTER 2 PERIODICAL AND OTHER SURVEYS.md)
+  - Section 1 General
+  - Section 2 Kinds and Due Range of Surveys
+  - Section 3 Scope of Surveys
+- [[G] CHAPTER 3 MATERIALS](03_G_CHAPTER 3 MATERIALS.md)
+  - Section 1 General
+  - Section 2 Metal Material and Welding
+  - Section 3 Wood
+  - Section 4 FRP Material and Moulding
+- [[G] CHAPTER 4 HULL STRUCTURES](04_G_CHAPTER 4 HULL STRUCTURES.md)
+  - Section 1 General
+  - Section 2 Pressure Adjusting Factors
+  - Section 3 Design Pressure
+  - Section 4 Scantling of Plating
+  - Section 5 Requirements for Stiffening
+  - Section 6 Structural Arrangement
+- [[G] CHAPTER 5 Stability and buoyancy](05_G_CHAPTER 5 Stability and buoyancy.md)
+  - Section 1 General
+  - Section 2 Non-sailing Crafts of Hull Length Greater than or Equal to 6 m
+  - Section 3 Sailing Crafts of Hull Length Greater than or Equal to 6 m
+  - Section 4 Crafts of Hull Length Less than 6 m
+  - Section 5 Maximum Load Capacity
+- [[G] CHAPTER 6 HULL EQUIPMENT](06_G_CHAPTER 6 HULL EQUIPMENT.md)
+  - Section 1 Proteciton against Falling Overboard and Reboarding
+  - Section 2 Windows, Portlights, Hatches, Deadlights and Doors
+  - Section 3 Watertight Cockpits and Quick-draining Cockpits
+  - Section 4 Rudders
+  - Section 5 Anchoring, Mooring and Towing - Strong Points
+- [[G] CHAPTER 7 STEERING SYSTEM](07_G_CHAPTER 7 STEERING SYSTEM.md)
+  - Section 1 General
+  - Section 2 Hydraulic Steering System
+  - Section 3 Field of Vision from Steering Position
+- [[G] CHAPTER 8 MACHINERY INSTALLATIONS](08_G_CHAPTER 8 MACHINERY INSTALLATIONS.md)
+  - Section 1 Engine and Engine Spaces
+  - Section 2 Propulsion System
+  - Section 3 Starting System
+  - Section 4 Sea Water and Drainage Piping System
+  - Section 5 Discharge Prevention and Installations Facilitating the Delivery Ashore of Waste
+  - Section 6 Fuel System
+  - Section 7 Ventilation
+  - Section 1 Direct Current System
+  - Section 2 Alternating Current System
+  - Section 3 Navigation Lights
+- [[G] CHAPTER 10 LPG SYSTEM FOR DOMESTIC USE](09_G_CHAPTER 10 LPG SYSTEM FOR DOMESTIC USE.md)
+  - Section 1 General
+  - Section 2 Pressure Reduction System
+  - Section 3 Gas Supply Line System
+  - Section 4 Gas Appliances
+  - Section 5 Location and Installation of Gas Cylinders
+  - Section 7 Ducts and Flues for Air Intake and Combustion-product Discharge
+  - Section 9 Gas Installation System Tests
+- [[G] CHAPTER 11 FIRE PROTECTION AND FIRE EXTINCTION](10_G_CHAPTER 11 FIRE PROTECTION AND FIRE EXTINCTION.md)
+  - Section 1 Fire Protection
+  - Section 2 Fire Fighting Equipment
+  - Section 3 Others
+- [[G] CHAPTER 12 ESSENTIAL REQUIREMENTS FOR EXHAUST EMISSIONS FROM PROPULSION ENGINES](11_G_CHAPTER 12 ESSENTIAL REQUIREMENTS FOR EXHAUST EMISSIONS FROM PROPULSIO.md)
+  - Section 1 General
+  - Section 2 Essential Requirements
+- [[G] CHAPTER 13 ESSENTIAL REQUIREMENTS FOR NOISE EMISSIONS](12_G_CHAPTER 13 ESSENTIAL REQUIREMENTS FOR NOISE EMISSIONS.md)
+  - Section 1 General
+  - Section 2 Essential Requirements

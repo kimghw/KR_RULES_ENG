@@ -1,0 +1,43 @@
+# Guidance for Prevention System of Pollution from Ships
+
+> OTHER RULES AND GUIDANCE / GC-36-E / 2025 / EN
+
+- [[G] CHAPTER 1 Environmental Protection Ships](01_G_CHAPTER 1 Environmental Protection Ships.md)
+  - Section 1 General
+  - Section 2 Environmental Protection Ships (Phase 1)
+  - Section 3 Environmental Protection Ships (Phase 2)
+  - Section 4 Environmental Protection Ships (Phase 3)
+- [[G] CHAPTER 2 Nitrogen oxide Emission Abatement Systems](02_G_CHAPTER 2 Nitrogen oxide Emission Abatement Systems.md)
+  - Section 1 General
+  - Section 2 Selective Catalytic Reduction(SCR) system
+  - Section 3 Exhaust Gas Recirculation(EGR) System
+- [[G] CHAPTER 3 Sulphur oxide Emission Abatement Systems](03_G_CHAPTER 3 Sulphur oxide Emission Abatement Systems.md)
+  - Section 1 General
+  - Section 2 Exhaust Gas Cleaning(EGC) system
+  - Section 3 Exhaust Gas Cleaning system(EGC) Ready ships
+  - Section 4 Ships using Low Sulphur Fuel Oil
+- [[G] CHAPTER 4 Ships satisfying Energy Efficiency Design Index(EEDI) Phase 3 (2022)](04_G_CHAPTER 4 Ships satisfying Energy Efficiency Design Index(EEDI) Phase.md)
+  - Section 1 General
+- [[G] CHAPTER 5 Wind Assisted Propulsion Systems (2022)](05_G_CHAPTER 5 Wind Assisted Propulsion Systems (2022).md)
+  - Section 1 General
+  - Section 2 Survey
+  - Section 3 Basic Requirements for Wind Assisted Propulsion Systems
+  - Section 4 Additional Requirements for Wind Assisted Propulsion Systems
+- [[G] CHAPTER 6 Hull Air Lubrication System (2023)](06_G_CHAPTER 6 Hull Air Lubrication System (2023).md)
+  - Section 1 General
+  - Section 2 Basic Requirements for Hull Air Lubrication System
+  - Section 3 Additional Requirements for Hull Air Lubrication System
+  - Section 4 Survey
+- [[G] CHAPTER 7 Onboard Carbon Capture and Storage system](07_G_CHAPTER 7 Onboard Carbon Capture and Storage system.md)
+  - Section 1 General
+  - Section 2 Goal and Functional Requirements
+  - Section 3 Configuration
+  - Section 4 Carbon Capture System
+  - Section 5 Carbon Storage System
+  - Section 6 System Design
+  - Section 7 Safety and Personnel Protective Equipment.
+  - Section 8 Survey
+- [[G] CHAPTER 8 Onboard Carbon capture and storage systemReady Ships](08_G_CHAPTER 8 Onboard Carbon capture and storage systemReady Ships.md)
+  - Section 1 General
+  - Section 2 Requirements for Ready Levels
+  - Section 3 Survey

@@ -1,0 +1,241 @@
+# Ships Using Low-flashpoint Fuels
+
+> OTHER RULES AND GUIDANCE / RB-14-E / 2025 / EN
+
+- [[R] CHAPTER 1 GENERAL](01_R_CHAPTER 1 GENERAL.md)
+  - Section 1 General
+- [[R] CHAPTER 2 GOAL AND FUNCTIONAL REQUIREMENTS](02_R_CHAPTER 2 GOAL AND FUNCTIONAL REQUIREMENTS.md)
+  - Section 1 Goal
+  - Section 2 Functional Requirements
+- [[R] CHAPTER 3 GENERAL REQUIREMENTS](03_R_CHAPTER 3 GENERAL REQUIREMENTS.md)
+  - Section 1 Goal
+  - Section 2 Risk Assessment
+  - Section 3 Limitation of Explosion Consequences
+- [[R] CHAPTER 4 CLASSIFICATION AND SURVEYS](04_R_CHAPTER 4 CLASSIFICATION AND SURVEYS.md)
+  - Section 1 General
+  - Section 2 Classification
+  - Section 3 Periodical Surveys
+- [[R] CHAPTER 5 SHIP DESIGN AND ARRANGEMENT](05_R_CHAPTER 5 SHIP DESIGN AND ARRANGEMENT.md)
+  - Section 1 General
+  - Section 2 Functional Requirements
+  - Section 3 Arrangement of Fuel Tanks
+  - Section 4 Machinery Space Concepts
+  - Section 5 Gas Safe Machinery Space
+  - Section 6 ESD-Protected Machinery Spaces
+  - Section 7 Location and Protection of Fuel Piping
+  - Section 8 Fuel Preparation Room
+  - Section 9 Bilge Systems
+  - Section 10 Drip Trays
+  - Section 11 Arrangement of Entrances and Other Openings in Enclosed Spaces
+  - Section 12 Airlocks
+- [[R] CHAPTER 6 FUEL CONTAINMENT SYSTEM](06_R_CHAPTER 6 FUEL CONTAINMENT SYSTEM.md)
+  - Section 1 General
+  - Section 2 Functional Requirements
+  - Section 3 General Requirements
+  - Section 4 Liquefied Gas Fuel Containment
+  - Section 5 Portable Liquefied Gas Fuel Tanks
+  - Section 6 CNG Fuel Containment
+  - Section 7 Pressure Relief System
+  - Section 8 Loading Limit for Liquefied Gas Fuel Tanks
+  - Section 9 Maintaining of Fuel Storage Condition
+  - Section 10 Atmosphere Control within the Fuel Containment System
+  - Section 11 Atmosphere Control within Fuel Storage Hold Spaces (Fuel Containment Systems other than Type C Independent Tanks)
+  - Section 12 Environmental Control of Spaces Surrounding Type C Independent Tanks
+  - Section 13 Inerting
+  - Section 14 Inert Gas Production and Storage on Board
+- [[R] CHAPTER 7 MATERIAL AND GENERAL PIPE DESIGN](07_R_CHAPTER 7 MATERIAL AND GENERAL PIPE DESIGN.md)
+  - Section 1 General
+  - Section 2 Functional Requirements
+  - Section 3 Pipe Design
+  - Section 4 Materials
+- [[R] CHAPTER 8 BUNKERING](08_R_CHAPTER 8 BUNKERING.md)
+  - Section 1 Goal
+  - Section 2 Functional Requirements
+  - Section 3 Bunkering Station
+  - Section 4 Manifold
+  - Section 5 Bunkering System
+- [[R] CHAPTER 9 FUEL SUPPLY TO CONSUMERS](09_R_CHAPTER 9 FUEL SUPPLY TO CONSUMERS.md)
+  - Section 1 Goal
+  - Section 2 Functional Requirements
+  - Section 3 Redundancy of Fuel Supply
+  - Section 4 Safety Functions of Gas Supply System
+  - Section 5 Fuel Distribution Outside of Machinery Space
+  - Section 6 Fuel Supply to Consumers in Gas-safe Machinery Spaces
+  - Section 7 Fuel Supply to Consumers in ESD-protected Machinery Spaces
+  - Section 8 Design of Ventilated Duct, Outer Pipe Against Inner Pipe Gas Leakage
+  - Section 9 Compressors and Pumps
+- [[R] CHAPTER 10 POWER GENERATION INCLUDING PROPULSION AND OTHER GAS CONSUMER](10_R_CHAPTER 10 POWER GENERATION INCLUDING PROPULSION AND OTHER GAS CONSUME.md)
+  - Section 1 Goal
+  - Section 2 Function Requirements
+  - Section 3 Internal Combustion Engines of Piston Type
+  - Section 4 Main and Auxiliary Boilers, Gas Turbine
+  - Section 5 Gas Turbines
+- [[R] CHAPTER 11 FIRE SAFETY](11_R_CHAPTER 11 FIRE SAFETY.md)
+  - Section 1 Goal
+  - Section 2 Functional Requirements
+  - Section 3 Fire Protection
+  - Section 4 Fire Main
+  - Section 5 Water Spray Systems
+  - Section 6 Dry Chemical Powder Fire-extinguishing System
+  - Section 7 Fire Detection and Alarm System
+  - Section 8 Fuel Preparation Room Fire- extinguishing Systems
+- [[R] CHAPTER 12 EXPLOSION PREVENTION](12_R_CHAPTER 12 EXPLOSION PREVENTION.md)
+  - Section 1 Goal
+  - Section 2 Functional Requirements
+  - Section 3 General Requirements
+  - Section 4 Area Classification
+  - Section 5 Hazardous Area Zones
+- [[R] CHAPTER 13 VENTILATION](13_R_CHAPTER 13 VENTILATION.md)
+  - Section 1 Goal
+  - Section 2 Functional Requirements
+  - Section 3 General Requirements
+  - Section 4 Tank Connection Space
+  - Section 5 Machinery Spaces
+  - Section 6 Fuel Preparation Room
+  - Section 7 Bunkering Station
+  - Section 8 Ducts and Double Pipes
+- [[R] CHAPTER 14 ELECTRICAL INSTALLATIONS](14_R_CHAPTER 14 ELECTRICAL INSTALLATIONS.md)
+  - Section 1 Goal
+  - Section 2 Functional Requirements
+  - Section 3 General Requirements
+- [[R] CHAPTER 15 CONTROL, MONITORING AND SAFETY SYSTEMS](15_R_CHAPTER 15 CONTROL, MONITORING AND SAFETY SYSTEMS.md)
+  - Section 1 Goal
+  - Section 2 Functional Requirements
+  - Section 3 General Requirements
+  - Section 4 Bunkering and Liquefied Gas Fuel Tank Monitoring
+  - Section 5 Bunkering Control
+  - Section 6 Gas Compressor Monitoring
+  - Section 7 Gas Engine Monitoring
+  - Section 8 Gas Detection
+  - Section 9 Fire Detection
+  - Section 10 Ventilation
+  - Section 11 Safety Functions of Fuel Supply Systems
+- [[R] CHAPTER 16 MANUFACTURE, WORKMANSHIP AND TESTING](16_R_CHAPTER 16 MANUFACTURE, WORKMANSHIP AND TESTING.md)
+  - Section 1 General
+  - Section 2 General Test Regulations and Specifications
+  - Section 3 Welding of Metallic Materials and Non-destructive Testing for the Fuel Containment System
+  - Section 4 Other Regulations for Construction in Metallic Materials
+  - Section 5 Testing
+  - Section 6 Welding, Post-weld Heat Treatment and Non-destructive Testing
+  - Section 7 Testing Regulations
+- [[R] CHAPTER 17 DRILLS AND EMERGENCY EXERCISES (2020)](17_R_CHAPTER 17 DRILLS AND EMERGENCY EXERCISES (2020).md)
+  - Section 1 General
+- [[R] CHAPTER 18 OPERATION (2020)](18_R_CHAPTER 18 OPERATION (2020).md)
+  - Section 1 Goal
+  - Section 2 Functional Requirements
+  - Section 3 Regulations for Maintenance
+  - Section 4 Regulations for Bunkering Operations
+  - Section 5 Regulations for Enclosed Space Entry
+  - Section 6 Regulations for Inerting and Purging of Fuel Systems
+  - Section 7 Regulations for Hot Work on or Near Fuel Systems
+- [[G] CHAPTER 1 GENERAL](19_G_CHAPTER 1 GENERAL.md)
+  - Section 1 General
+- [[G] CHAPTER 2 GOAL AND FUNCTIONAL REQUIREMENTS](20_G_CHAPTER 2 GOAL AND FUNCTIONAL REQUIREMENTS.md)
+  - Section 2 Functional Requirements
+- [[G] CHAPTER 3 GENERAL REQUIREMENTS](21_G_CHAPTER 3 GENERAL REQUIREMENTS.md)
+  - Section 3 Limitation of Explosion Consequences
+- [[G] CHAPTER 4 CLASSIFICATION AND SURVEYS](22_G_CHAPTER 4 CLASSIFICATION AND SURVEYS.md)
+  - Section 3 Periodical Surveys
+- [[G] CHAPTER 5 SHIP DESIGN AND ARRANGEMENT](23_G_CHAPTER 5 SHIP DESIGN AND ARRANGEMENT.md)
+  - Section 3 Arrangement of Fuel Tanks
+  - Section 4 Machinery Space Concepts
+  - Section 6 ESD-Protected Machinery Spaces
+  - Section 7 Location and Protection of Fuel Piping
+  - Section 8 Fuel Preparation Room
+- [[G] CHAPTER 6 FUEL CONTAINMENT SYSTEM](24_G_CHAPTER 6 FUEL CONTAINMENT SYSTEM.md)
+  - Section 3 General Requirements
+  - Section 4 Liquefied Gas Fuel Containment
+  - Section 7 Pressure Relief System
+  - Section 8 Loading Limit for Liquefied Gas Fuel Tanks
+  - Section 9 Maintaining of Fuel Storage Condition
+- [[G] CHAPTER 7 MATERIAL AND GENERAL PIPE DESIGN](25_G_CHAPTER 7 MATERIAL AND GENERAL PIPE DESIGN.md)
+  - Section 3 Pipe Design
+  - Section 4 Materials
+- [[G] CHAPTER 8 BUNKERING](26_G_CHAPTER 8 BUNKERING.md)
+  - Section 3 Bunkering Station
+  - Section 5 Bunkering System
+- [[G] CHAPTER 9 FUEL SUPPLY TO CONSUMERS](27_G_CHAPTER 9 FUEL SUPPLY TO CONSUMERS.md)
+  - Section 2 Functional Requirements
+  - Section 4 Safety Functions of Gas Supply System
+  - Section 5 Fuel Distribution Outside of Machinery Space
+  - Section 6 Fuel Supply to Consumers in Gas-safe Machinery Spaces
+- [[G] CHAPTER 10 POWER GENERATION INCLUDING PROPULSION AND OTHER GAS CONSUMER](28_G_CHAPTER 10 POWER GENERATION INCLUDING PROPULSION AND OTHER GAS CONSUME.md)
+  - Section 3 Internal Combustion Engines of Piston Type
+- [[G] CHAPTER 11 FIRE SAFETY](29_G_CHAPTER 11 FIRE SAFETY.md)
+  - Section 3 Fire Protection
+  - Section 5 Water Spray Systems
+- [[G] CHAPTER 12 EXPLOSION PREVENTION](30_G_CHAPTER 12 EXPLOSION PREVENTION.md)
+  - Section 3 General Requirements
+  - Section 4 Area Classification
+  - Section 5 Hazardous Area Zones
+- [[G] CHAPTER 13 VENTILATION](31_G_CHAPTER 13 VENTILATION.md)
+  - Section 3 General Requirements
+  - Section 5 Machinery Spaces
+  - Section 8 Ducts and Double Pipes
+- [[G] CHAPTER 14 ELECTRICAL INSTALLATIONS](32_G_CHAPTER 14 ELECTRICAL INSTALLATIONS.md)
+  - Section 3 General Requirements
+- [[G] CHAPTER 15 CONTROL, MONITORING AND SAFETY SYSTEMS](33_G_CHAPTER 15 CONTROL, MONITORING AND SAFETY SYSTEMS.md)
+  - Section 3 General Requirements
+  - Section 4 Bunkering and Liquefied Gas Fuel Tank Monitoring
+  - Section 8 Gas Detection
+  - Section 10 Ventilation
+- [[G] CHAPTER 16 MANUFACTURE, WORKMANSHIP AND TESTING](34_G_CHAPTER 16 MANUFACTURE, WORKMANSHIP AND TESTING.md)
+  - Section 1 General
+  - Section 2 General Test Regulations and Specifications
+  - Section 3 Welding of Metallic Materials and Non-destructive Testing for the Fuel Containment System
+  - Section 4 Other Regulations for Construction in Metallic Materials (2019)
+  - Section 5 Testing (2019)
+  - Section 7 Testing Regulations
+- [[G] Annex 1 Requirements for Equipment Used for Low-flashpoint Fuel Supply Systems](35_G_Annex 1 Requirements for Equipment Used for Low-flashpoint Fuel Supply.md)
+  - Section 1 General
+  - Section 2 Centrifugal Gas Compressors
+  - Section 3 Reciprocating Gas Compressors
+  - Section 4 Screw Gas Compressors
+  - Section 5 Centrifugal Pumps
+  - Section 6 Reciprocating Pumps
+  - Section 7 Heat Exchangers
+  - Section 8 Valves
+  - Section 9 Pressure Relief Valves
+  - Section 10 Vacuum Insulation System for Vacuum Insulated Tanks (2020)
+- [[G] Annex 3 Risk Assessment (2019)](36_G_Annex 3 Risk Assessment (2019).md)
+  - Section 1 General
+  - Section 2 Properties & Hazards of Liquefied Natural Gas
+  - Section 3 Example Mitigation Measures
+- [[G] Annex 4 High Manganese Austenitic Steel for Cryogenic Service (2020)](37_G_Annex 4 High Manganese Austenitic Steel for Cryogenic Service (2020).md)
+  - Section 1 General
+  - Section 2 Application
+- [[G] Annex 5 Requirements for Ships Using Methyl/Ethyl Alcohol as Fuel (2021)](38_G_Annex 5 Requirements for Ships Using Methyl Ethyl Alcohol as Fuel (202.md)
+  - Section 1 General
+  - Section 2 Goal and Functional Requirements
+  - Section 3 General Requirements
+  - Section 4 Classification and Surveys
+  - Section 5 Ship Design and Arrangement
+  - Section 6 Fuel Containment System
+  - Section 7 MATERIAL AND GENERAL PIPE DESIGN
+  - Section 8 Bunkering
+  - Section 9 Fuel Supply to Consumer
+  - Section 10 POWER GENERATION INCLUDING PROPULSION AND OTHER ENERGY CONVERTERS
+  - Section 11 Fire Safety
+  - Section 12 Explosion and Area Classification
+  - Section 13 Ventilation
+  - Section 14 Electrical Installations
+  - Section 15 Control, Monitoring and Safety Systems
+  - Section 16 Training, Drills and Emergency Exercises
+  - Section 17 Operation
+  - Section 18 Requirements for Methyl Alcohol and/or Ethyl Alcohol Fuel Ready (2022)
+- [[G] Annex 6 Requirements for Ships Using LPG Fuels (2024)](39_G_Annex 6 Requirements for Ships Using LPG Fuels (2024).md)
+  - Section 1 General
+  - Section 2 Goal and Functional Requirements
+  - Section 3 General Requirements
+  - Section 4 Classification and Surveys
+  - Section 5 Ship Design and Arrangement
+  - Section 6 FUEL CONTAINMENT SYSTEM
+  - Section 8 BUNKERING
+  - Section 9 FUEL SUPPLY TO CONSUMERS
+  - Section 10 POWER GENERATION INCLUDING PROPULSION AND OTHER GAS CONSUMER
+  - Section 11 FIRE SAFETY
+  - Section 12 FIRE SAFETY
+  - Section 13 VENTILATION
+  - Section 14 ELECTRICAL INSTALLATIONS
+  - Section 15 CONTROL, MONITORING AND SAFETY SYSTEMS
+  - Section 19 Requiremens for LPG Fuel Ready

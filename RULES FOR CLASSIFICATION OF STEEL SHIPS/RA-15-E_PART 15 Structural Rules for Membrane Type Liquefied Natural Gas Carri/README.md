@@ -1,0 +1,75 @@
+# PART 15 Structural Rules for Membrane Type Liquefied Natural Gas Carriers
+
+> RULES FOR CLASSIFICATION OF STEEL SHIPS / RA-15-E / 2025 / EN
+
+- [[R] Chapter 1 General Principles](01_R_Chapter 1 General Principles.md)
+  - Section 1 - Application
+  - Section 2 - Rule Principles
+  - Section 3 - Verification of Compliance
+  - Section 4 - Symbols and Definitions
+  - Section 5 - Loading Manual and Loading Instrument
+- [[R] Chapter 2 General Arrangement Design](02_R_Chapter 2 General Arrangement Design.md)
+  - Section 6 - General
+  - Section 7 - Subdivision Arrangement
+  - Section 8 - Compartment Arrangement
+  - Section 9 - Access Arrangement
+- [[R] Chapter 3 Structural Design Principles](03_R_Chapter 3 Structural Design Principles.md)
+  - Section 10 - Materials
+  - Section 11 - Net Scantling Approach
+  - Section 12 - Corrosion Additions
+  - Section 13 - Corrosion Protection
+  - Section 14 - Limit States
+  - Section 15 - Structural Detail Principles
+  - Section 16 - Structural Idealisation
+- [[R] Chapter 4 Loads](04_R_Chapter 4 Loads.md)
+  - Section 17 - Introduction
+  - Section 18 - Dynamic load cases
+  - Section 19 - Ship motions and accelerations
+  - Section 20 - Hull girder loads
+  - Section 21 - External loads
+  - Section 22 - Internal loads
+  - Section 23 - Design load scenarios
+- [[R] Chapter 5 Hull Girder Strength](05_R_Chapter 5 Hull Girder Strength.md)
+  - Section 24 - Hull Girder Yield Strength
+  - Appendix 1 – Direct Calculation of Shear Flow
+- [[R] Chapter 6 Hull Local Scantling](06_R_Chapter 6 Hull Local Scantling.md)
+  - Section 25 - General
+  - Section 26 - Load Application
+  - Section 27 - Minimum Thickness
+  - Section 28 - Plating
+  - Section 29 - Stiffeners
+  - Section 30 - Primary Support Members and Pillars
+- [[R] Chapter 7 Direct Strength Analysis](07_R_Chapter 7 Direct Strength Analysis.md)
+  - Section 31 - Strength Assessment
+  - Section 32 - Cargo Hold Structural Strength Analysis
+  - Section 33 - Local Structural Strength Analysis
+- [[R] Chapter 8 Buckling](08_R_Chapter 8 Buckling.md)
+  - Section 34 - General
+  - Section 35 - Slenderness requirements
+  - Section 36 - Prescriptive buckling requirements
+  - Section 37 - Buckling requirements for Direct Strength Analysis
+  - Section 38 - Buckling capacity
+  - Appendix 1 - Stress based reference stresses
+- [[R] Chapter 9 Fatigue](09_R_Chapter 9 Fatigue.md)
+  - Section 39 - General Considerations
+  - Section 40 - Structural Details to be Assessed
+  - Section 41 - Fatigue Evaluation
+  - Section 42 - Simplified Stress Analysis
+  - Section 43 - Finite Element Stress Analysis
+  - Section 44 - Detail Design Standard
+- [[R] Chapter 10 Other Structures](10_R_Chapter 10 Other Structures.md)
+  - Section 45 - Fore Part
+  - Section 46 - Machinery space
+  - Section 47 - Aft part
+- [[R] Chapter 11 Superstructure, Deckhouses and Hull Outfitting](11_R_Chapter 11 Superstructure, Deckhouses and Hull Outfitting.md)
+  - Section 48 - Superstructures, Deckhouses and Companionways
+  - Section 49 - Bulwark and Guard Rails
+  - Section 50 - Equipment
+  - Section 51 - Supporting Structure for Deck Equipment and Fittings
+- [[R] Chapter 12 Construction](12_R_Chapter 12 Construction.md)
+  - Section 52 - Construction and Fabrication
+  - Section 53 - Fabrication by Welding
+  - Section 54 - Design of Weld Joints
+- [[R] Chapter 13 Ship in Operation - Renewal Criteria](13_R_Chapter 13 Ship in Operation - Renewal Criteria.md)
+  - Section 55 - Principles and Survey Requirements
+  - Section 56 - Acceptance Criteria

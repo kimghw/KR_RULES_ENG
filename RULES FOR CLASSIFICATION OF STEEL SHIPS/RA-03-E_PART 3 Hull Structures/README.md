@@ -1,0 +1,206 @@
+# PART 3 Hull Structures
+
+> RULES FOR CLASSIFICATION OF STEEL SHIPS / RA-03-E / 2025 / EN
+
+- [[R] CHAPTER 1 GENERAL](01_R_CHAPTER 1 GENERAL.md)
+  - Section 1 Definitions
+  - Section 2 General
+  - Section 3 Approval of Plans and Documents
+  - Section 4 Materials
+  - Section 5 Weldings
+  - Section 6 Scantlings
+  - Section 7 Workmanship
+  - Section 8 Corrosion Protection Coating (2018)
+- [[R] CHAPTER 2 STEMS AND STERN FRAMES](02_R_CHAPTER 2 STEMS AND STERN FRAMES.md)
+  - Section 1 Stems
+  - Section 2 Stern Frames
+- [[R] CHAPTER 3 LONGITUDINAL STRENGTH](03_R_CHAPTER 3 LONGITUDINAL STRENGTH.md)
+  - Section 1 General
+  - Section 2 Bending Strength
+  - Section 3 Shear Strength
+  - Section 4 Buckling Strength
+- [[R] CHAPTER 4 PLATE KEELS AND SHELL PLATINGS](04_R_CHAPTER 4 PLATE KEELS AND SHELL PLATINGS.md)
+  - Section 1 General
+  - Section 2 Plate Keels
+  - Section 3 Shell Plating below Strength Deck
+  - Section 4 Special Requirements for Shell Plating
+  - Section 5 Side Plating in way of Superstructure
+  - Section 6 Compensation at ends of Superstructure
+  - Section 7 Local Compensation of Shell Plating
+- [[R] CHAPTER 5 DECKS](05_R_CHAPTER 5 DECKS.md)
+  - Section 1 General
+  - Section 2 Effective Sectional Area of Strength Deck
+  - Section 3 Deck Plating
+  - Section 4 Wood Decks and Deck Compositions
+- [[R] CHAPTER 6 SINGLE BOTTOMS](06_R_CHAPTER 6 SINGLE BOTTOMS.md)
+  - Section 1 General
+  - Section 2 Centre Keelsons
+  - Section 3 Side Keelsons
+  - Section 4 Floor Plates
+- [[R] CHAPTER 7 DOUBLE BOTTOMS](07_R_CHAPTER 7 DOUBLE BOTTOMS.md)
+  - Section 1 General
+  - Section 2 Centre Girders and Side Girders
+  - Section 3 Solid Floors
+  - Section 4 Bottom Longitudinals
+  - Section 5 Inner Bottom Plating, Margin Plates and Bottom Shell Plating
+  - Section 6 Hold Frame Brackets
+  - Section 7 Open Floors
+  - Section 8 Construction of Strengthened Bottom Forward
+- [[R] CHAPTER 8 FRAMES](08_R_CHAPTER 8 FRAMES.md)
+  - Section 1 General
+  - Section 2 Frame Spacing
+  - Section 3 Hold Frames
+  - Section 4 Side Longitudinals
+  - Section 5 Tween Deck Frames
+- [[R] CHAPTER 9 WEB FRAMES AND SIDE STRINGERS](09_R_CHAPTER 9 WEB FRAMES AND SIDE STRINGERS.md)
+  - Section 1 General
+  - Section 2 Web Frames
+  - Section 3 Side Stringers
+  - Section 4 Side Transverse
+  - Section 5 Cantilever Beams
+- [[R] CHAPTER 10 BEAMS](10_R_CHAPTER 10 BEAMS.md)
+  - Section 1 General
+  - Section 2 Deck Load
+  - Section 3 Longitudinal Beams
+  - Section 4 Transverse Beams
+- [[R] CHAPTER 11 DECK GIRDERS](11_R_CHAPTER 11 DECK GIRDERS.md)
+  - Section 1 General
+  - Section 2 Longitudinal Deck Girders
+  - Section 3 Transverse Deck Girders
+  - Section 4 Deck Girders in Tanks
+  - Section 5 Hatch Side Girders
+  - Section 6 Hatch End Girders
+- [[R] CHAPTER 12 PILLARS](12_R_CHAPTER 12 PILLARS.md)
+  - Section 1 General
+  - Section 2 Scantling of Pillars
+- [[R] CHAPTER 13 ARRANGEMENTS TO RESIST PANTING](13_R_CHAPTER 13 ARRANGEMENTS TO RESIST PANTING.md)
+  - Section 1 General
+  - Section 2 Arrangements to Resist Panting forward the Collision Bulkhead
+  - Section 3 Arrangements to Resist Panting abaft Aft-peak Bulkhead
+  - Section 4 Arrangements to Resist Panting between Both Peaks
+- [[R] CHAPTER 14 WATERTIGHT BULKHEADS](14_R_CHAPTER 14 WATERTIGHT BULKHEADS.md)
+  - Section 1 General
+  - Section 2 Arrangement of Watertight Bulkheads
+  - Section 3 Construction of Watertight Bulkheads
+  - Section 4 Watertight Doors
+- [[R] CHAPTER 15 DEEP TANKS](15_R_CHAPTER 15 DEEP TANKS.md)
+  - Section 1 General
+  - Section 2 Bulkheads of Deep Tanks
+  - Section 3 Fittings of Deep Tanks
+  - Section 4 Welding of Corrugated Bulkheads (2016)
+- [[R] CHAPTER 16 SUPERSTRUCTURES](16_R_CHAPTER 16 SUPERSTRUCTURES.md)
+  - Section 1 General
+  - Section 2 Superstructure End Bulkheads
+  - Section 3 Access Openings in Superstructure End Bulkheads
+- [[R] CHAPTER 17 DECKHOUSES](17_R_CHAPTER 17 DECKHOUSES.md)
+  - Section 1 General
+  - Section 2 Construction
+- [[R] CHAPTER 18 MACHINERY SPACES AND ENGINE CASINGS](18_R_CHAPTER 18 MACHINERY SPACES AND ENGINE CASINGS.md)
+  - Section 1 General
+  - Section 2 Main Engine Foundation
+  - Section 3 Construction of Boiler Rooms
+  - Section 4 Thrust Blocks and Foundations
+  - Section 5 Engine Casings
+- [[R] CHAPTER 19 TUNNELS AND TUNNEL RECESSES](19_R_CHAPTER 19 TUNNELS AND TUNNEL RECESSES.md)
+  - Section 1 General
+- [[G] CHAPTER 1 GENERAL](20_G_CHAPTER 1 GENERAL.md)
+  - Section 1 Definitions
+  - Section 2 General
+  - Section 4 Materials
+  - Section 5 Welding
+  - Section 6 Scantlings
+  - Section 8 Corrosion Protection Coating (2018)
+- [[G] CHAPTER 2 STEMS AND STERN FRAMES](21_G_CHAPTER 2 STEMS AND STERN FRAMES.md)
+  - Section 1 Stems
+  - Section 2 Stern Frames
+- [[G] CHAPTER 3 LONGITUDINAL STRENGTH](22_G_CHAPTER 3 LONGITUDINAL STRENGTH.md)
+  - Section 1 General
+  - Section 2 Bending Strength
+  - Section 3 Shear Strength
+  - Section 4 Buckling Strength
+- [[G] CHAPTER 4 PLATE KEELS AND SHELL PLATINGS](23_G_CHAPTER 4 PLATE KEELS AND SHELL PLATINGS.md)
+  - Section 1 General
+  - Section 3 Shell Plating below Strength Deck
+  - Section 4 Special Requirements for Shell Plating
+  - Section 6 Compensation at end of Superstructure
+  - Section 7 Local Compensation of Shell Plating
+- [[G] CHAPTER 5 DECKS](24_G_CHAPTER 5 DECKS.md)
+  - Section 1 General
+  - Section 2 Effective Sectional Area of Strength Deck
+  - Section 3 Deck Plating
+- [[G] CHAPTER 7 DOUBLE BOTTOMS](25_G_CHAPTER 7 DOUBLE BOTTOMS.md)
+  - Section 1 General
+  - Section 2 Centre Girders and Side Girders
+  - Section 3 Solid Floors
+  - Section 4 Bottom Longitudinals
+  - Section 5 Inner Bottom Plating, Margin Plates and Bottom Shell Plating
+  - Section 8 Construction of Strengthened Bottom Forward
+- [[G] CHAPTER 8 FRAMES](26_G_CHAPTER 8 FRAMES.md)
+  - Section 1 General
+  - Section 3 Hold Frames
+  - Section 5 Tween Deck Frames
+- [[G] CHAPTER 9 WEB FRAMES AND SIDE STRINGERS](27_G_CHAPTER 9 WEB FRAMES AND SIDE STRINGERS.md)
+  - Section 1 General
+  - Section 4 Side Transverse (2020)
+  - Section 5 Cantilever Beams
+- [[G] CHAPTER 10 BEAMS](28_G_CHAPTER 10 BEAMS.md)
+  - Section 1 General
+  - Section 2 Deck Load
+  - Section 3 Longitudinal Beams
+  - Section 4 Transverse Beams
+- [[G] CHAPTER 11 DECK GIRDERS](29_G_CHAPTER 11 DECK GIRDERS.md)
+  - Section 1 General
+- [[G] CHAPTER 12 PILLARS](30_G_CHAPTER 12 PILLARS.md)
+  - Section 1 General
+  - Section 2 Scantling of Pillars
+- [[G] CHAPTER 13 ARRANGEMENTS TO RESIST PANTING](31_G_CHAPTER 13 ARRANGEMENTS TO RESIST PANTING.md)
+  - Section 1 General
+  - Section 2 Arrangements to Resist Panting forward the Collision Bulkhead
+  - Section 4 Arrangements to Resist Panting between Both Peaks
+- [[G] CHAPTER 14 WATERTIGHT BULKHEAD](32_G_CHAPTER 14 WATERTIGHT BULKHEAD.md)
+  - Section 2 Arrangements of Watertight Bulkheads
+  - Section 3 Construction of Watertight Bulkhead
+  - Section 4 Watertight Door
+- [[G] CHAPTER 15 DEEP TANKS](33_G_CHAPTER 15 DEEP TANKS.md)
+  - Section 1 General
+  - Section 2 Bulkheads of Deep Tank
+- [[G] CHAPTER 16 SUPERSTRUCTURES](34_G_CHAPTER 16 SUPERSTRUCTURES.md)
+  - Section 1 General
+  - Section 3 Access Opening in Superstructure End Bulkheads
+- [[G] CHAPTER 17 DECKHOUSES](35_G_CHAPTER 17 DECKHOUSES.md)
+  - Section 1 General
+- [[G] CHAPTER 18 MACHINERY SPACES AND ENGINE CASING](36_G_CHAPTER 18 MACHINERY SPACES AND ENGINE CASING.md)
+  - Section 2 Main Engine Foundation
+  - Section 3 Construction of Boiler Rooms
+- [[G] CHAPTER 19 TUNNELS AND TUNNEL RECESSES](37_G_CHAPTER 19 TUNNELS AND TUNNEL RECESSES.md)
+  - Section 1 General (2019)
+- [[G] Annex 3-1 Guidance for Survey and Composition of Loading Manuals](38_G_Annex 3-1 Guidance for Survey and Composition of Loading Manuals.md)
+  - 1. Composition of loading manual
+  - 2. Contents is to be included in 'General'
+  - 3. Standard loading condition
+  - 4. Allowable values for longitudinal strength
+  - 5. Composition of loading manual
+  - 6. Guidelines for ballast loading conditions of cargo vessels involving partially filled ballast tanks (2022)
+- [[G] Annex 3-2 Guidance for the Direct Strength Assessment](39_G_Annex 3-2 Guidance for the Direct Strength Assessment.md)
+  - I. General
+  - II. Direct Global Structural Analysis
+  - III. Guidance for the Hold Analysis
+  - IV. Buckling strength calculation (2020)
+- [[G] Annex 3-3 Guidance for the Fatigue Strength Assessment of Ship Structures](40_G_Annex 3-3 Guidance for the Fatigue Strength Assessment of Ship Structu.md)
+  - 1. General (2020)
+  - 2. Definition of stress
+  - 3. Fatigue life assessment
+  - 4. Simplified fatigue analysis
+  - 5. Fatigue analysis by hold analysis
+  - 6. Spectral fatigue analysis
+  - 7. Transfer function method
+- [[G] Annex 3-4 Guidance for the Hull Construction Monitoring Procedure](41_G_Annex 3-4 Guidance for the Hull Construction Monitoring Procedure.md)
+  - 1. General
+  - 2. Hull Construction Monitoring Standard
+  - 3. Phase 1 - Plan Development and Approval
+  - 4. Phase 2 - Construction Monitoring
+  - 5. Construction Monitoring Compliance
+  - 6. Phase 3 - Lifetime Application
+- [[G] Annex 3-5 Guidance for structural members for ships intended to carry out the steel coils](42_G_Annex 3-5 Guidance for structural members for ships intended to carry.md)
+  - 1. Application
+  - 7. Arrangement of steel coils between floors
